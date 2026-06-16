@@ -14,4 +14,4 @@ The project requires:
 Depending on the environment, Playwright browsers may need to be installed with:
 
 ```bash
-python -m playwright install chromium'
+python -m playwright install chromium
