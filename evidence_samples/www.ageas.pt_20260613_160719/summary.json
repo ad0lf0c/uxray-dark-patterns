@@ -1,0 +1,28 @@
+{
+  "url_requested": "https://www.ageas.pt",
+  "url_final": "https://www.ageas.pt/particulares/",
+  "title": "Ageas Seguros | Um mundo para proteger o seu",
+  "output_dir": "evidence/www.ageas.pt_20260613_160719",
+  "stats": {
+    "visible_text_chars": 7920,
+    "buttons_links_count": 300,
+    "forms_count": 8,
+    "checkboxes_radios_count": 18,
+    "keyword_hits_count": 4
+  },
+  "keyword_hits": [
+    "cookies",
+    "rejeitar",
+    "cookies",
+    "subscrever"
+  ],
+  "files": {
+    "screenshot": "screenshot.png",
+    "html": "page.html",
+    "visible_text": "visible_text.txt",
+    "buttons": "buttons.json",
+    "forms": "forms.json",
+    "checkboxes": "checkboxes.json",
+    "summary": "summary.json"
+  }
+}

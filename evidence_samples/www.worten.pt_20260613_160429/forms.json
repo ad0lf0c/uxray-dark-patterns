@@ -1,0 +1,18 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.worten.pt/search",
+    "method": "get",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "search",
+        "name": "query",
+        "placeholder": "O que estás à procura?",
+        "checked": false,
+        "value": null
+      }
+    ]
+  }
+]

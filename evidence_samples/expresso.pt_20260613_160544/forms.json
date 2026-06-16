@@ -1,0 +1,34 @@
+[
+  {
+    "index": 0,
+    "action": "https://expresso.pt/procura",
+    "method": "get",
+    "text": "Pesquisar",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "search",
+        "name": "q",
+        "placeholder": "temas, artigos, autores...",
+        "checked": false,
+        "value": null
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "action": "https://expresso.pt/procura",
+    "method": "get",
+    "text": "Pesquisar",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "search",
+        "name": "q",
+        "placeholder": "temas, artigos, autores...",
+        "checked": false,
+        "value": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.auchan.pt/pt/pesquisa",
+    "method": "get",
+    "text": "Pesquisar",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "q",
+        "placeholder": " ",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "lang",
+        "placeholder": null,
+        "checked": false,
+        "value": "null"
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "action": "https://www.auchan.pt/on/demandware.store/Sites-AuchanPT-Site/pt_PT/Cart-SavePreparationNotes",
+    "method": "post",
+    "text": "Gravar",
+    "inputs": [
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "name": "preparationNotes",
+        "placeholder": "Indique o que pretende",
+        "checked": false,
+        "value": "                    "
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "pid",
+        "placeholder": null,
+        "checked": false,
+        "value": "null"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "uuid",
+        "placeholder": null,
+        "checked": false,
+        "value": "null"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "savedNotes",
+        "placeholder": null,
+        "checked": false,
+        "value": "null"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "csrf_token",
+        "placeholder": null,
+        "checked": false,
+        "value": "SCUNCoLLcN6fEpi0DETvhE5ovyuphTABb1PtHb1E66O1K6_STB6rgqq00rfzK4kHlOXYX4-pGYWM1BzBlegp0rc07BW66xCnEUJSOClaCUX9Qj2jTq4DC_NuWBclZUTY_JtR3ulk0I5iNjMZjqG3y1I_C8MmLa2jxGuRYEIwqVROtzGeKfQ="
+      }
+    ]
+  }
+]

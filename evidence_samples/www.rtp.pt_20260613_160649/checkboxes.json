@@ -1,0 +1,18 @@
+[
+  {
+    "index": 0,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "Toggle Menu",
+    "id": "uninav-menu-state"
+  },
+  {
+    "index": 1,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "",
+    "id": "uninav-search-state"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "index": 0,
+    "type": "checkbox",
+    "name": "input_declare",
+    "checked": false,
+    "label": "",
+    "id": "input_declare"
+  }
+]

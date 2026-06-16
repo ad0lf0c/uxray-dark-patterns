@@ -1,0 +1,28 @@
+{
+  "url_requested": "https://www.continente.pt",
+  "url_final": "https://www.continente.pt/",
+  "title": "Continente Online | O seu supermercado online",
+  "output_dir": "evidence/www.continente.pt_20260613_160453",
+  "stats": {
+    "visible_text_chars": 15575,
+    "buttons_links_count": 2148,
+    "forms_count": 2,
+    "checkboxes_radios_count": 10,
+    "keyword_hits_count": 4
+  },
+  "keyword_hits": [
+    "cookies",
+    "rejeitar",
+    "cookies",
+    "subscrever"
+  ],
+  "files": {
+    "screenshot": "screenshot.png",
+    "html": "page.html",
+    "visible_text": "visible_text.txt",
+    "buttons": "buttons.json",
+    "forms": "forms.json",
+    "checkboxes": "checkboxes.json",
+    "summary": "summary.json"
+  }
+}

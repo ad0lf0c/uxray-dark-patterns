@@ -1,0 +1,170 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.ageas.pt/particulares/",
+    "method": "get",
+    "text": "O que pretende  pesquisar?\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tEste campo é obrigatório",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "search",
+        "placeholder": "Procurar...",
+        "checked": false,
+        "value": null
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "action": "https://www.ageas.pt/particulares/",
+    "method": "get",
+    "text": "Código Postal\n\t\t\t\t\t\t\t\t\t\t\t\tCampo Obrigatório\n\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\tFechar simulador",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "number",
+        "name": "postalCode1",
+        "placeholder": "1000",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "number",
+        "name": "postalCode2",
+        "placeholder": "100",
+        "checked": false,
+        "value": null
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "action": "https://www.ageas.pt/particulares/",
+    "method": "get",
+    "text": "Idade\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\tFechar simulador",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "number",
+        "name": "age",
+        "placeholder": "25",
+        "checked": false,
+        "value": null
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "action": "https://www.ageas.pt/particulares/",
+    "method": "get",
+    "text": "Nº de pessoas\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t9,90\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t €/mês\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\tFechar simulador",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "number",
+        "name": null,
+        "placeholder": null,
+        "checked": false,
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "index": 4,
+    "action": "https://www.ageas.pt/particulares/",
+    "method": "get",
+    "text": "Cão\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\tGato\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\tFechar simulador",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "radio",
+        "name": "group1",
+        "placeholder": null,
+        "checked": false,
+        "value": "on"
+      },
+      {
+        "tag": "input",
+        "type": "radio",
+        "name": "group1",
+        "placeholder": null,
+        "checked": false,
+        "value": "on"
+      }
+    ]
+  },
+  {
+    "index": 5,
+    "action": "https://www.ageas.pt/particulares/",
+    "method": "get",
+    "text": "Encontre um Mediador\n\nMEDIADOR\nLOCALIZAÇÃO\nPROCURAR",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "name",
+        "placeholder": "Nome do Mediador",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": null,
+        "placeholder": "Concelho ou código postal",
+        "checked": false,
+        "value": null
+      }
+    ]
+  },
+  {
+    "index": 6,
+    "action": "https://www.ageas.pt/particulares/",
+    "method": "get",
+    "text": "Pedido de contacto\n\t\t\t\t\n\n\t\t\t\tPreencha o formulário e receberá um contacto em breve.\n\n\n\t\t\t\t\n\n\n\t\t\t\n             \n                \n                Sou Cliente\n            \n             \n                \n                Não sou Cliente\n            \n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tEnviar pedido",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "radio",
+        "name": "group340412",
+        "placeholder": null,
+        "checked": false,
+        "value": "on"
+      },
+      {
+        "tag": "input",
+        "type": "radio",
+        "name": "group340412",
+        "placeholder": null,
+        "checked": false,
+        "value": "on"
+      }
+    ]
+  },
+  {
+    "index": 7,
+    "action": "https://www.ageas.pt/particulares/",
+    "method": "get",
+    "text": "Pedido de contacto\n\t\t\t\t\n\n\t\t\t\tPreencha o formulário e receberá um contacto em breve.\n\n\n\t\t\t\t\n\n\n\t\t\t\n             \n                \n                Sou Cliente\n            \n             \n                \n                Não sou Cliente\n            \n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tEnviar pedido",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "radio",
+        "name": "group6316",
+        "placeholder": null,
+        "checked": false,
+        "value": "on"
+      },
+      {
+        "tag": "input",
+        "type": "radio",
+        "name": "group6316",
+        "placeholder": null,
+        "checked": false,
+        "value": "on"
+      }
+    ]
+  }
+]

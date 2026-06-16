@@ -1,0 +1,27 @@
+{
+  "url_requested": "https://expresso.pt",
+  "url_final": "https://expresso.pt/",
+  "title": "",
+  "output_dir": "evidence/expresso.pt_20260613_160544",
+  "stats": {
+    "visible_text_chars": 29382,
+    "buttons_links_count": 661,
+    "forms_count": 2,
+    "checkboxes_radios_count": 1,
+    "keyword_hits_count": 3
+  },
+  "keyword_hits": [
+    "cookies",
+    "cookies",
+    "subscrever"
+  ],
+  "files": {
+    "screenshot": "screenshot.png",
+    "html": "page.html",
+    "visible_text": "visible_text.txt",
+    "buttons": "buttons.json",
+    "forms": "forms.json",
+    "checkboxes": "checkboxes.json",
+    "summary": "summary.json"
+  }
+}

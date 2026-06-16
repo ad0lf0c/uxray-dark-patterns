@@ -1,0 +1,95 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.vodafone.pt/",
+    "method": "get",
+    "text": "Esqueceu-se da palavra-passe?\n Digite aqui o seu endereço eletrónico e vamos enviar-lhe um email para configurar uma nova palavra-passe. Caso pretenda recuperar a palavra-passe via telemóvel, envie uma SMS com o texto Pass para o 1551. Email  \n                    Erro\n                  O utilizador inserido está incorreto  \n                    Erro\n                  Dificuldades a processar o seu pedido.Por favor tente novamente mais tarde.  \n                    Erro\n                  Por favor preencha este campo  \n                    Erro\n                  A recuperação via número de telemóvel deve ser feita através do envio do texto <b>Pass</b> para o 1551.   Continuar  \nCancelar",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "login__name",
+        "placeholder": "Email",
+        "checked": false,
+        "value": null
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "action": "https://www.vodafone.pt/",
+    "method": "get",
+    "text": "Recuperação de palavra-passe\n Foi enviada uma SMS para o Nº de Telemóvel inserido com a sua nova palavra-passe temporária. Por favor utilize a mesma para proceder ao seu próximo login. Caso o seu email seja válido, irá receber um email para definir uma nova palavra-passe. Por favor utilize a mesma para proceder ao seu próximo login. Continuar",
+    "inputs": []
+  },
+  {
+    "index": 2,
+    "action": "https://www.vodafone.pt/",
+    "method": "post",
+    "text": "login_label\nNº de Telemóvel ou Email\nPalavra-passe\n Guardar o meu nome de utilizador\nEntrar\nObter nova palavra-passe",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "login__name",
+        "placeholder": "Nº Telemóvel / Email",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "password",
+        "name": "login__password",
+        "placeholder": "A sua palavra-passe",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "login__remember-me",
+        "placeholder": null,
+        "checked": true,
+        "value": "on"
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "action": "https://www.vodafone.pt/",
+    "method": "post",
+    "text": "Lamentamos\n                  Não foi possível enviar novo e-mail, por favor, tente novamente.  \n                    O seu email ainda não foi ativado\n                  Se desejar receber novo link de ativação, por favor carregue em \"Enviar de novo\". Caso contrário, por favor verifique a sua conta de email.  Enviar de novo  \nVoltar para Login",
+    "inputs": []
+  },
+  {
+    "index": 4,
+    "action": "https://www.vodafone.pt/",
+    "method": "get",
+    "text": "A sua conta está bloqueada\n                  Para proceder ao desbloqueio da conta, por favor clique no botão em baixo.É necessário efetuar a recuperação de palavra-passe para continuar. Recuperar Palavra-passe",
+    "inputs": []
+  },
+  {
+    "index": 5,
+    "action": "https://www.vodafone.pt/",
+    "method": "get",
+    "text": "Erro\n                  A nova palavra-passe não poderá ser igual às últimas 3. Nova palavra-passe  \n                    Erro\n                  Introduziu um caracter inválido  \n        Grau de Segurança\n            \n        A nova palavra-passe não poderá ser igual às últimas 3.\n        Para tornar a palavra-passe mais segura inclua maiúsculas, dígitos e caracteres especiais (permitidos: @ - _ + / \\ # $ % ! ? : . ( ) { } [ ] ^ ~)\n     Confirmar palavra-passe  \n                    Erro\n                  Os dados inseridos nos campos Nova Palavra-passe e Confirmar Palavra-passe não coincidem   Continuar",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "password",
+        "name": "change-pass-password",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "password",
+        "name": "change-pass-confirm",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      }
+    ]
+  }
+]

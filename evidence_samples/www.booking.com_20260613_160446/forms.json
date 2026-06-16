@@ -1,0 +1,26 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.booking.com/searchresults.html",
+    "method": "get",
+    "text": "Check-in date - Check-out date\n2 adults · 0 children · 1 room\nSearch\nAdd flights to my search",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "ss",
+        "placeholder": "Where are you going?",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "sb_flight_search",
+        "placeholder": null,
+        "checked": false,
+        "value": "flight"
+      }
+    ]
+  }
+]

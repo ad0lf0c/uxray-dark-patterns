@@ -1,0 +1,42 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.nos.pt/",
+    "method": "get",
+    "text": "Código Postal\n\t\t\t\n\t\t\tFormato: 0000-000\n\t\t\n\t\t\n\t\t\n\t\t\tTelemóvel\n\t\t\t\n\t\t\n\t\n\n\t\n\t\t\n\t\t\tTestar cobertura\n\t\t\n\t\n\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tAceito o tratamento destes dados para comunicações de produtos e serviços da NOS.\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tLer mais\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t Estes dados serão utilizados  para o conhecer melhor e enviar propostas de produtos e serviços, informação acerca de temas da sua preferência, benefícios ou promoções. Estes dados são guardados por um período máximo de 24 meses, caso não tenha ou não venha a celebrar um contrato com a NOS.\nAceito o tratamento dos dados de identificação recolhidos pela NOS para efeitos de comunicações de produtos e serviços da NOS por email, SMS e/ou chamadas telefónicas. Caso opte livremente por não assinalar, iremos considerar a última informação que tivermos sobre se consente ou não o envio de comunicações de produtos e serviços da NOS. Para gerir os seus consentimentos ligue 16101.\n \n\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "form-coverage-validation-compact-codpost",
+        "placeholder": "Código Postal",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "form-coverage-validation-compact-phone",
+        "placeholder": "Telemóvel",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "form-consents__checkbox",
+        "placeholder": null,
+        "checked": false,
+        "value": "on"
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "read-more-declaration",
+        "placeholder": null,
+        "checked": false,
+        "value": "on"
+      }
+    ]
+  }
+]

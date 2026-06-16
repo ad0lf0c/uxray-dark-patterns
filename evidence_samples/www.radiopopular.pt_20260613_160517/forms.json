@@ -1,0 +1,50 @@
+[
+  {
+    "index": 0,
+    "action": "https://translate.googleapis.com/translate_voting?client=te",
+    "method": "post",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "sl",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "tl",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "query",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "gtrans",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "vote",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      }
+    ]
+  }
+]

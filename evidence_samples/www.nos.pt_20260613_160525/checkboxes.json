@@ -1,0 +1,18 @@
+[
+  {
+    "index": 0,
+    "type": "checkbox",
+    "name": "form-consents__checkbox",
+    "checked": false,
+    "label": "",
+    "id": "form-consents__checkbox"
+  },
+  {
+    "index": 1,
+    "type": "checkbox",
+    "name": "read-more-declaration",
+    "checked": false,
+    "label": "Ler mais",
+    "id": "read-more-declaration"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "index": 0,
+    "type": "checkbox",
+    "name": "sb_flight_search",
+    "checked": false,
+    "label": "Add flights to my search",
+    "id": ":R1emr5:"
+  }
+]

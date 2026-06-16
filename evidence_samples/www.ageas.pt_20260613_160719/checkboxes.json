@@ -1,0 +1,146 @@
+[
+  {
+    "index": 0,
+    "type": "radio",
+    "name": "group1",
+    "checked": false,
+    "label": "Cão",
+    "id": "radio2"
+  },
+  {
+    "index": 1,
+    "type": "radio",
+    "name": "group1",
+    "checked": false,
+    "label": "Gato",
+    "id": "radio3"
+  },
+  {
+    "index": 2,
+    "type": "radio",
+    "name": "group340412",
+    "checked": false,
+    "label": "Sou Cliente",
+    "id": "radio340413"
+  },
+  {
+    "index": 3,
+    "type": "radio",
+    "name": "group340412",
+    "checked": false,
+    "label": "Não sou Cliente",
+    "id": "radio340454"
+  },
+  {
+    "index": 4,
+    "type": "radio",
+    "name": "group6316",
+    "checked": false,
+    "label": "Sou Cliente",
+    "id": "radio6317"
+  },
+  {
+    "index": 5,
+    "type": "radio",
+    "name": "group6316",
+    "checked": false,
+    "label": "Não sou Cliente",
+    "id": "radio6318"
+  },
+  {
+    "index": 6,
+    "type": "checkbox",
+    "name": "storage-access",
+    "checked": false,
+    "label": "",
+    "id": "ot-group-id-C0001-toggle"
+  },
+  {
+    "index": 7,
+    "type": "checkbox",
+    "name": "ot-group-id-C0001",
+    "checked": true,
+    "label": "Cookies estritamente necessários",
+    "id": "ot-group-id-C0001"
+  },
+  {
+    "index": 8,
+    "type": "checkbox",
+    "name": "storage-access",
+    "checked": false,
+    "label": "",
+    "id": "ot-group-id-C0002-toggle"
+  },
+  {
+    "index": 9,
+    "type": "checkbox",
+    "name": "ot-group-id-C0002",
+    "checked": false,
+    "label": "Cookies de desempenho",
+    "id": "ot-group-id-C0002"
+  },
+  {
+    "index": 10,
+    "type": "checkbox",
+    "name": "storage-access",
+    "checked": false,
+    "label": "",
+    "id": "ot-group-id-C0003-toggle"
+  },
+  {
+    "index": 11,
+    "type": "checkbox",
+    "name": "ot-group-id-C0003",
+    "checked": false,
+    "label": "Cookies de funcionalidade",
+    "id": "ot-group-id-C0003"
+  },
+  {
+    "index": 12,
+    "type": "checkbox",
+    "name": "storage-access",
+    "checked": false,
+    "label": "",
+    "id": "ot-group-id-C0004-toggle"
+  },
+  {
+    "index": 13,
+    "type": "checkbox",
+    "name": "ot-group-id-C0004",
+    "checked": false,
+    "label": "Cookies de publicidade",
+    "id": "ot-group-id-C0004"
+  },
+  {
+    "index": 14,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "Information storage and access",
+    "id": "storage-access-group"
+  },
+  {
+    "index": 15,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "Select All Vendors",
+    "id": "select-all-vendor-leg-handler"
+  },
+  {
+    "index": 16,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "Select All Vendors",
+    "id": "select-all-vendor-groups-handler"
+  },
+  {
+    "index": 17,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "All Consent Allowed",
+    "id": "select-all-hosts-groups-handler"
+  }
+]

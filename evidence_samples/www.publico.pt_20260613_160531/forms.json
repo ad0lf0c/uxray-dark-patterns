@@ -1,0 +1,98 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.publico.pt/pesquisa",
+    "method": "get",
+    "text": "Pesquise no Público",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "search",
+        "name": "query",
+        "placeholder": "Termos a pesquisar",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": null,
+        "placeholder": null,
+        "checked": false,
+        "value": "Pesquisar"
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "action": "https://www.publico.pt/pesquisa",
+    "method": "get",
+    "text": "Pesquise no Público",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "search",
+        "name": "query",
+        "placeholder": "Termos a pesquisar",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": null,
+        "placeholder": null,
+        "checked": false,
+        "value": "Pesquisar"
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "action": "https://www.publico.pt/pesquisa",
+    "method": "get",
+    "text": "Pesquise no Público",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "search",
+        "name": "query",
+        "placeholder": "Termos a pesquisar",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": null,
+        "placeholder": null,
+        "checked": false,
+        "value": "Pesquisar"
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "action": "https://www.publico.pt/pesquisa",
+    "method": "get",
+    "text": "Pesquise no Público",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "search",
+        "name": "query",
+        "placeholder": "Termos a pesquisar",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": null,
+        "placeholder": null,
+        "checked": false,
+        "value": "Pesquisar"
+      }
+    ]
+  }
+]

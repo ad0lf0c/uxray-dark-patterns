@@ -1,0 +1,23 @@
+{
+  "url_requested": "https://www.fnac.pt",
+  "url_final": "https://www.fnac.pt/",
+  "title": "fnac.pt",
+  "output_dir": "evidence/www.fnac.pt_20260613_160604",
+  "stats": {
+    "visible_text_chars": 0,
+    "buttons_links_count": 0,
+    "forms_count": 0,
+    "checkboxes_radios_count": 0,
+    "keyword_hits_count": 0
+  },
+  "keyword_hits": [],
+  "files": {
+    "screenshot": "screenshot.png",
+    "html": "page.html",
+    "visible_text": "visible_text.txt",
+    "buttons": "buttons.json",
+    "forms": "forms.json",
+    "checkboxes": "checkboxes.json",
+    "summary": "summary.json"
+  }
+}

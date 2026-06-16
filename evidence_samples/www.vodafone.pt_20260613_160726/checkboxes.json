@@ -1,0 +1,34 @@
+[
+  {
+    "index": 0,
+    "type": "checkbox",
+    "name": "settings",
+    "checked": false,
+    "label": "",
+    "id": "cookiesCheckboxOne"
+  },
+  {
+    "index": 1,
+    "type": "checkbox",
+    "name": "settings",
+    "checked": false,
+    "label": "",
+    "id": "cookiesCheckboxTwo"
+  },
+  {
+    "index": 2,
+    "type": "checkbox",
+    "name": "settings",
+    "checked": false,
+    "label": "",
+    "id": "cookiesCheckboxThree"
+  },
+  {
+    "index": 3,
+    "type": "checkbox",
+    "name": "login__remember-me",
+    "checked": true,
+    "label": "Guardar o meu nome de utilizador",
+    "id": "login__remember-me"
+  }
+]

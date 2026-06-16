@@ -1,0 +1,82 @@
+[
+  {
+    "index": 0,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "Alerta campanhas falsas em sites e redes não oficiais Lidl",
+    "id": "a-product-recall-new-template-10096013-10200307"
+  },
+  {
+    "index": 1,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "INFORMAÇÃO AO CONSUMIDOR",
+    "id": "a-product-recall-new-template-10144988-13691022"
+  },
+  {
+    "index": 2,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "",
+    "id": "a-product-lightbox-new-template-13691022-10144988-Caixa de cereais de chocolate com flocos de cacau e leite, com indicação de cereais integrais e Nutri-Score."
+  },
+  {
+    "index": 3,
+    "type": "checkbox",
+    "name": "ot-group-id-C0002",
+    "checked": false,
+    "label": "Conforto",
+    "id": "ot-group-id-C0002"
+  },
+  {
+    "index": 4,
+    "type": "checkbox",
+    "name": "ot-group-id-C0003",
+    "checked": false,
+    "label": "Estatísticas",
+    "id": "ot-group-id-C0003"
+  },
+  {
+    "index": 5,
+    "type": "checkbox",
+    "name": "ot-group-id-C0004",
+    "checked": false,
+    "label": "Marketing",
+    "id": "ot-group-id-C0004"
+  },
+  {
+    "index": 6,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "checkbox label",
+    "id": "chkbox-id"
+  },
+  {
+    "index": 7,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "checkbox label",
+    "id": "select-all-hosts-groups-handler"
+  },
+  {
+    "index": 8,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "checkbox label",
+    "id": "select-all-vendor-groups-handler"
+  },
+  {
+    "index": 9,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "checkbox label",
+    "id": "select-all-vendor-leg-handler"
+  }
+]
