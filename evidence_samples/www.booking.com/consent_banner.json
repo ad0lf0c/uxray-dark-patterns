@@ -1,0 +1,138 @@
+{
+  "detected": true,
+  "selector_matched": "#onetrust-banner-sdk",
+  "banner_text": "Gerir definições de cookies\n\nQuando usa Booking.com, nós (Booking.com e os nossos parceiros) usamos as seguintes categorias de cookies (e tecnologias semelhantes) que exigem o seu consentimento: cookies analíticos e cookies de publicidade.\n\nCookies analíticos\n\nNós e os nossos parceiros usamos cookies analíticos para obter informações sobre a forma como usa o nosso serviço, que são usadas para perceber como visitantes semelhantes a si usam a nossa plataforma e para melhorar o desempenho do nosso website e serviços.\n\nCookies de publicidade\n\nNós e os nossos parceiros usamos cookies de publicidade, incluindo cookies de redes sociais, para recolher informações sobre o seu comportamento nesta plataforma, o que nos ajuda a decidir que produtos lhe mostrar dentro e fora da nossa plataforma, e para apresentar conteúdos e anúncios personalizados em Booking.com e noutras plataformas. O conteúdo personalizado é baseado no seu comportamento e nos serviços reservados. Estes cookies também permitem que partilhe ou marque “Gosto” nas páginas das redes sociais.\n\nAo selecionar “Aceitar”, concorda com a utilização de cookies analíticos e de marketing e com o respetivo processamento dos seus dados pessoais. Pode atualizar o seu consentimento para cada plataforma em qualquer altura. Para o website, através de \"Gerir definições de cookies\" no rodapé; para a app, através de \"A minha conta/Iniciar sessão\" > \"Preferências do dispositivo\" > \"Gerir definições de privacidade\".\n\nAo selecionar “Recusar”, terá uma experiência menos personalizada na nossa plataforma.\n\nPode encontrar mais informações sobre o processamento relevante de dados pessoais na Declaração de Privacidade.\n\nGerir definições\nRecusar\nAceitar",
+  "buttons": [
+    {
+      "index": 0,
+      "tag": "button",
+      "text": "Gerir definições",
+      "id": "onetrust-pc-btn-handler",
+      "class": "cookie-setting-link",
+      "visible": true,
+      "x": 1105,
+      "y": 1153,
+      "width": 125,
+      "height": 16,
+      "area": 1951,
+      "color": "rgb(0, 108, 228)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "13.008px",
+      "fontWeight": "600",
+      "border": "0px none rgb(0, 108, 228)",
+      "opacity": "1"
+    },
+    {
+      "index": 1,
+      "tag": "button",
+      "text": "Recusar",
+      "id": "onetrust-reject-all-handler",
+      "class": "",
+      "visible": true,
+      "x": 1105,
+      "y": 1049,
+      "width": 125,
+      "height": 42,
+      "area": 5201,
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(0, 108, 228)",
+      "fontSize": "13.008px",
+      "fontWeight": "600",
+      "border": "1px solid rgb(0, 108, 228)",
+      "opacity": "1"
+    },
+    {
+      "index": 2,
+      "tag": "button",
+      "text": "Aceitar",
+      "id": "onetrust-accept-btn-handler",
+      "class": "",
+      "visible": true,
+      "x": 1105,
+      "y": 1101,
+      "width": 125,
+      "height": 42,
+      "area": 5201,
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(0, 108, 228)",
+      "fontSize": "13.008px",
+      "fontWeight": "600",
+      "border": "1px solid rgb(0, 108, 228)",
+      "opacity": "1"
+    }
+  ],
+  "checkboxes": [],
+  "has_accept_all": false,
+  "has_reject_all": false,
+  "has_manage_options": true,
+  "accept_reject_area_ratio": null,
+  "preference_panel": {
+    "checkboxes": [
+      {
+        "index": 0,
+        "name": "sb_flight_search",
+        "id": ":R5qmr5:",
+        "checked": false,
+        "disabled": false,
+        "label": "Adicionar voos à minha pesquisa"
+      },
+      {
+        "index": 1,
+        "name": "ot-group-id-C0002",
+        "id": "ot-group-id-C0002",
+        "checked": false,
+        "disabled": false,
+        "label": "Cookies analíticos"
+      },
+      {
+        "index": 2,
+        "name": "ot-group-id-C0004",
+        "id": "ot-group-id-C0004",
+        "checked": false,
+        "disabled": false,
+        "label": "Cookies de publicidade"
+      },
+      {
+        "index": 3,
+        "name": null,
+        "id": "select-all-hosts-groups-handler",
+        "checked": false,
+        "disabled": false,
+        "label": "checkbox label"
+      },
+      {
+        "index": 4,
+        "name": null,
+        "id": "select-all-vendor-groups-handler",
+        "checked": false,
+        "disabled": false,
+        "label": "checkbox label"
+      },
+      {
+        "index": 5,
+        "name": null,
+        "id": "select-all-vendor-leg-handler",
+        "checked": false,
+        "disabled": false,
+        "label": "checkbox label"
+      },
+      {
+        "index": 6,
+        "name": null,
+        "id": "chkbox-id",
+        "checked": false,
+        "disabled": false,
+        "label": "checkbox label"
+      }
+    ],
+    "total_count": 7,
+    "pre_checked_non_essential_count": 0,
+    "pre_checked_non_essential": []
+  },
+  "dismiss_method": "escape_key",
+  "screenshots": [
+    "screenshot_with_banner.png",
+    "screenshot_consent_preferences.png"
+  ],
+  "errors": []
+}

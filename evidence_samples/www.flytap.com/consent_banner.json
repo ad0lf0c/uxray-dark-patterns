@@ -1,0 +1,56 @@
+{
+  "detected": true,
+  "selector_matched": "#onetrust-banner-sdk",
+  "banner_text": "Ao clicar em \"Aceitar todos os cookies\", concorda com o armazenamento de cookies no seu dispositivo para melhorar a navegação no site, analisar a utilização do site, ajudar nas nossas iniciativas de marketing e personalização de anuncios.Política de Privacidade\nDefinições de cookies Aceitar todos os cookies",
+  "buttons": [
+    {
+      "index": 0,
+      "tag": "button",
+      "text": "Definições de cookies",
+      "id": "onetrust-pc-btn-handler",
+      "class": "cookie-setting-link",
+      "visible": true,
+      "x": 933,
+      "y": 1134,
+      "width": 141,
+      "height": 40,
+      "area": 5603,
+      "color": "rgb(18, 112, 69)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "fontSize": "13.008px",
+      "fontWeight": "600",
+      "border": "0px none rgb(18, 112, 69)",
+      "opacity": "1"
+    },
+    {
+      "index": 1,
+      "tag": "button",
+      "text": "Aceitar todos os cookies",
+      "id": "onetrust-accept-btn-handler",
+      "class": "",
+      "visible": true,
+      "x": 1092,
+      "y": 1133,
+      "width": 180,
+      "height": 42,
+      "area": 7484,
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(18, 112, 69)",
+      "fontSize": "13.008px",
+      "fontWeight": "600",
+      "border": "1px solid rgb(18, 112, 69)",
+      "opacity": "1"
+    }
+  ],
+  "checkboxes": [],
+  "has_accept_all": false,
+  "has_reject_all": false,
+  "has_manage_options": false,
+  "accept_reject_area_ratio": null,
+  "preference_panel": null,
+  "dismiss_method": "escape_key",
+  "screenshots": [
+    "screenshot_with_banner.png"
+  ],
+  "errors": []
+}

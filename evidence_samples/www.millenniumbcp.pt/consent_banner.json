@@ -1,0 +1,154 @@
+{
+  "detected": true,
+  "selector_matched": "#onetrust-banner-sdk",
+  "banner_text": "Sobre os nossos cookies\nO site do Millennium usa cookies próprios e de terceiros para melhorar a sua experiência, mostrar anúncios personalizados e para fins estatísticos. Pode aceitar a utilização de todos os cookies ou ajustar as suas preferências. Saiba mais sobre a forma como os usamos na nossa Política de Cookies.\nGerir preferências\nRejeitar todos Aceitar todos os cookies",
+  "buttons": [
+    {
+      "index": 0,
+      "tag": "button",
+      "text": "Gerir preferências",
+      "id": "onetrust-pc-btn-handler",
+      "class": "",
+      "visible": true,
+      "x": 47,
+      "y": 1113,
+      "width": 200,
+      "height": 50,
+      "area": 10011,
+      "color": "rgb(46, 54, 65)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "border": "1px solid rgb(46, 54, 65)",
+      "opacity": "1"
+    },
+    {
+      "index": 1,
+      "tag": "button",
+      "text": "Rejeitar todos",
+      "id": "onetrust-reject-all-handler",
+      "class": "",
+      "visible": true,
+      "x": 284,
+      "y": 1113,
+      "width": 167,
+      "height": 50,
+      "area": 8358,
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(46, 54, 65)",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "border": "1px solid rgb(46, 54, 65)",
+      "opacity": "1"
+    },
+    {
+      "index": 2,
+      "tag": "button",
+      "text": "Aceitar todos os cookies",
+      "id": "onetrust-accept-btn-handler",
+      "class": "",
+      "visible": true,
+      "x": 471,
+      "y": 1113,
+      "width": 254,
+      "height": 50,
+      "area": 12707,
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(46, 54, 65)",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "border": "1px solid rgb(46, 54, 65)",
+      "opacity": "1"
+    }
+  ],
+  "checkboxes": [],
+  "has_accept_all": false,
+  "has_reject_all": true,
+  "has_manage_options": true,
+  "accept_reject_area_ratio": null,
+  "preference_panel": {
+    "checkboxes": [
+      {
+        "index": 0,
+        "name": "checkbox1",
+        "id": "checkbox1",
+        "checked": false,
+        "disabled": false,
+        "label": "Abrir menu"
+      },
+      {
+        "index": 1,
+        "name": null,
+        "id": "changeLng",
+        "checked": false,
+        "disabled": false,
+        "label": "Idioma\nPT\nEN Idioma"
+      },
+      {
+        "index": 2,
+        "name": "ot-group-id-C0003",
+        "id": "ot-group-id-C0003",
+        "checked": false,
+        "disabled": false,
+        "label": ""
+      },
+      {
+        "index": 3,
+        "name": "ot-group-id-C0004",
+        "id": "ot-group-id-C0004",
+        "checked": false,
+        "disabled": false,
+        "label": ""
+      },
+      {
+        "index": 4,
+        "name": "ot-group-id-C0002",
+        "id": "ot-group-id-C0002",
+        "checked": false,
+        "disabled": false,
+        "label": ""
+      },
+      {
+        "index": 5,
+        "name": null,
+        "id": "chkbox-id",
+        "checked": false,
+        "disabled": false,
+        "label": "checkbox label"
+      },
+      {
+        "index": 6,
+        "name": null,
+        "id": "select-all-hosts-groups-handler",
+        "checked": false,
+        "disabled": false,
+        "label": "checkbox label"
+      },
+      {
+        "index": 7,
+        "name": null,
+        "id": "select-all-vendor-groups-handler",
+        "checked": false,
+        "disabled": false,
+        "label": "checkbox label"
+      },
+      {
+        "index": 8,
+        "name": null,
+        "id": "select-all-vendor-leg-handler",
+        "checked": false,
+        "disabled": false,
+        "label": "checkbox label"
+      }
+    ],
+    "total_count": 9,
+    "pre_checked_non_essential_count": 0,
+    "pre_checked_non_essential": []
+  },
+  "dismiss_method": "escape_key",
+  "screenshots": [
+    "screenshot_with_banner.png",
+    "screenshot_consent_preferences.png"
+  ],
+  "errors": []
+}

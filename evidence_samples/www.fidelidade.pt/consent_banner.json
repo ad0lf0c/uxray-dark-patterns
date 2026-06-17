@@ -1,0 +1,56 @@
+{
+  "detected": true,
+  "selector_matched": "#onetrust-banner-sdk",
+  "banner_text": "A Fidelidade valoriza a sua privacidade\nEste site utiliza Cookies, incluindo Cookies de terceiros, para personalizar conteúdos e anúncios, e para que a sua navegação seja mais agradável e eficiente. Para instalar determinados Cookies, necessitamos do seu consentimento. Ao desativar os cookies, partes do nosso site podem não funcionar corretamente. Pode configurar ou recusar os cookies em Configuração de cookies. Também pode aceitar todos, através do botão 'Aceitar'.\n\nPara mais informações pode consultar a nossa Política de Cookies\nAceitar Todos\nConfiguração de cookies",
+  "buttons": [
+    {
+      "index": 0,
+      "tag": "button",
+      "text": "Aceitar Todos",
+      "id": "onetrust-accept-btn-handler",
+      "class": "",
+      "visible": true,
+      "x": 742,
+      "y": 335,
+      "width": 135,
+      "height": 42,
+      "area": 5661,
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(238, 36, 41)",
+      "fontSize": "11.382px",
+      "fontWeight": "600",
+      "border": "1px solid rgb(238, 36, 41)",
+      "opacity": "1"
+    },
+    {
+      "index": 1,
+      "tag": "button",
+      "text": "Configuração de cookies",
+      "id": "onetrust-pc-btn-handler",
+      "class": "cookie-setting-link",
+      "visible": true,
+      "x": 562,
+      "y": 335,
+      "width": 169,
+      "height": 40,
+      "area": 6741,
+      "color": "rgb(105, 105, 105)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "fontSize": "11.382px",
+      "fontWeight": "600",
+      "border": "0px none rgb(105, 105, 105)",
+      "opacity": "1"
+    }
+  ],
+  "checkboxes": [],
+  "has_accept_all": false,
+  "has_reject_all": false,
+  "has_manage_options": false,
+  "accept_reject_area_ratio": null,
+  "preference_panel": null,
+  "dismiss_method": "escape_key",
+  "screenshots": [
+    "screenshot_with_banner.png"
+  ],
+  "errors": []
+}
