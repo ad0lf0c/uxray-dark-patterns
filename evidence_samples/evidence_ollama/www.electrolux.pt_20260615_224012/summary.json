@@ -1,0 +1,17 @@
+{
+  "url_requested": "https://www.electrolux.pt",
+  "url_final": "https://www.electrolux.pt/",
+  "title": "Electrolux Portugal | Electrolux | Electrolux",
+  "captured_at": "2026-06-15T22:40:12",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.electrolux.pt_20260615_224012",
+  "status": "blocked",
+  "stats": {},
+  "keyword_hits": [],
+  "files": {},
+  "bot_wall": "Google reCAPTCHA"
+}

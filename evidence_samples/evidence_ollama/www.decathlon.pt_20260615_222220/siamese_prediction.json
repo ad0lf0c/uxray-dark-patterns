@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.decathlon.pt_20260615_222220",
+  "mean_dark": 0.6621909141540527,
+  "mean_fair": 0.9480991959571838,
+  "net_score": -0.2859082818031311,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "none",
+      0.9512797594070435
+    ],
+    [
+      "none",
+      0.9511227607727051
+    ],
+    [
+      "none",
+      0.9510969519615173
+    ],
+    [
+      "none",
+      0.9509970545768738
+    ],
+    [
+      "none",
+      0.9509849548339844
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

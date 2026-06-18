@@ -1,0 +1,17 @@
+{
+  "url_requested": "https://www.sic.pt",
+  "url_final": "https://sic.pt/",
+  "title": "sic.pt",
+  "captured_at": "2026-06-15T22:25:31",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.sic.pt_20260615_222531",
+  "status": "blocked",
+  "stats": {},
+  "keyword_hits": [],
+  "files": {},
+  "bot_wall": "DataDome CAPTCHA"
+}

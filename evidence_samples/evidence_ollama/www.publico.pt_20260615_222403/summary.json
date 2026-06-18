@@ -1,0 +1,17 @@
+{
+  "url_requested": "https://www.publico.pt",
+  "url_final": "https://www.publico.pt/",
+  "title": "PÚBLICO – Abrir portas onde se erguem muros",
+  "captured_at": "2026-06-15T22:24:03",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.publico.pt_20260615_222403",
+  "status": "blocked",
+  "stats": {},
+  "keyword_hits": [],
+  "files": {},
+  "bot_wall": "Google reCAPTCHA"
+}

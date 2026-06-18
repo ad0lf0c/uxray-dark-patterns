@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.footlocker.pt_20260615_223230",
+  "mean_dark": 0.4327423870563507,
+  "mean_fair": 0.9960378408432007,
+  "net_score": -0.56329545378685,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "none",
+      0.9965839982032776
+    ],
+    [
+      "none",
+      0.9965816736221313
+    ],
+    [
+      "none",
+      0.9963759779930115
+    ],
+    [
+      "none",
+      0.9963557124137878
+    ],
+    [
+      "none",
+      0.9963337182998657
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

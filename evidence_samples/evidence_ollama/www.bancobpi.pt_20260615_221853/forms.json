@@ -1,0 +1,106 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.bancobpi.pt/SitePublico_SiteBancoBPI/MainFlowV3.primeiro_nivel_standard.aspx",
+    "method": "post",
+    "text": "Saltar para conteúdo\nParticularesPremierPrivate & WealthAGECitizenEmpresasNegócios65+\nO BPIArtigosSustentabilidade\nAjuda\nPT\nAbrir Conta\nEntrar\nDia-a-dia\nDesfrutar a Vida\nA Minha Casa\nDormir Tranquilo\nPensar no Futuro\n \nA\nA\nA\nFaça aqui a sua simulação\nCrédito Pessoal\nCrédito Habitação\nReforma\nRentabilidade\nPPR\nPlanos Poupança\nDepósito Especial BPI 5 anos\nA sua poupança a 5 anos.\nSaiba mais\nConheça, ainda vai A Tempo.\nConteúdos sobre proteção, poupança e investimento.\nSaiba mais\nBPI Rendimento 2032 PPR\nO futuro está aí. Invista no seu.\nSaiba mais \nPeça o seu Crédito Imediato BPI (TAEG desde 11,3%).\nÉ 100% online, rápido e sem complicações. Taxa fixa e prazos até 84 meses.\nSaiba mais\nCrédito Habitação BPI\nConheça as soluções de Crédito Habitação BPI e aproveite as vantagens na Loja BPI.\nSaiba mais\nPrepare o amanhã das jovens promessas e receba 40€ em Cartão Continente\nCampanha válida até 31/8/26 para novos Clientes BPI Júnior e AGE (até 17 anos) com mín. de abertura 25€, sem comissão de m",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__OSVSTATE",
+        "placeholder": null,
+        "checked": false,
+        "value": "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"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "placeholder": null,
+        "checked": false,
+        "value": "917F9CA8"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "wt2$LT_SitePublico_wt151$block$wtContent$CW_SP_Fragments_wt142$block$OutSystemsUIWeb_wt14$block$wtOnTabChange$wtin1",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "wt2$LT_SitePublico_wt151$block$wtContent$CW_SP_Fragments_wt142$block$OutSystemsUIWeb_wt14$block$wtOnTabChange$wtin2",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "wt2$LT_SitePublico_wt151$block$wtContent$CW_SP_Fragments_wt142$block$OutSystemsUIWeb_wt14$block$wtOnTabChange$wtin3",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "wt2$LT_SitePublico_wt151$block$wtContent$CW_SP_Fragments_wt142$block$OutSystemsUIWeb_wt14$block$wtOnTabChange$wtin4",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "wt2$LT_SitePublico_wt151$block$wtContent$CW_SP_Fragments_wt142$block$OutSystemsUIWeb_wt14$block$wtOnTabChange$wtin5",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": "wt2$LT_SitePublico_wt151$block$wtContent$CW_SP_Fragments_wt142$block$OutSystemsUIWeb_wt14$block$wtOnTabChange$wtTriggerEvent",
+        "placeholder": null,
+        "checked": false,
+        "value": "Trigger"
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": "wt2$LT_SitePublico_wt151$block$wt53$wthiddenbutton",
+        "placeholder": null,
+        "checked": false,
+        "value": "click"
+      }
+    ]
+  }
+]

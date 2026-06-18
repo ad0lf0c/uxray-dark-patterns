@@ -1,0 +1,200 @@
+[
+  {
+    "index": 0,
+    "action": "https://caixaebankingonline.cgd.pt/ceb/login.seam",
+    "method": "post",
+    "text": "Ajuda Empresas",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "USERNAME",
+        "placeholder": null,
+        "checked": false,
+        "value": "Código de empresa"
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": "login_btn_2",
+        "placeholder": null,
+        "checked": false,
+        "value": "OK"
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "action": "https://caixadirectaonline.cgd.pt/cdo/login.seam",
+    "method": "post",
+    "text": "Ajuda Particulares",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "USERNAME",
+        "placeholder": null,
+        "checked": false,
+        "value": "Nº de Contrato"
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": "login_btn_1",
+        "placeholder": null,
+        "checked": false,
+        "value": "OK"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "tipoTrat",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "codFamiliaProduto",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "numIntEspecie",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "RedirFunc",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "action": "https://caixaebankingonline.cgd.pt/ceb/cfAutoRegisto.seam",
+    "method": "post",
+    "text": "Registo fornecedor confirming",
+    "inputs": []
+  },
+  {
+    "index": 3,
+    "action": "https://caixadirectaonline.cgd.pt/cdo/login.seam",
+    "method": "post",
+    "text": "Nº de ContratoParticularesNº de Contrato Número de contratoAjuda Particulares",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "USERNAME",
+        "placeholder": null,
+        "checked": false,
+        "value": "Nº de Contrato"
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": "login_btn_1",
+        "placeholder": null,
+        "checked": false,
+        "value": "OK"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "tipoTrat",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "codFamiliaProduto",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "numIntEspecie",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "RedirFunc",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      }
+    ]
+  },
+  {
+    "index": 4,
+    "action": "https://caixaebankingonline.cgd.pt/ceb/login.seam",
+    "method": "post",
+    "text": "Nº de ContratoEmpresasNº de ContratoAjuda Empresas",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "USERNAME",
+        "placeholder": null,
+        "checked": false,
+        "value": "Nº de Contrato"
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": "login_btn_2",
+        "placeholder": null,
+        "checked": false,
+        "value": "OK"
+      }
+    ]
+  },
+  {
+    "index": 5,
+    "action": "https://caixaebankingonline.cgd.pt/ceb/cfAutoRegisto.seam",
+    "method": "post",
+    "text": "Registo fornecedor confirming",
+    "inputs": []
+  },
+  {
+    "index": 6,
+    "action": "https://www.cgd.pt/Pesquisa/Pages/Resultados-Pesquisa.aspx",
+    "method": "post",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "k",
+        "placeholder": null,
+        "checked": false,
+        "value": "Pesquisar"
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": "btnsubmit",
+        "placeholder": null,
+        "checked": false,
+        "value": "Pesquisar"
+      }
+    ]
+  }
+]

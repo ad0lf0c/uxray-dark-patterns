@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/casa.sapo.pt_20260615_222721",
+  "mean_dark": 0.999798595905304,
+  "mean_fair": 0.38557371497154236,
+  "net_score": 0.6142248809337616,
+  "decision_zone": "uncertain",
+  "final_label": "inconclusive",
+  "top5_similar": [
+    [
+      "suspected",
+      1.0000001192092896
+    ],
+    [
+      "suspected",
+      0.9999160170555115
+    ],
+    [
+      "confirmed",
+      0.9999037981033325
+    ],
+    [
+      "suspected",
+      0.9998924732208252
+    ],
+    [
+      "suspected",
+      0.9998905658721924
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

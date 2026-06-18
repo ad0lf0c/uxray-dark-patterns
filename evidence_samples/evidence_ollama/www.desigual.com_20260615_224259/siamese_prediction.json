@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.desigual.com_20260615_224259",
+  "mean_dark": 0.9989556670188904,
+  "mean_fair": 0.4172496795654297,
+  "net_score": 0.5817059874534607,
+  "decision_zone": "uncertain",
+  "final_label": "inconclusive",
+  "top5_similar": [
+    [
+      "confirmed",
+      0.9992647767066956
+    ],
+    [
+      "suspected",
+      0.9992580413818359
+    ],
+    [
+      "suspected",
+      0.9992485046386719
+    ],
+    [
+      "suspected",
+      0.9992031455039978
+    ],
+    [
+      "suspected",
+      0.9991936087608337
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

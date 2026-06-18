@@ -1,0 +1,34 @@
+[
+  {
+    "index": 0,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "",
+    "id": "ckySwitchfunctional"
+  },
+  {
+    "index": 1,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "",
+    "id": "ckySwitchanalytics"
+  },
+  {
+    "index": 2,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "",
+    "id": "ckySwitchadvertisement"
+  },
+  {
+    "index": 3,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "",
+    "id": "ckySwitchother"
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.eco.pt_20260615_225151",
+  "mean_dark": 0.9998166561126709,
+  "mean_fair": 0.3875381350517273,
+  "net_score": 0.6122785210609436,
+  "decision_zone": "uncertain",
+  "final_label": "inconclusive",
+  "top5_similar": [
+    [
+      "confirmed",
+      0.9999998807907104
+    ],
+    [
+      "confirmed",
+      0.9999434947967529
+    ],
+    [
+      "confirmed",
+      0.9999141097068787
+    ],
+    [
+      "suspected",
+      0.9999141097068787
+    ],
+    [
+      "suspected",
+      0.9999131560325623
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

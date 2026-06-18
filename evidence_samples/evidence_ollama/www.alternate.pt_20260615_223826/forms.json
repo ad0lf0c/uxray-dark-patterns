@@ -1,0 +1,122 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.alternate.de/listing.xhtml",
+    "method": "get",
+    "text": "Suche\nSuche durchführen",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "search",
+        "name": "q",
+        "placeholder": "Shop durchsuchen...",
+        "checked": false,
+        "value": null
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "action": "https://www.alternate.de/listing.xhtml",
+    "method": "get",
+    "text": "Suche\n      \n        \n        \n          \n          Suche durchführen",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "search",
+        "name": "q",
+        "placeholder": "Shop durchsuchen...",
+        "checked": false,
+        "value": null
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "action": "https://www.alternate.de/mobile/index.xhtml",
+    "method": "post",
+    "text": "lazyButton",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "lazyForm",
+        "placeholder": null,
+        "checked": false,
+        "value": "lazyForm"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "lazyComponent",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "jakarta.faces.ViewState",
+        "placeholder": null,
+        "checked": false,
+        "value": "-5818567523407520401:-2782927869398940708"
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "action": "https://www.alternate.de/newsletter.xhtml#headline",
+    "method": "post",
+    "text": "E-Mail\nAnmelden",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "placeholder": "E-Mail",
+        "checked": false,
+        "value": null
+      }
+    ]
+  },
+  {
+    "index": 4,
+    "action": "https://www.alternate.de/",
+    "method": "get",
+    "text": "Impressum\nLänderauswahl\nBelgien(FR)\nBelgien(NL)\nDeutschland\nDänemark\nFrankreich\nItalien\nLuxemburg\nNiederlande\nSchweiz\nSpanien\nÖsterreich",
+    "inputs": [
+      {
+        "tag": "select",
+        "type": null,
+        "name": null,
+        "placeholder": null,
+        "checked": false,
+        "value": "https://www.alternate.de"
+      }
+    ]
+  },
+  {
+    "index": 5,
+    "action": "https://www.alternate.de/mobile/index.xhtml",
+    "method": "post",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "j_idt1113:tle-cli-f",
+        "placeholder": null,
+        "checked": false,
+        "value": "j_idt1113:tle-cli-f"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "jakarta.faces.ViewState",
+        "placeholder": null,
+        "checked": false,
+        "value": "-5818567523407520401:-2782927869398940708"
+      }
+    ]
+  }
+]

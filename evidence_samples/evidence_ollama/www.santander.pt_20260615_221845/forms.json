@@ -1,0 +1,34 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.santander.pt/",
+    "method": "get",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": null,
+        "placeholder": "O que procura?",
+        "checked": false,
+        "value": null
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "action": "https://www.santander.pt/",
+    "method": "get",
+    "text": "Pesquise no nosso site\n                        \n                    \n                    \n                        \n                            \n                        \n                            \n                                \n    \n    \n        \n            \n            Pesquisar\n            \n        \n    \n    \n    \n        \n    \n\n                            \n                        \n                            \n                        \n                            \n                        \n                            \n                        \n                            \n                        \n                    \n                    \n                        \n    \n    \n        \n    \n    \n    \n        \n            Ver todos os resultados",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": null,
+        "placeholder": "O que procura?",
+        "checked": false,
+        "value": null
+      }
+    ]
+  }
+]

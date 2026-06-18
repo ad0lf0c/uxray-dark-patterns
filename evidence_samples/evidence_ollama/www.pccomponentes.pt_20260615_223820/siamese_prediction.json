@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.pccomponentes.pt_20260615_223820",
+  "mean_dark": 0.3982759118080139,
+  "mean_fair": 0.9997645616531372,
+  "net_score": -0.6014886498451233,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "none",
+      0.9999999403953552
+    ],
+    [
+      "none",
+      0.999875545501709
+    ],
+    [
+      "none",
+      0.9998729228973389
+    ],
+    [
+      "none",
+      0.9998714923858643
+    ],
+    [
+      "none",
+      0.9998664259910583
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.bankinter.pt/",
+    "method": "get",
+    "text": "Abra uma conta em 10 minutos\n\n1.Leia o QR Code com a câmara do seu telemóvel.\n2.Descarregue a App na App Store ou Google Play.\n3.Abra a conta que mais se adequa às suas necessidades.\n\nOu receba um link por SMS para fazer a transferência.\n\n+ 351\n\nENVIAR",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "telefone",
+        "placeholder": "Número de Telemóvel",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "url",
+        "placeholder": null,
+        "checked": false,
+        "value": "https://www.bankinter.pt/"
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "action": "https://www.bankinter.pt/#",
+    "method": "post",
+    "text": "",
+    "inputs": []
+  },
+  {
+    "index": 2,
+    "action": "https://www.bankinter.pt/",
+    "method": "get",
+    "text": "Nós ligamos Deixe os seus dados para ser contactadoNOMETELEFONEEMAIL (OPCIONAL)QUERO SER CONTACTADOInformação de Proteção de Dados",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "nome",
+        "placeholder": "NOME",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "telefone",
+        "placeholder": "TELEFONE",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "email",
+        "placeholder": "EMAIL (OPCIONAL)",
+        "checked": false,
+        "value": null
+      }
+    ]
+  }
+]

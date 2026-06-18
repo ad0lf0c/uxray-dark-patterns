@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.santander.pt_20260615_221845",
+  "mean_dark": 0.9996578097343445,
+  "mean_fair": 0.3904094398021698,
+  "net_score": 0.6092483699321747,
+  "decision_zone": "uncertain",
+  "final_label": "inconclusive",
+  "top5_similar": [
+    [
+      "suspected",
+      1.0
+    ],
+    [
+      "suspected",
+      0.9997690916061401
+    ],
+    [
+      "confirmed",
+      0.9997644424438477
+    ],
+    [
+      "suspected",
+      0.9997606873512268
+    ],
+    [
+      "suspected",
+      0.9997588992118835
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

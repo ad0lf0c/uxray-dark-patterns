@@ -1,0 +1,34 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.lego.com/pt-pt?age-gate=grown_up",
+    "method": "get",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "search",
+        "name": null,
+        "placeholder": "Search",
+        "checked": false,
+        "value": null
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "action": "https://www.lego.com/pt-pt/page/static/subscribe",
+    "method": "get",
+    "text": "Subscrever e-mails de marketing digital\nSubscribe",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "emailSubscriptionInput",
+        "placeholder": "O teu endereço de e-mail",
+        "checked": false,
+        "value": null
+      }
+    ]
+  }
+]

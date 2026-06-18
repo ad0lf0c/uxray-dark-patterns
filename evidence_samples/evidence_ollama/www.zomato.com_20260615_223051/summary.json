@@ -1,0 +1,17 @@
+{
+  "url_requested": "https://www.zomato.com/pt",
+  "url_final": null,
+  "title": null,
+  "captured_at": "2026-06-15T22:30:51",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.zomato.com_20260615_223051",
+  "status": "failed",
+  "stats": {},
+  "keyword_hits": [],
+  "files": {},
+  "error": "Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.zomato.com/pt\nCall log:\n  - navigating to \"https://www.zomato.com/pt\", waiting until \"domcontentloaded\"\n"
+}

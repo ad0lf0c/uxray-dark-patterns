@@ -1,0 +1,34 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.jornaldenegocios.pt/pesquisa/",
+    "method": "get",
+    "text": "Search",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "q",
+        "placeholder": "Pesquisar",
+        "checked": false,
+        "value": null
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "action": "https://www.jornaldenegocios.pt/pesquisa/",
+    "method": "get",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "q",
+        "placeholder": "Pesquisar",
+        "checked": false,
+        "value": null
+      }
+    ]
+  }
+]

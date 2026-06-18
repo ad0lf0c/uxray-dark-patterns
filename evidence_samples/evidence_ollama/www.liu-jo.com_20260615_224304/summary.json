@@ -1,0 +1,17 @@
+{
+  "url_requested": "https://www.liu-jo.com/pt-pt",
+  "url_final": null,
+  "title": null,
+  "captured_at": "2026-06-15T22:43:04",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.liu-jo.com_20260615_224304",
+  "status": "failed",
+  "stats": {},
+  "keyword_hits": [],
+  "files": {},
+  "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.liu-jo.com/pt-pt\nCall log:\n  - navigating to \"https://www.liu-jo.com/pt-pt\", waiting until \"domcontentloaded\"\n"
+}

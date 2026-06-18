@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.maxima.pt_20260615_225032",
+  "mean_dark": 0.8334494233131409,
+  "mean_fair": 0.8293291330337524,
+  "net_score": 0.004120290279388428,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "suspected",
+      0.8435274958610535
+    ],
+    [
+      "suspected",
+      0.8389540910720825
+    ],
+    [
+      "suspected",
+      0.8385077714920044
+    ],
+    [
+      "suspected",
+      0.8379228711128235
+    ],
+    [
+      "suspected",
+      0.8374850749969482
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

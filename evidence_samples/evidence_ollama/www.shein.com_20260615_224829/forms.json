@@ -1,0 +1,18 @@
+[
+  {
+    "index": 0,
+    "action": "https://pt.shein.com/pt?cdn_rsite=cf&ref=www&rep=dir&ret=pt",
+    "method": "get",
+    "text": "Tops\n\nUse up and down arrow keys to navigate search Buscas recentes and Pesquisar e Encontrar. Press Enter to select.",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "search",
+        "name": "header-search",
+        "placeholder": "Tops",
+        "checked": false,
+        "value": null
+      }
+    ]
+  }
+]

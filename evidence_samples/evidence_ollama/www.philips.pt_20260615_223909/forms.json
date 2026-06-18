@@ -1,0 +1,34 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.philips.pt/",
+    "method": "get",
+    "text": "Gostaria de receber comunicações promocionais sobre produtos, serviços, eventos e promoções Philips, com base nas minhas preferências e comportamento. Posso cancelar a subscrição a qualquer momento. O que significa isto?\n\nSubscrever",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "email",
+        "placeholder": "Endereço de e-mail (obrigatório)",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "firstName",
+        "placeholder": "Nome",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "lastName",
+        "placeholder": "Apelido",
+        "checked": false,
+        "value": null
+      }
+    ]
+  }
+]

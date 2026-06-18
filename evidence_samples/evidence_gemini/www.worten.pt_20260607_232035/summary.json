@@ -1,0 +1,17 @@
+{
+  "url_requested": "https://www.worten.pt",
+  "url_final": "https://www.worten.pt/",
+  "title": "Worten - Tudo o que precisas em Worten.pt",
+  "captured_at": "2026-06-07T23:20:35",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/Users/karolhenriques/Downloads/SIGPRD_blackpatterns/evidence_gemini/www.worten.pt_20260607_232035",
+  "status": "blocked",
+  "stats": {},
+  "keyword_hits": [],
+  "files": {},
+  "bot_wall": "Google reCAPTCHA"
+}

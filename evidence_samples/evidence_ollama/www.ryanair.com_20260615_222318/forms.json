@@ -1,0 +1,18 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.ryanair.com/pt/pt",
+    "method": "get",
+    "text": "Inscrevam-me!",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "undefined",
+        "placeholder": "Endereço e-mail",
+        "checked": false,
+        "value": null
+      }
+    ]
+  }
+]

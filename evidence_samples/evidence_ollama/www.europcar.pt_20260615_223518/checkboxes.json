@@ -1,0 +1,34 @@
+[
+  {
+    "index": 0,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "",
+    "id": "outdated-browser-banner__close_checkbox"
+  },
+  {
+    "index": 1,
+    "type": "checkbox",
+    "name": null,
+    "checked": true,
+    "label": "Devolver na mesma estação",
+    "id": "same-dropoff--desktop"
+  },
+  {
+    "index": 2,
+    "type": "checkbox",
+    "name": null,
+    "checked": true,
+    "label": "Devolver na mesma estação",
+    "id": "same-dropoff--mobile"
+  },
+  {
+    "index": 3,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "Tenho uma tarifa contratada",
+    "id": "checkbox-negotiated-id"
+  }
+]

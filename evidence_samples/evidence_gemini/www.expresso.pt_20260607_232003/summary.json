@@ -1,0 +1,17 @@
+{
+  "url_requested": "https://www.expresso.pt",
+  "url_final": "https://expresso.pt/",
+  "title": "expresso.pt",
+  "captured_at": "2026-06-07T23:20:03",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/Users/karolhenriques/Downloads/SIGPRD_blackpatterns/evidence_gemini/www.expresso.pt_20260607_232003",
+  "status": "blocked",
+  "stats": {},
+  "keyword_hits": [],
+  "files": {},
+  "bot_wall": "DataDome CAPTCHA"
+}

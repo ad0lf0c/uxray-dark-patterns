@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.nationalgeographic.pt_20260615_224947",
+  "mean_dark": 0.3975304067134857,
+  "mean_fair": 0.9998359680175781,
+  "net_score": -0.6023055613040924,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "none",
+      1.0
+    ],
+    [
+      "none",
+      0.9999831318855286
+    ],
+    [
+      "none",
+      0.9999771118164062
+    ],
+    [
+      "none",
+      0.9999662637710571
+    ],
+    [
+      "none",
+      0.9999465346336365
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

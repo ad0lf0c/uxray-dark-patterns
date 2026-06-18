@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.ageas.pt_20260615_221944",
+  "mean_dark": 0.991696834564209,
+  "mean_fair": 0.5066571831703186,
+  "net_score": 0.4850396513938904,
+  "decision_zone": "uncertain",
+  "final_label": "inconclusive",
+  "top5_similar": [
+    [
+      "suspected",
+      0.9939166307449341
+    ],
+    [
+      "suspected",
+      0.9930537939071655
+    ],
+    [
+      "suspected",
+      0.9928372502326965
+    ],
+    [
+      "suspected",
+      0.992705762386322
+    ],
+    [
+      "suspected",
+      0.9926671981811523
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

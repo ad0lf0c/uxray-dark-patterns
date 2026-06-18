@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.zap.pt_20260615_225059",
+  "mean_dark": 0.3994295001029968,
+  "mean_fair": 0.9997431635856628,
+  "net_score": -0.600313663482666,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "none",
+      1.0
+    ],
+    [
+      "none",
+      0.9998797178268433
+    ],
+    [
+      "none",
+      0.9998610019683838
+    ],
+    [
+      "none",
+      0.9998526573181152
+    ],
+    [
+      "none",
+      0.9998502731323242
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

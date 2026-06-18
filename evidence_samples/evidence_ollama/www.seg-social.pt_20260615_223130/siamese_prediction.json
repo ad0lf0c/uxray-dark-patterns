@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.seg-social.pt_20260615_223130",
+  "mean_dark": 0.999836802482605,
+  "mean_fair": 0.3927922546863556,
+  "net_score": 0.6070445477962494,
+  "decision_zone": "uncertain",
+  "final_label": "inconclusive",
+  "top5_similar": [
+    [
+      "suspected",
+      0.9999999403953552
+    ],
+    [
+      "suspected",
+      0.9999353885650635
+    ],
+    [
+      "suspected",
+      0.9999186396598816
+    ],
+    [
+      "confirmed",
+      0.9999158978462219
+    ],
+    [
+      "confirmed",
+      0.9999129176139832
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

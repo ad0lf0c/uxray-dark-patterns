@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.bricomarche.pt_20260615_223150",
+  "mean_dark": 0.9989677667617798,
+  "mean_fair": 0.3694363832473755,
+  "net_score": 0.6295313835144043,
+  "decision_zone": "dark_pattern_likely",
+  "final_label": "suspected",
+  "top5_similar": [
+    [
+      "confirmed",
+      0.9995225667953491
+    ],
+    [
+      "suspected",
+      0.9993589520454407
+    ],
+    [
+      "suspected",
+      0.9993392825126648
+    ],
+    [
+      "suspected",
+      0.9993279576301575
+    ],
+    [
+      "suspected",
+      0.9992855191230774
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

@@ -1,0 +1,56 @@
+{
+  "detected": true,
+  "selector_matched": "[role='dialog'][aria-modal='true']",
+  "banner_text": "Utilizamos cookies para melhorar a sua experiência como utilizador.\n\nPode aceitar todos os cookies ou personalizar a sua configuração para alterar as suas preferências. Saiba mais na nossa Política de Privacidade.\n\nAceitar e fechar\nConfigurar",
+  "buttons": [
+    {
+      "index": 0,
+      "tag": "button",
+      "text": "Aceitar e fechar",
+      "id": null,
+      "class": "cm__btn",
+      "visible": true,
+      "x": 1073,
+      "y": 1123,
+      "width": 163,
+      "height": 45,
+      "area": 7359,
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(0, 91, 170)",
+      "fontSize": "13.12px",
+      "fontWeight": "600",
+      "border": "1px solid rgb(0, 91, 170)",
+      "opacity": "1"
+    },
+    {
+      "index": 1,
+      "tag": "button",
+      "text": "Configurar",
+      "id": null,
+      "class": "cm__btn cm__btn--secondary",
+      "visible": true,
+      "x": 1242,
+      "y": 1123,
+      "width": 157,
+      "height": 45,
+      "area": 7089,
+      "color": "rgb(44, 47, 49)",
+      "backgroundColor": "rgb(234, 239, 242)",
+      "fontSize": "13.12px",
+      "fontWeight": "600",
+      "border": "1px solid rgb(234, 239, 242)",
+      "opacity": "1"
+    }
+  ],
+  "checkboxes": [],
+  "has_accept_all": false,
+  "has_reject_all": false,
+  "has_manage_options": false,
+  "accept_reject_area_ratio": null,
+  "preference_panel": null,
+  "dismiss_method": "close_button",
+  "screenshots": [
+    "screenshot_with_banner.png"
+  ],
+  "errors": []
+}

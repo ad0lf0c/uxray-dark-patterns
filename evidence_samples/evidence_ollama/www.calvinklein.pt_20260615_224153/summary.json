@@ -1,0 +1,17 @@
+{
+  "url_requested": "https://www.calvinklein.pt",
+  "url_final": null,
+  "title": null,
+  "captured_at": "2026-06-15T22:41:53",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.calvinklein.pt_20260615_224153",
+  "status": "failed",
+  "stats": {},
+  "keyword_hits": [],
+  "files": {},
+  "error": "Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.calvinklein.pt/\nCall log:\n  - navigating to \"https://www.calvinklein.pt/\", waiting until \"domcontentloaded\"\n"
+}

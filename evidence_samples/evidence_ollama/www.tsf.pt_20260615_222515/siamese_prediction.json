@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.tsf.pt_20260615_222515",
+  "mean_dark": 0.4007185399532318,
+  "mean_fair": 0.9995571374893188,
+  "net_score": -0.598838597536087,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "none",
+      1.0000001192092896
+    ],
+    [
+      "none",
+      0.9997205138206482
+    ],
+    [
+      "none",
+      0.9997153878211975
+    ],
+    [
+      "none",
+      0.9997037649154663
+    ],
+    [
+      "none",
+      0.999701738357544
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

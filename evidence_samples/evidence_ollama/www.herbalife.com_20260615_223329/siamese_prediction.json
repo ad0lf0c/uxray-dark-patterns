@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.herbalife.com_20260615_223329",
+  "mean_dark": 0.3977007269859314,
+  "mean_fair": 0.9997687339782715,
+  "net_score": -0.6020680069923401,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "none",
+      1.0000001192092896
+    ],
+    [
+      "none",
+      0.9998993873596191
+    ],
+    [
+      "none",
+      0.9998960494995117
+    ],
+    [
+      "none",
+      0.9998855590820312
+    ],
+    [
+      "none",
+      0.9998813271522522
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

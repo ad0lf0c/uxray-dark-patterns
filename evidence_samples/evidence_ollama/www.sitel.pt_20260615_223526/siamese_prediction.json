@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.sitel.pt_20260615_223526",
+  "mean_dark": 0.392877459526062,
+  "mean_fair": 0.9996989965438843,
+  "net_score": -0.6068215370178223,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "none",
+      1.0000001192092896
+    ],
+    [
+      "none",
+      1.0000001192092896
+    ],
+    [
+      "none",
+      1.0000001192092896
+    ],
+    [
+      "none",
+      0.9998228549957275
+    ],
+    [
+      "none",
+      0.9998192191123962
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

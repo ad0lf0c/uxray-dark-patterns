@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.allianz.pt_20260615_221954",
+  "mean_dark": 0.9998436570167542,
+  "mean_fair": 0.3970901370048523,
+  "net_score": 0.6027535200119019,
+  "decision_zone": "uncertain",
+  "final_label": "inconclusive",
+  "top5_similar": [
+    [
+      "suspected",
+      0.9999998807907104
+    ],
+    [
+      "confirmed",
+      0.999961256980896
+    ],
+    [
+      "confirmed",
+      0.9999467730522156
+    ],
+    [
+      "suspected",
+      0.9999390244483948
+    ],
+    [
+      "confirmed",
+      0.9999372959136963
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

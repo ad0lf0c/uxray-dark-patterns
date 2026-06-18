@@ -1,0 +1,20 @@
+[
+  {
+    "index": 0,
+    "tag": "a",
+    "text": "",
+    "href": "https://www.glovo.com/glovo_svg.svg",
+    "type": null,
+    "id": null,
+    "class": "",
+    "visible": true,
+    "x": 410,
+    "y": 40,
+    "width": 640,
+    "height": 130,
+    "color": "rgb(0, 0, 238)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "fontSize": "16px",
+    "fontWeight": "300"
+  }
+]

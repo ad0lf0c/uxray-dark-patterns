@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.cgd.pt_20260615_221146",
+  "mean_dark": 0.9998063445091248,
+  "mean_fair": 0.3861040472984314,
+  "net_score": 0.6137022972106934,
+  "decision_zone": "uncertain",
+  "final_label": "inconclusive",
+  "top5_similar": [
+    [
+      "suspected",
+      0.9999997019767761
+    ],
+    [
+      "suspected",
+      0.9999146461486816
+    ],
+    [
+      "confirmed",
+      0.9999135732650757
+    ],
+    [
+      "suspected",
+      0.9999112486839294
+    ],
+    [
+      "confirmed",
+      0.9999096393585205
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

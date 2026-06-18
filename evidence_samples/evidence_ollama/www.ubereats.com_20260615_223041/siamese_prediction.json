@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.ubereats.com_20260615_223041",
+  "mean_dark": 0.9970890879631042,
+  "mean_fair": 0.4383220076560974,
+  "net_score": 0.5587670803070068,
+  "decision_zone": "uncertain",
+  "final_label": "inconclusive",
+  "top5_similar": [
+    [
+      "suspected",
+      0.9978551864624023
+    ],
+    [
+      "suspected",
+      0.997801661491394
+    ],
+    [
+      "suspected",
+      0.9976146221160889
+    ],
+    [
+      "suspected",
+      0.997523844242096
+    ],
+    [
+      "suspected",
+      0.9975166916847229
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.sic.pt_20260615_222531",
+  "mean_dark": 0.48660576343536377,
+  "mean_fair": 0.9939960241317749,
+  "net_score": -0.5073902606964111,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "none",
+      0.9951519966125488
+    ],
+    [
+      "none",
+      0.9949820041656494
+    ],
+    [
+      "none",
+      0.9949384331703186
+    ],
+    [
+      "none",
+      0.9948031902313232
+    ],
+    [
+      "none",
+      0.9947289824485779
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

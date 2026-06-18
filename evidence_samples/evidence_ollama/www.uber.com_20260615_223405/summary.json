@@ -1,0 +1,17 @@
+{
+  "url_requested": "https://www.uber.com/pt",
+  "url_final": "https://www.uber.com/pt/pt-pt/pt/",
+  "title": "Página não encontrada | Uber",
+  "captured_at": "2026-06-15T22:34:05",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.uber.com_20260615_223405",
+  "status": "blocked",
+  "stats": {},
+  "keyword_hits": [],
+  "files": {},
+  "bot_wall": "Google reCAPTCHA"
+}

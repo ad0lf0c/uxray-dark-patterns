@@ -1,0 +1,17 @@
+{
+  "url_requested": "https://www.wish.com",
+  "url_final": "https://www.wish.com/",
+  "title": "Wish | Compre e economize",
+  "captured_at": "2026-06-15T22:49:06",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.wish.com_20260615_224906",
+  "status": "blocked",
+  "stats": {},
+  "keyword_hits": [],
+  "files": {},
+  "bot_wall": "Google reCAPTCHA"
+}

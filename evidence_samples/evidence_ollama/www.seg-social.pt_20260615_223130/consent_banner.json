@@ -1,0 +1,37 @@
+{
+  "detected": true,
+  "selector_matched": "[class*='cookie-banner']",
+  "banner_text": "Este serviço usa cookies para melhorar a sua experiência de utilização.\nAo prosseguir, concorda com a nossa Política de cookies.\nSaiba mais\nCompreendi",
+  "buttons": [
+    {
+      "index": 0,
+      "tag": "button",
+      "text": "Compreendi",
+      "id": "cookieForm:ackCookieLaw",
+      "class": "ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only p-button p-component justify-content-center",
+      "visible": true,
+      "x": 1128,
+      "y": 1120,
+      "width": 147,
+      "height": 50,
+      "area": 7325,
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(14, 15, 16)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "border": "1px solid rgb(14, 15, 16)",
+      "opacity": "1"
+    }
+  ],
+  "checkboxes": [],
+  "has_accept_all": false,
+  "has_reject_all": false,
+  "has_manage_options": false,
+  "accept_reject_area_ratio": null,
+  "preference_panel": null,
+  "dismiss_method": "escape_key",
+  "screenshots": [
+    "screenshot_with_banner.png"
+  ],
+  "errors": []
+}

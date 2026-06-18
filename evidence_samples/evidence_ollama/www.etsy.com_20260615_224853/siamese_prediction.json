@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.etsy.com_20260615_224853",
+  "mean_dark": 0.3771173357963562,
+  "mean_fair": 0.9991204738616943,
+  "net_score": -0.6220031380653381,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "none",
+      0.9993970394134521
+    ],
+    [
+      "none",
+      0.9993665814399719
+    ],
+    [
+      "none",
+      0.999344527721405
+    ],
+    [
+      "none",
+      0.9993307590484619
+    ],
+    [
+      "none",
+      0.9993267059326172
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

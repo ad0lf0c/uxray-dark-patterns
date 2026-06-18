@@ -1,0 +1,44 @@
+{
+  "url_requested": "https://www.cetelem.pt",
+  "url_final": "https://www.cetelem.pt/",
+  "title": "Soluções e Simuladores de Crédito online - Cetelem - Cetelem",
+  "captured_at": "2026-06-15T22:30:11",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.cetelem.pt_20260615_223011",
+  "status": "completed",
+  "stats": {
+    "visible_text_chars": 6820,
+    "buttons_links_count": 141,
+    "forms_count": 2,
+    "checkboxes_radios_count": 8,
+    "keyword_hits_count": 3,
+    "consent_banner_detected": true
+  },
+  "keyword_hits": [
+    "cookies",
+    "rejeitar",
+    "cookies"
+  ],
+  "files": {
+    "screenshot": "screenshot.png",
+    "html": "page.html",
+    "visible_text": "visible_text.txt",
+    "buttons": "buttons.json",
+    "forms": "forms.json",
+    "checkboxes": "checkboxes.json",
+    "consent_banner": "consent_banner.json",
+    "summary": "summary.json",
+    "screenshot_with_banner": "screenshot_with_banner.png",
+    "screenshot_consent_preferences": "screenshot_consent_preferences.png"
+  },
+  "score": 6.5,
+  "risk_level": "Medium - preliminary",
+  "has_accept_all": false,
+  "has_reject_all": false,
+  "banner_detected": true,
+  "banner_selector": "#onetrust-banner-sdk"
+}

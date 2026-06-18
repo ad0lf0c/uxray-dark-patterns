@@ -1,0 +1,34 @@
+[
+  {
+    "index": 0,
+    "action": "javascript:throw new Error('A React form was unexpectedly submitted. If you called form.submit() manually, consider using form.requestSubmit() instead. If you\\'re trying to use event.stopPropagation() in a submit event handler, consider also calling event.preventDefault().')",
+    "method": "get",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "formAmbiance",
+        "placeholder": null,
+        "checked": false,
+        "value": "toggle"
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "action": "https://www.jn.pt/",
+    "method": "get",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "search",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      }
+    ]
+  }
+]

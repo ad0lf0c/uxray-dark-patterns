@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.tous.com_20260615_224241",
+  "mean_dark": 0.4038245677947998,
+  "mean_fair": 0.9996901154518127,
+  "net_score": -0.5958655476570129,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "none",
+      1.0000001192092896
+    ],
+    [
+      "none",
+      0.9998222589492798
+    ],
+    [
+      "none",
+      0.999822199344635
+    ],
+    [
+      "none",
+      0.9998195171356201
+    ],
+    [
+      "none",
+      0.999817430973053
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

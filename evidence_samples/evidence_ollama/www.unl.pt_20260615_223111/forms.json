@@ -1,0 +1,34 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.unl.pt/",
+    "method": "get",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "s",
+        "placeholder": "O que procura?",
+        "checked": false,
+        "value": null
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "action": "https://www.unl.pt/",
+    "method": "get",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "s",
+        "placeholder": "O que procura?",
+        "checked": false,
+        "value": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "index": 0,
+    "action": "https://casacerta.pt/imoveis",
+    "method": "get",
+    "text": "Comprar\nArrendar\nPara férias\nId ou Ref.\n Procurar no mapa\nCasas e Apartamentos\n  Escolha por favor uma localização da lista.\nPesquisar\nCasas e apartamentos nos distritos de: Lisboa, Porto, Braga, Faro",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "finalidade",
+        "placeholder": null,
+        "checked": false,
+        "value": "Venda"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "proptype",
+        "placeholder": null,
+        "checked": false,
+        "value": "1,2,7"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": null,
+        "placeholder": "Escolha uma Localização",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "useRef",
+        "placeholder": null,
+        "checked": false,
+        "value": "useRef"
+      }
+    ]
+  }
+]

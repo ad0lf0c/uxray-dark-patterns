@@ -1,0 +1,165 @@
+{
+  "detected": true,
+  "selector_matched": "#onetrust-banner-sdk",
+  "banner_text": "Preocupamo-nos com a sua privacidade\nEste website utiliza cookies para assegurar o bom funcionamento das páginas (cookies estritamente necessários) bem como para otimizar e personalizar a sua experiência no site (cookies analíticos). Ao clicar aceitar abaixo, concorda que o Cetelem e os seus parceiros recolham informações de preferências, publicidade, redes sociais e de geolocalização para efeitos de marketing e fins estatísticos. O nosso parceiro Weborama, pioneiro em AdTech em inteligência artificial semântica em França e na Europa, responde aos novos desafios tecnológicos enfrentados por agências, editores e anunciantes no mercado de publicidade digital, garantindo um relacionamento respeitoso com os Utilizadores da Internet. Para + info consulte a Política de Cookies do Cetelem ou do parceiro Weborama. Política de Cookies Cetelem Política de Cookies Weborama\nLista de parceiros\nPersonalizar cookies\nRejeitar todas Aceitar todas as cookies",
+  "buttons": [
+    {
+      "index": 0,
+      "tag": "button",
+      "text": "Lista de parceiros",
+      "id": null,
+      "class": "ot-link-btn ot-gv-list-handler",
+      "visible": true,
+      "x": 432,
+      "y": 469,
+      "width": 107,
+      "height": 21,
+      "area": 2237,
+      "color": "rgb(90, 90, 90)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "border": "0px none rgb(90, 90, 90)",
+      "opacity": "1"
+    },
+    {
+      "index": 1,
+      "tag": "button",
+      "text": "Personalizar cookies",
+      "id": "onetrust-pc-btn-handler",
+      "class": "cookie-setting-link",
+      "visible": true,
+      "x": 432,
+      "y": 515,
+      "width": 200,
+      "height": 44,
+      "area": 8719,
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "fontSize": "14px",
+      "fontWeight": "600",
+      "border": "0px none rgb(0, 0, 0)",
+      "opacity": "1"
+    },
+    {
+      "index": 2,
+      "tag": "button",
+      "text": "Rejeitar todas",
+      "id": "onetrust-reject-all-handler",
+      "class": "",
+      "visible": true,
+      "x": 664,
+      "y": 515,
+      "width": 160,
+      "height": 46,
+      "area": 7295,
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(51, 127, 55)",
+      "fontSize": "14px",
+      "fontWeight": "600",
+      "border": "1px solid rgb(51, 127, 55)",
+      "opacity": "1"
+    },
+    {
+      "index": 3,
+      "tag": "button",
+      "text": "Aceitar todas as cookies",
+      "id": "onetrust-accept-btn-handler",
+      "class": "",
+      "visible": true,
+      "x": 842,
+      "y": 515,
+      "width": 180,
+      "height": 46,
+      "area": 8198,
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(51, 127, 55)",
+      "fontSize": "14px",
+      "fontWeight": "600",
+      "border": "1px solid rgb(51, 127, 55)",
+      "opacity": "1"
+    }
+  ],
+  "checkboxes": [],
+  "has_accept_all": false,
+  "has_reject_all": false,
+  "has_manage_options": true,
+  "accept_reject_area_ratio": null,
+  "preference_panel": {
+    "checkboxes": [
+      {
+        "index": 0,
+        "name": "ot-group-id-C0002",
+        "id": "ot-group-id-C0002",
+        "checked": false,
+        "disabled": false,
+        "label": "Cookies Analíticos - compreender como os visitantes acedem ao nosso Site e medir o número de visitas ao mesmo"
+      },
+      {
+        "index": 1,
+        "name": "ot-group-id-C0003",
+        "id": "ot-group-id-C0003",
+        "checked": false,
+        "disabled": false,
+        "label": "Cookies de Preferência - permite-nos otimizar a experiência do visitante (user experience) no nosso site"
+      },
+      {
+        "index": 2,
+        "name": "ot-group-id-C4S1",
+        "id": "ot-group-id-C4S1",
+        "checked": false,
+        "disabled": false,
+        "label": "Categoria- Cookies de publicidade personalizada"
+      },
+      {
+        "index": 3,
+        "name": "ot-group-id-C4S2",
+        "id": "ot-group-id-C4S2",
+        "checked": false,
+        "disabled": false,
+        "label": "Categoria- Cookies de publicidade não personalizada"
+      },
+      {
+        "index": 4,
+        "name": null,
+        "id": "select-all-hosts-groups-handler",
+        "checked": false,
+        "disabled": false,
+        "label": "checkbox label"
+      },
+      {
+        "index": 5,
+        "name": null,
+        "id": "select-all-vendor-groups-handler",
+        "checked": false,
+        "disabled": false,
+        "label": "checkbox label"
+      },
+      {
+        "index": 6,
+        "name": null,
+        "id": "select-all-vendor-leg-handler",
+        "checked": false,
+        "disabled": false,
+        "label": "checkbox label"
+      },
+      {
+        "index": 7,
+        "name": null,
+        "id": "chkbox-id",
+        "checked": false,
+        "disabled": false,
+        "label": "checkbox label"
+      }
+    ],
+    "total_count": 8,
+    "pre_checked_non_essential_count": 0,
+    "pre_checked_non_essential": []
+  },
+  "dismiss_method": "escape_key",
+  "screenshots": [
+    "screenshot_with_banner.png",
+    "screenshot_consent_preferences.png"
+  ],
+  "errors": []
+}

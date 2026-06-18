@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.wish.com_20260615_224906",
+  "mean_dark": 0.9775551557540894,
+  "mean_fair": 0.5774051547050476,
+  "net_score": 0.40015000104904175,
+  "decision_zone": "uncertain",
+  "final_label": "inconclusive",
+  "top5_similar": [
+    [
+      "suspected",
+      0.9813665747642517
+    ],
+    [
+      "suspected",
+      0.979745090007782
+    ],
+    [
+      "suspected",
+      0.9796323180198669
+    ],
+    [
+      "suspected",
+      0.9793028235435486
+    ],
+    [
+      "suspected",
+      0.9791033864021301
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

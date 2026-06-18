@@ -1,0 +1,17 @@
+{
+  "url_requested": "https://www.nos.pt",
+  "url_final": "https://www.nos.pt/",
+  "title": "NOS - 5G, Internet, Telemóvel, Televisão, Telefone e Alarmes",
+  "captured_at": "2026-06-07T23:19:16",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/Users/karolhenriques/Downloads/SIGPRD_blackpatterns/evidence_gemini/www.nos.pt_20260607_231916",
+  "status": "blocked",
+  "stats": {},
+  "keyword_hits": [],
+  "files": {},
+  "bot_wall": "Google reCAPTCHA"
+}

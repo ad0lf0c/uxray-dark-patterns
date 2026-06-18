@@ -1,0 +1,58 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.noticiasaominuto.com/pesquisa",
+    "method": "get",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "q",
+        "placeholder": "Quero saber notícias sobre...",
+        "checked": false,
+        "value": null
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "action": "https://www.noticiasaominuto.com/newsletters/m",
+    "method": "post",
+    "text": "Your Email\nRECEBER\nIMPLICA EM ACEITAÇÃO DOS TERMOS & CONDIÇÕES E POLÍTICA DE PRIVACIDADE\nQuero receber as newsletters Notícias ao Minuto\nQuero receber Ofertas Exclusivas dos parceiros (publicidade)",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": null,
+        "name": "email",
+        "placeholder": "O seu email",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": null,
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "emkt",
+        "placeholder": null,
+        "checked": false,
+        "value": "on"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_token",
+        "placeholder": null,
+        "checked": false,
+        "value": "AYmnzXDQqIrcPc6Ay2Gt1RtV3H3sGdnyOkK8MTrv"
+      }
+    ]
+  }
+]

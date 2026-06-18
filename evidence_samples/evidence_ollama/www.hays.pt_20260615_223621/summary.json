@@ -1,0 +1,17 @@
+{
+  "url_requested": "https://www.hays.pt",
+  "url_final": "https://www.hays.pt/",
+  "title": "Hays | Recrutamento de profissionais qualificados em Portugal",
+  "captured_at": "2026-06-15T22:36:21",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.hays.pt_20260615_223621",
+  "status": "blocked",
+  "stats": {},
+  "keyword_hits": [],
+  "files": {},
+  "bot_wall": "Imperva / Incapsula"
+}

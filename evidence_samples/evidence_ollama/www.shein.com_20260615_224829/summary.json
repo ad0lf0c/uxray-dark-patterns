@@ -1,0 +1,43 @@
+{
+  "url_requested": "https://www.shein.com/pt",
+  "url_final": "https://pt.shein.com/pt?cdn_rsite=cf&ref=www&rep=dir&ret=pt",
+  "title": "Roupas Femininas e Masculinas, Loja de Moda Online | SHEIN",
+  "captured_at": "2026-06-15T22:48:29",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.shein.com_20260615_224829",
+  "status": "completed",
+  "stats": {
+    "visible_text_chars": 1550,
+    "buttons_links_count": 98,
+    "forms_count": 1,
+    "checkboxes_radios_count": 4,
+    "keyword_hits_count": 3,
+    "consent_banner_detected": true
+  },
+  "keyword_hits": [
+    "cookies",
+    "cookies",
+    "cancelar"
+  ],
+  "files": {
+    "screenshot": "screenshot.png",
+    "html": "page.html",
+    "visible_text": "visible_text.txt",
+    "buttons": "buttons.json",
+    "forms": "forms.json",
+    "checkboxes": "checkboxes.json",
+    "consent_banner": "consent_banner.json",
+    "summary": "summary.json",
+    "screenshot_with_banner": "screenshot_with_banner.png"
+  },
+  "score": 4.5,
+  "risk_level": "Medium - preliminary",
+  "has_accept_all": false,
+  "has_reject_all": false,
+  "banner_detected": true,
+  "banner_selector": "[role='dialog'][aria-modal='true']"
+}

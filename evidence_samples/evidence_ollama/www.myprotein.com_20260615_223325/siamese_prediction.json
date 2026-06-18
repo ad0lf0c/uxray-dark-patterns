@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.myprotein.com_20260615_223325",
+  "mean_dark": 0.8918680548667908,
+  "mean_fair": 0.7620956897735596,
+  "net_score": 0.1297723650932312,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "suspected",
+      0.899902880191803
+    ],
+    [
+      "suspected",
+      0.896424412727356
+    ],
+    [
+      "suspected",
+      0.8960610628128052
+    ],
+    [
+      "suspected",
+      0.8957244157791138
+    ],
+    [
+      "suspected",
+      0.8951883912086487
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

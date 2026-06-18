@@ -1,0 +1,17 @@
+{
+  "url_requested": "https://www.springfield.pt",
+  "url_final": null,
+  "title": null,
+  "captured_at": "2026-06-15T22:46:30",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.springfield.pt_20260615_224630",
+  "status": "failed",
+  "stats": {},
+  "keyword_hits": [],
+  "files": {},
+  "error": "Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.springfield.pt/\nCall log:\n  - navigating to \"https://www.springfield.pt/\", waiting until \"domcontentloaded\"\n"
+}

@@ -1,0 +1,17 @@
+{
+  "url_requested": "https://www.jumbo.pt",
+  "url_final": null,
+  "title": null,
+  "captured_at": "2026-06-15T22:31:55",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.jumbo.pt_20260615_223155",
+  "status": "failed",
+  "stats": {},
+  "keyword_hits": [],
+  "files": {},
+  "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.jumbo.pt/\nCall log:\n  - navigating to \"https://www.jumbo.pt/\", waiting until \"domcontentloaded\"\n"
+}

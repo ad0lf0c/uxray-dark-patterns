@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.guess.eu_20260615_224154",
+  "mean_dark": 0.39375004172325134,
+  "mean_fair": 0.9997407793998718,
+  "net_score": -0.6059907376766205,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "none",
+      1.0
+    ],
+    [
+      "none",
+      0.9998693466186523
+    ],
+    [
+      "none",
+      0.9998667240142822
+    ],
+    [
+      "none",
+      0.9998664855957031
+    ],
+    [
+      "none",
+      0.999862551689148
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

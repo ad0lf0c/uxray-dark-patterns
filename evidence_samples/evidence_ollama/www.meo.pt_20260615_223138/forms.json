@@ -1,0 +1,226 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.meo.pt/tv?TermStoreId=6530ff20-a0c0-45dd-8345-6e4bbe325044&TermSetId=ef320081-ab8f-4707-b5b3-eb82d079d381&TermId=b4882102-732d-4174-bdeb-58b6df1f5a66",
+    "method": "post",
+    "text": "Saltar para os conteúdos\nENGLISH\nParticulares\nCondições de oferta dos serviços\nDepressão Kristin\nOcorrências\nPacotes Fibra\nMóvel 5G\nTV\nEnergia\nSegurança\nLoja Online\nAjuda\nmy MEO\nMEOS\nCarrinho\nAderir\nTodas as novidades e atualizações da TV MEO\n\nProgramas para toda a família: ação e aventura, drama, comédias românticas e animação para os Kids.\n\n\nConhecer as novidades\nDesporto\n\nXCC Elites Femininos\n\nSaber Mais\nBTT: Taça Mundo, Lenzerheide (Direto)\n\nQui, 18 jun., 16:45 - 17:45\n\nAssiste ao Campeonato Nacional de Hóquei em Patins.\n\nSaber Mais\nHóquei: Sporting CP x Benfica- Campeonato Nacional (Direto)\n\nQua, 17 jun., 20:30 - 22:30\n\nLiga das Nações\n\nSaber Mais\nHipismo: Liga das Nações, Roterdão (Direto)\n\nQui, 18 jun., 18:15 - 20:00\n\nEtapa 2 Locarno - Locarno (157,7 km)\n\nSaber Mais\nCiclismo: Volta à Suíça (Direto)\n\nQua, 17 jun., 15:00 - 17:00\n\nEtapa 1 Velenje – Rogaška Slatina (141,6 km)\n\nSaber Mais\nCiclismo: Volta à Eslovénia (Direto)\n\nTer, 16 jun., 12:30 - 14:45\n\nTransmissão do encontro a con",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__SPSCEditMenu",
+        "placeholder": null,
+        "checked": false,
+        "value": "true"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpcmWpid",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "wpcmVal",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOWebPartPage_PostbackSource",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOTlPn_SelectedWpId",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOTlPn_View",
+        "placeholder": null,
+        "checked": false,
+        "value": "0"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOTlPn_ShowSettings",
+        "placeholder": null,
+        "checked": false,
+        "value": "False"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOGallery_SelectedLibrary",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOGallery_FilterString",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOTlPn_Button",
+        "placeholder": null,
+        "checked": false,
+        "value": "none"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__REQUESTDIGEST",
+        "placeholder": null,
+        "checked": false,
+        "value": "0xBC239578109BC476D81BDA76955A937B5DA0712CE128920973D3BB9569D9C29A1C1C5485C0F70978F588EDAB0B9CF728BDEDD35978AE40D3BA994C6754FF7507,15 Jun 2026 22:31:40 -0000"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOSPWebPartManager_DisplayModeName",
+        "placeholder": null,
+        "checked": false,
+        "value": "Browse"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOSPWebPartManager_ExitingDesignMode",
+        "placeholder": null,
+        "checked": false,
+        "value": "false"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOWebPartPage_Shared",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOLayout_LayoutChanges",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOLayout_InDesignMode",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpSelected",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wzSelected",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOSPWebPartManager_OldDisplayModeName",
+        "placeholder": null,
+        "checked": false,
+        "value": "Browse"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOSPWebPartManager_StartWebPartEditingName",
+        "placeholder": null,
+        "checked": false,
+        "value": "false"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOSPWebPartManager_EndWebPartEditing",
+        "placeholder": null,
+        "checked": false,
+        "value": "false"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "placeholder": null,
+        "checked": false,
+        "value": "ENR3bNGOQUAh36+O7UW+I6pM9AS8LylloMyS7oWYjY3VgNh02K/0rWUlrVKEEWPVc86UQnpqxejMJe51ImDj1REWKsXnD5icN+CKwlUwwCI7lz++DgVcroJzFtXiM6DSlNunuRIL21ZfiZGgE8ZLCIChDBEfHhkHyAf2gU/qBFjyTn8SjLqWmvoALLr7Gnc14gK5kbZA9wTmaQfMgoC93rb1OgHXrf9mK+LLGqpdnuAbr/c78KjkWxNkLPShbc94gFPAaXGdMUsJNE4DOVKOxhKhpvu1AFOaMWUvXA5j7DGSHaFhEqKiUuRb9x2hoOLM0uLvyO2vBAXcIUb01I46nHx/z65wg1sOHNzSF4TKhCcbn3lI8N3xl0XJeLKs9ha6myh6fWPxPTVkFt1DbULUqgf/zOwdtACUezFMk5G7SrUBWvID8qk3ZHNaDRyTEAso8Rn+fS67c3FfSTus9gX9QkQ93Soix6vWqrWJKHQH827+1DC1I15Lk9K9+i8qiD0cTk70Xb/K8SXqCsz2ATlnUyhQFxTid02/RpNyWNoag+z4j0rvIWsTUqNIhvYiF9An89zlugAnJDv+A9ZI/CnC3TWTjhOR1DHRJ34Jwb8kLRAkSHjhBemuMXw1fYJZAVpV"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "placeholder": null,
+        "checked": false,
+        "value": "FA3903EC"
+      },
+      {
+        "tag": "input",
+        "type": "search",
+        "name": null,
+        "placeholder": "Pesquisar",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "search",
+        "name": null,
+        "placeholder": "Pesquisar",
+        "checked": false,
+        "value": null
+      }
+    ]
+  }
+]

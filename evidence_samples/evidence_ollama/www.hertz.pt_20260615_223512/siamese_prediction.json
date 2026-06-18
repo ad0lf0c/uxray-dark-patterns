@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.hertz.pt_20260615_223512",
+  "mean_dark": 0.863020122051239,
+  "mean_fair": 0.8008813261985779,
+  "net_score": 0.06213879585266113,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "suspected",
+      0.8724061846733093
+    ],
+    [
+      "suspected",
+      0.8684903383255005
+    ],
+    [
+      "suspected",
+      0.8680080771446228
+    ],
+    [
+      "suspected",
+      0.8672430515289307
+    ],
+    [
+      "suspected",
+      0.8665822744369507
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

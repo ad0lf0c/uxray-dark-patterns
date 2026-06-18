@@ -1,0 +1,17 @@
+{
+  "detected": true,
+  "selector_matched": "[aria-label*='privacidade' i]",
+  "banner_text": "Política de Privacidade",
+  "buttons": [],
+  "checkboxes": [],
+  "has_accept_all": false,
+  "has_reject_all": false,
+  "has_manage_options": false,
+  "accept_reject_area_ratio": null,
+  "preference_panel": null,
+  "dismiss_method": "escape_key",
+  "screenshots": [
+    "screenshot_with_banner.png"
+  ],
+  "errors": []
+}

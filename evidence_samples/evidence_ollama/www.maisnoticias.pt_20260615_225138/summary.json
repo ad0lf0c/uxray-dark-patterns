@@ -1,0 +1,17 @@
+{
+  "url_requested": "https://www.maisnoticias.pt",
+  "url_final": null,
+  "title": null,
+  "captured_at": "2026-06-15T22:51:38",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.maisnoticias.pt_20260615_225138",
+  "status": "failed",
+  "stats": {},
+  "keyword_hits": [],
+  "files": {},
+  "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.maisnoticias.pt/\nCall log:\n  - navigating to \"https://www.maisnoticias.pt/\", waiting until \"domcontentloaded\"\n"
+}

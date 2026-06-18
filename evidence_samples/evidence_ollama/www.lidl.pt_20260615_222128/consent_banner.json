@@ -1,0 +1,146 @@
+{
+  "detected": true,
+  "selector_matched": "#onetrust-banner-sdk",
+  "banner_text": "Antes de prosseguirmos: Tratamento dos seus dados\n\nEnquanto administrador dos nossos sites e da aplicação Lidl, tratamos os seus dados nos nossos sites e na nossa aplicação (em conjunto: \"serviços Lidl\") com recurso a diferentes tecnologias, que são utilizadas para aceder e armazenar informações no seu dispositivo final. Algumas delas são tecnicamente necessárias ou são utilizadas com o seu consentimento para definições convenientes, para gerar estatísticas ou para publicidade personalizada dentro e fora dos serviços Lidl. Se for membro do programa Lidl Plus, os dados relativos ao seu comportamento de compra na loja também serão tratados para estes fins.\n\nAo clicar em \"Personalizar\", pode autorizar finalidades de utilização de forma individualizada e obter mais informações sobre o tratamento de dados.\n\nAo clicar em \"Rejeitar\", só pode autorizar a utilização das tecnologias necessárias. Ao clicar em \"Aceitar\", está a consentir todo o tratamento para todos os fins acima indicados. Para mais informações, incluindo sobre o prazo de conservação dos dados e o direito de retirar o seu consentimento em qualquer altura, com efeitos para o futuro, consulte a nossa política de proteção de dados. Pode consultar a nossa ficha técnica aqui.\n\nREJEITAR\nPERSONALIZAR\nACEITAR",
+  "buttons": [
+    {
+      "index": 0,
+      "tag": "button",
+      "text": "REJEITAR",
+      "id": "onetrust-reject-all-handler",
+      "class": "ot-button-order-0",
+      "visible": true,
+      "x": 745,
+      "y": 738,
+      "width": 91,
+      "height": 46,
+      "area": 4186,
+      "color": "rgb(0, 80, 170)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "fontSize": "16px",
+      "fontWeight": "600",
+      "border": "0px none rgb(0, 80, 170)",
+      "opacity": "1"
+    },
+    {
+      "index": 1,
+      "tag": "button",
+      "text": "PERSONALIZAR",
+      "id": "onetrust-pc-btn-handler",
+      "class": "ot-button-order-1",
+      "visible": true,
+      "x": 844,
+      "y": 738,
+      "width": 131,
+      "height": 46,
+      "area": 6026,
+      "color": "rgb(0, 80, 170)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "fontSize": "16px",
+      "fontWeight": "600",
+      "border": "0px none rgb(0, 80, 170)",
+      "opacity": "1"
+    },
+    {
+      "index": 2,
+      "tag": "button",
+      "text": "ACEITAR",
+      "id": "onetrust-accept-btn-handler",
+      "class": "ot-button-order-2",
+      "visible": true,
+      "x": 999,
+      "y": 738,
+      "width": 89,
+      "height": 46,
+      "area": 4094,
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(0, 80, 170)",
+      "fontSize": "16px",
+      "fontWeight": "600",
+      "border": "1px solid rgb(255, 255, 255)",
+      "opacity": "1"
+    }
+  ],
+  "checkboxes": [],
+  "has_accept_all": false,
+  "has_reject_all": false,
+  "has_manage_options": true,
+  "accept_reject_area_ratio": null,
+  "preference_panel": {
+    "checkboxes": [
+      {
+        "index": 0,
+        "name": null,
+        "id": "a-product-recall-new-template-10096013-10200307",
+        "checked": false,
+        "disabled": false,
+        "label": "Alerta campanhas falsas em sites e redes não oficiais Lidl"
+      },
+      {
+        "index": 1,
+        "name": "ot-group-id-C0002",
+        "id": "ot-group-id-C0002",
+        "checked": false,
+        "disabled": false,
+        "label": ""
+      },
+      {
+        "index": 2,
+        "name": "ot-group-id-C0003",
+        "id": "ot-group-id-C0003",
+        "checked": false,
+        "disabled": false,
+        "label": ""
+      },
+      {
+        "index": 3,
+        "name": "ot-group-id-C0004",
+        "id": "ot-group-id-C0004",
+        "checked": false,
+        "disabled": false,
+        "label": ""
+      },
+      {
+        "index": 4,
+        "name": null,
+        "id": "chkbox-id",
+        "checked": false,
+        "disabled": false,
+        "label": "checkbox label"
+      },
+      {
+        "index": 5,
+        "name": null,
+        "id": "select-all-hosts-groups-handler",
+        "checked": false,
+        "disabled": false,
+        "label": "checkbox label"
+      },
+      {
+        "index": 6,
+        "name": null,
+        "id": "select-all-vendor-groups-handler",
+        "checked": false,
+        "disabled": false,
+        "label": "checkbox label"
+      },
+      {
+        "index": 7,
+        "name": null,
+        "id": "select-all-vendor-leg-handler",
+        "checked": false,
+        "disabled": false,
+        "label": "checkbox label"
+      }
+    ],
+    "total_count": 8,
+    "pre_checked_non_essential_count": 0,
+    "pre_checked_non_essential": []
+  },
+  "dismiss_method": "escape_key",
+  "screenshots": [
+    "screenshot_with_banner.png",
+    "screenshot_consent_preferences.png"
+  ],
+  "errors": []
+}

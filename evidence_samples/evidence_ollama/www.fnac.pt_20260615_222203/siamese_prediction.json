@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.fnac.pt_20260615_222203",
+  "mean_dark": 0.3962332606315613,
+  "mean_fair": 0.9990137815475464,
+  "net_score": -0.6027805209159851,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "none",
+      0.9992538690567017
+    ],
+    [
+      "none",
+      0.9992367625236511
+    ],
+    [
+      "none",
+      0.9992103576660156
+    ],
+    [
+      "none",
+      0.9991739392280579
+    ],
+    [
+      "none",
+      0.9991414546966553
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

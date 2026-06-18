@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.feber.com_20260615_223812",
+  "mean_dark": 0.3916005790233612,
+  "mean_fair": 0.999751627445221,
+  "net_score": -0.6081510484218597,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "none",
+      1.0000001192092896
+    ],
+    [
+      "none",
+      0.9998699426651001
+    ],
+    [
+      "none",
+      0.9998698830604553
+    ],
+    [
+      "none",
+      0.99986332654953
+    ],
+    [
+      "none",
+      0.9998619556427002
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

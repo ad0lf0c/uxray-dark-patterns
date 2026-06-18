@@ -1,0 +1,17 @@
+{
+  "url_requested": "https://www.coolblue.pt",
+  "url_final": null,
+  "title": null,
+  "captured_at": "2026-06-15T22:38:34",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.coolblue.pt_20260615_223834",
+  "status": "failed",
+  "stats": {},
+  "keyword_hits": [],
+  "files": {},
+  "error": "Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.coolblue.pt/\nCall log:\n  - navigating to \"https://www.coolblue.pt/\", waiting until \"domcontentloaded\"\n"
+}

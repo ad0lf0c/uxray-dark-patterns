@@ -1,0 +1,138 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.motivi.com/it_IT/search",
+    "method": "get",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "q",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "lang",
+        "placeholder": null,
+        "checked": false,
+        "value": "it_IT"
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "action": "https://www.motivi.com/on/demandware.store/Sites-motivi_global-Site/it_IT/Account-Login?rurl=1",
+    "method": "post",
+    "text": "Indirizzo email\n        \n        \n        \n    \n\n    \n        \n                Password\n        \n        \n        \n    \n\n    \n        \n            \n            \n                Memorizza accesso\n            \n        \n\n        \n            \n                password dimenticata?\n            \n        \n    \n\n    \n\n    Accedi",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "loginEmail",
+        "placeholder": null,
+        "checked": false,
+        "value": "null"
+      },
+      {
+        "tag": "input",
+        "type": "password",
+        "name": "loginPassword",
+        "placeholder": null,
+        "checked": false,
+        "value": "[REDACTED]"
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "loginRememberMe",
+        "placeholder": null,
+        "checked": false,
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "action": "https://www.motivi.com/pt",
+    "method": "get",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "dwfrm_newsletter_email",
+        "placeholder": "Email *",
+        "checked": false,
+        "value": null
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "action": "https://www.motivi.com/on/demandware.store/Sites-motivi_global-Site/it_IT/Account-PasswordResetDialogForm?mobile=",
+    "method": "post",
+    "text": "Hai dimenticato la password\n        \n            Specifica l’indirizzo e-mail associato al tuo account per ricevere le istruzioni per reimpostare la password via e-mail.\n            \n                \n                    Indirizzo email\n                \n                \n                \n            \n        \n    \n    \n        \n            Annulla\n        \n        \n            \n                Invia",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "loginEmail",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      }
+    ]
+  },
+  {
+    "index": 4,
+    "action": "https://www.motivi.com/pt",
+    "method": "post",
+    "text": "SI, MI ISCRIVO\n                \n            \n        \n\n        \n         \n            I tuoi dati verranno trattati in accordo alla Informativa della Privacy.",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "csrf_token",
+        "placeholder": null,
+        "checked": false,
+        "value": "vClvHv-0WT6FrgeaAwA50arTLud4ueIycpTw9tidWtjHCG35abw07ixxeomHOxDPs8nu4MM-kDnNY5i2_7v9GqKtLm09RdpIO7waSgnOQe4zoOjV8KhHfrNfK_KNtltKU1ZmWbjxoOnx5-iEzutJLhGMxKcPKys2CrNb_DiWL4PWRaI_Sxc="
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "placeholder": "Email",
+        "checked": false,
+        "value": null
+      }
+    ]
+  },
+  {
+    "index": 5,
+    "action": "https://www.motivi.com/pt",
+    "method": "post",
+    "text": "SI, MI ISCRIVO\n\nI tuoi dati verranno trattati in accordo alla Informativa della Privacy.",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "csrf_token",
+        "placeholder": null,
+        "checked": false,
+        "value": "vClvHv-0WT6FrgeaAwA50arTLud4ueIycpTw9tidWtjHCG35abw07ixxeomHOxDPs8nu4MM-kDnNY5i2_7v9GqKtLm09RdpIO7waSgnOQe4zoOjV8KhHfrNfK_KNtltKU1ZmWbjxoOnx5-iEzutJLhGMxKcPKys2CrNb_DiWL4PWRaI_Sxc="
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "placeholder": "Email",
+        "checked": false,
+        "value": null
+      }
+    ]
+  }
+]

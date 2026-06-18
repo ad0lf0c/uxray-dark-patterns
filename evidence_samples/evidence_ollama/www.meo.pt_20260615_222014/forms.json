@@ -1,0 +1,226 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.meo.pt/",
+    "method": "post",
+    "text": "Saltar para os conteúdos\nENGLISH\nParticulares\nCondições de oferta dos serviços\nDepressão Kristin\nOcorrências\nPacotes Fibra\nMóvel 5G\nTV\nEnergia\nSegurança\nLoja Online\nAjuda\nmy MEO\nMEOS\nCarrinho\nAderir\nMEO – Net, TV, Móvel 5G, Segurança, Eletricidade e Saúde\n\nOperador Oficial de Portugal\n\nSaber mais\nOferta 2º cartão\nAdere ao M4e com oferta do 2º cartão ilimitado\n\nAcumula voucher €150 exclusivo online.\n\nVer pacotes fibra\nM4e família\nM4e com 2 cartões ilimitados\nPacotes com Smart TV Xiaomi\nM4e com 9 meses Sport TV\nXiaomi 17T Series\nPoupa com MEO Energia\n\nOlá!\n\nÉs cliente MEO? Faz login e vê ofertas para ti ou descobre o MEO.\n\nNet + Móvel\nà máxima velocidade\nFibra até 10Gbps\nMelhor Net\nSmartphones\na Prestações\n100% verde\nMEO Energia\nTarifários\nMóvel 5G\nO MEO vai contigo\nMudança de Casa\nPor apenas €19,99/mês\nTarifário M Móvel Ilimitado\n\nDados móveis ilimitados 5G, SMS e chamadas ilimitadas.\n\nVer Tarifários Dados Móveis\nTV Net Voz desde €29,49/mês\n\nM3e com 1Gbps de velocidade Fibra. Acumula co",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__SPSCEditMenu",
+        "placeholder": null,
+        "checked": false,
+        "value": "true"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpcmWpid",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "wpcmVal",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOWebPartPage_PostbackSource",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOTlPn_SelectedWpId",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOTlPn_View",
+        "placeholder": null,
+        "checked": false,
+        "value": "0"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOTlPn_ShowSettings",
+        "placeholder": null,
+        "checked": false,
+        "value": "False"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOGallery_SelectedLibrary",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOGallery_FilterString",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOTlPn_Button",
+        "placeholder": null,
+        "checked": false,
+        "value": "none"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__REQUESTDIGEST",
+        "placeholder": null,
+        "checked": false,
+        "value": "0xCCE93BDBA466FC796B341E7FADE08265EE36CB6EE148E2BACE6D3C2A2354774D9E6739F725618A7F8BA1EB145F6B39A312CACE6565E730EEDA1E5D45F344F9C8,15 Jun 2026 22:20:15 -0000"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOSPWebPartManager_DisplayModeName",
+        "placeholder": null,
+        "checked": false,
+        "value": "Browse"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOSPWebPartManager_ExitingDesignMode",
+        "placeholder": null,
+        "checked": false,
+        "value": "false"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOWebPartPage_Shared",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOLayout_LayoutChanges",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOLayout_InDesignMode",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpSelected",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wzSelected",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOSPWebPartManager_OldDisplayModeName",
+        "placeholder": null,
+        "checked": false,
+        "value": "Browse"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOSPWebPartManager_StartWebPartEditingName",
+        "placeholder": null,
+        "checked": false,
+        "value": "false"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOSPWebPartManager_EndWebPartEditing",
+        "placeholder": null,
+        "checked": false,
+        "value": "false"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "placeholder": null,
+        "checked": false,
+        "value": "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"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "placeholder": null,
+        "checked": false,
+        "value": "FA3903EC"
+      },
+      {
+        "tag": "input",
+        "type": "search",
+        "name": null,
+        "placeholder": "Pesquisar",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "search",
+        "name": null,
+        "placeholder": "Pesquisar",
+        "checked": false,
+        "value": null
+      }
+    ]
+  }
+]

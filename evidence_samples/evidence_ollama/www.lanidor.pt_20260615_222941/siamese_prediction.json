@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.lanidor.pt_20260615_222941",
+  "mean_dark": 0.4036076068878174,
+  "mean_fair": 0.9996658563613892,
+  "net_score": -0.5960582494735718,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "none",
+      1.0
+    ],
+    [
+      "none",
+      0.9997978806495667
+    ],
+    [
+      "none",
+      0.9997871518135071
+    ],
+    [
+      "none",
+      0.9997847676277161
+    ],
+    [
+      "none",
+      0.9997703433036804
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

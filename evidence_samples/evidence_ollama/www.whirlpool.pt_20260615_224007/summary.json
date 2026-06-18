@@ -1,0 +1,38 @@
+{
+  "url_requested": "https://www.whirlpool.pt",
+  "url_final": "https://www.whirlpool.pt/",
+  "title": "Whirlpool: a inovação e design em eletrodomésticos | Whirlpool Portugal",
+  "captured_at": "2026-06-15T22:40:07",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.whirlpool.pt_20260615_224007",
+  "status": "completed",
+  "stats": {
+    "visible_text_chars": 2029,
+    "buttons_links_count": 77,
+    "forms_count": 1,
+    "checkboxes_radios_count": 0,
+    "keyword_hits_count": 0,
+    "consent_banner_detected": false
+  },
+  "keyword_hits": [],
+  "files": {
+    "screenshot": "screenshot.png",
+    "html": "page.html",
+    "visible_text": "visible_text.txt",
+    "buttons": "buttons.json",
+    "forms": "forms.json",
+    "checkboxes": "checkboxes.json",
+    "consent_banner": "consent_banner.json",
+    "summary": "summary.json"
+  },
+  "score": 0.0,
+  "risk_level": "None detected",
+  "has_accept_all": false,
+  "has_reject_all": false,
+  "banner_detected": false,
+  "banner_selector": ""
+}

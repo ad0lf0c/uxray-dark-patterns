@@ -1,0 +1,17 @@
+{
+  "url_requested": "https://www.majorica.com/pt",
+  "url_final": "https://www.majorica.com/es-eu",
+  "title": "Tienda Oficial Perlas Majorica® | Reinventando las Perlas | Perlas",
+  "captured_at": "2026-06-15T22:42:48",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.majorica.com_20260615_224248",
+  "status": "blocked",
+  "stats": {},
+  "keyword_hits": [],
+  "files": {},
+  "bot_wall": "Google reCAPTCHA"
+}

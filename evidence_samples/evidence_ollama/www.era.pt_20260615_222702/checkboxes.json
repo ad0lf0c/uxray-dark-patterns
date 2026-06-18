@@ -1,0 +1,34 @@
+[
+  {
+    "index": 0,
+    "type": "checkbox",
+    "name": "dnn_ucERALoginDesktop-remember",
+    "checked": false,
+    "label": "Lembre-se de mim",
+    "id": "dnn_ucERALoginDesktop-remember"
+  },
+  {
+    "index": 1,
+    "type": "checkbox",
+    "name": "mktAgreement",
+    "checked": false,
+    "label": "Autorizo a ERA Portugal e as Agências ERA a guardar os meus dados para me informar sobre oportunidades de carreira, campanhas de marketing e propostas de financiamento. Autorizo a ERA Portugal e as Agências ERA a guardar os meus dados para me informar sobre oportunidades de carreira, campanhas de marketing e propostas de financiamento.",
+    "id": "mktAgreement"
+  },
+  {
+    "index": 2,
+    "type": "checkbox",
+    "name": "mktAgreement",
+    "checked": false,
+    "label": "",
+    "id": "mktAgreement"
+  },
+  {
+    "index": 3,
+    "type": "checkbox",
+    "name": "AllowMarketingCampaignsNewsletter",
+    "checked": false,
+    "label": "Autorizo a ERA Portugal e as Agências ERA a guardar os meus dados para me informar sobre oportunidades de carreira, campanhas de marketing e propostas de financiamento.",
+    "id": "AllowMarketingCampaignsNewsletter"
+  }
+]

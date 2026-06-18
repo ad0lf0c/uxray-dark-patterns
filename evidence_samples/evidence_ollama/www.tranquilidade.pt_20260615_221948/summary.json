@@ -1,0 +1,17 @@
+{
+  "url_requested": "https://www.tranquilidade.pt",
+  "url_final": "https://www.generalitranquilidade.pt/",
+  "title": "Seguros Generali Tranquilidade | Auto, Saúde, Casa, Vida",
+  "captured_at": "2026-06-15T22:19:48",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.tranquilidade.pt_20260615_221948",
+  "status": "blocked",
+  "stats": {},
+  "keyword_hits": [],
+  "files": {},
+  "bot_wall": "Imperva / Incapsula"
+}

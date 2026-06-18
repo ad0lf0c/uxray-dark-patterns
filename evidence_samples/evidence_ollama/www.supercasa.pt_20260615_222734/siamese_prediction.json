@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.supercasa.pt_20260615_222734",
+  "mean_dark": 0.9998562335968018,
+  "mean_fair": 0.3966059684753418,
+  "net_score": 0.60325026512146,
+  "decision_zone": "uncertain",
+  "final_label": "inconclusive",
+  "top5_similar": [
+    [
+      "suspected",
+      0.9999998211860657
+    ],
+    [
+      "confirmed",
+      0.9999447464942932
+    ],
+    [
+      "suspected",
+      0.9999439120292664
+    ],
+    [
+      "suspected",
+      0.9999379515647888
+    ],
+    [
+      "suspected",
+      0.9999349117279053
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

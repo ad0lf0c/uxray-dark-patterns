@@ -1,0 +1,66 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.cetelem.pt/resultado",
+    "method": "get",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "amount",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "usedAmount",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "goodCode",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "productCode",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "term",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "action": "https://www.cetelem.pt/#",
+    "method": "post",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": null,
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      }
+    ]
+  }
+]

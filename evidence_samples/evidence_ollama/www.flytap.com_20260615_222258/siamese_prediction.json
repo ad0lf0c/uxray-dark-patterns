@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.flytap.com_20260615_222258",
+  "mean_dark": 0.9996664524078369,
+  "mean_fair": 0.3829822838306427,
+  "net_score": 0.6166841685771942,
+  "decision_zone": "uncertain",
+  "final_label": "inconclusive",
+  "top5_similar": [
+    [
+      "confirmed",
+      1.0
+    ],
+    [
+      "suspected",
+      0.9998165965080261
+    ],
+    [
+      "suspected",
+      0.9997971057891846
+    ],
+    [
+      "confirmed",
+      0.9997925758361816
+    ],
+    [
+      "suspected",
+      0.9997925758361816
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

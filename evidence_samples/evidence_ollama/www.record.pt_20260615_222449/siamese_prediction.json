@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.record.pt_20260615_222449",
+  "mean_dark": 0.9998083710670471,
+  "mean_fair": 0.39652299880981445,
+  "net_score": 0.6032853722572327,
+  "decision_zone": "uncertain",
+  "final_label": "inconclusive",
+  "top5_similar": [
+    [
+      "confirmed",
+      1.0000001192092896
+    ],
+    [
+      "suspected",
+      0.9999009966850281
+    ],
+    [
+      "suspected",
+      0.9998902082443237
+    ],
+    [
+      "confirmed",
+      0.9998787641525269
+    ],
+    [
+      "suspected",
+      0.9998762011528015
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

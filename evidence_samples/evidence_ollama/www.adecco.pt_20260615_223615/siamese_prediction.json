@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.adecco.pt_20260615_223615",
+  "mean_dark": 0.39642533659935,
+  "mean_fair": 0.9997621774673462,
+  "net_score": -0.6033368408679962,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "none",
+      0.9999998807907104
+    ],
+    [
+      "none",
+      0.9998644590377808
+    ],
+    [
+      "none",
+      0.9998622536659241
+    ],
+    [
+      "none",
+      0.9998605251312256
+    ],
+    [
+      "none",
+      0.9998542070388794
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

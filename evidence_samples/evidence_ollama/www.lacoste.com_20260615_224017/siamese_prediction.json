@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.lacoste.com_20260615_224017",
+  "mean_dark": 0.39211636781692505,
+  "mean_fair": 0.9998535513877869,
+  "net_score": -0.6077371835708618,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "none",
+      1.0
+    ],
+    [
+      "none",
+      0.999985933303833
+    ],
+    [
+      "none",
+      0.9999858736991882
+    ],
+    [
+      "none",
+      0.9999827742576599
+    ],
+    [
+      "none",
+      0.9999769926071167
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

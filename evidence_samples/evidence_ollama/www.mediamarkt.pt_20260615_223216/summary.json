@@ -1,0 +1,17 @@
+{
+  "url_requested": "https://www.mediamarkt.pt",
+  "url_final": "https://darty.pt/",
+  "title": "Darty - Tecnologia, Eletrodomésticos e Entretenimento",
+  "captured_at": "2026-06-15T22:32:16",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.mediamarkt.pt_20260615_223216",
+  "status": "blocked",
+  "stats": {},
+  "keyword_hits": [],
+  "files": {},
+  "bot_wall": "Google reCAPTCHA"
+}

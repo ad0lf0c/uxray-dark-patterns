@@ -1,0 +1,56 @@
+{
+  "detected": true,
+  "selector_matched": "#onetrust-banner-sdk",
+  "banner_text": "Utilização de Cookies\nA CGD utiliza cookies no website, plataformas ou aplicações, de forma a que funcionem corretamente, para melhorar a navegação, personalizar conteúdos, campanhas, anúncios e analisar a interação do utilizador com fim de apresentar uma melhor experiência ao cliente. Ao clicar em \"Permitir todos os cookies\", concorda com o armazenamento dos cookies pré-definidos pela CGD, que poderá alterar em qualquer momento em \"Configuração de Cookies\".\nConsulte aqui aPolitica de Cookies\nConfigurar cookies Permitir todos os cookies",
+  "buttons": [
+    {
+      "index": 0,
+      "tag": "button",
+      "text": "Configurar cookies",
+      "id": "onetrust-pc-btn-handler",
+      "class": "",
+      "visible": true,
+      "x": 941,
+      "y": 1099,
+      "width": 134,
+      "height": 42,
+      "area": 5590,
+      "color": "rgb(0, 113, 206)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "fontSize": "13.008px",
+      "fontWeight": "600",
+      "border": "1px solid rgb(0, 113, 206)",
+      "opacity": "1"
+    },
+    {
+      "index": 1,
+      "tag": "button",
+      "text": "Permitir todos os cookies",
+      "id": "onetrust-accept-btn-handler",
+      "class": "",
+      "visible": true,
+      "x": 1092,
+      "y": 1099,
+      "width": 171,
+      "height": 42,
+      "area": 7126,
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(0, 113, 206)",
+      "fontSize": "13.008px",
+      "fontWeight": "600",
+      "border": "1px solid rgb(0, 113, 206)",
+      "opacity": "1"
+    }
+  ],
+  "checkboxes": [],
+  "has_accept_all": true,
+  "has_reject_all": false,
+  "has_manage_options": false,
+  "accept_reject_area_ratio": null,
+  "preference_panel": null,
+  "dismiss_method": "escape_key",
+  "screenshots": [
+    "screenshot_with_banner.png"
+  ],
+  "errors": []
+}

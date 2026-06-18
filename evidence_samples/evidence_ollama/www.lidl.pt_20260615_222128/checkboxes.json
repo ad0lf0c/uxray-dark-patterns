@@ -1,0 +1,66 @@
+[
+  {
+    "index": 0,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "Alerta campanhas falsas em sites e redes não oficiais Lidl",
+    "id": "a-product-recall-new-template-10096013-10200307"
+  },
+  {
+    "index": 1,
+    "type": "checkbox",
+    "name": "ot-group-id-C0002",
+    "checked": false,
+    "label": "Conforto",
+    "id": "ot-group-id-C0002"
+  },
+  {
+    "index": 2,
+    "type": "checkbox",
+    "name": "ot-group-id-C0003",
+    "checked": false,
+    "label": "Estatísticas",
+    "id": "ot-group-id-C0003"
+  },
+  {
+    "index": 3,
+    "type": "checkbox",
+    "name": "ot-group-id-C0004",
+    "checked": false,
+    "label": "Marketing",
+    "id": "ot-group-id-C0004"
+  },
+  {
+    "index": 4,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "checkbox label",
+    "id": "chkbox-id"
+  },
+  {
+    "index": 5,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "checkbox label",
+    "id": "select-all-hosts-groups-handler"
+  },
+  {
+    "index": 6,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "checkbox label",
+    "id": "select-all-vendor-groups-handler"
+  },
+  {
+    "index": 7,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "checkbox label",
+    "id": "select-all-vendor-leg-handler"
+  }
+]

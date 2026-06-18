@@ -1,0 +1,17 @@
+{
+  "url_requested": "https://www.remax.pt",
+  "url_final": "https://www.remax.pt/pt",
+  "title": "RE/MAX Portugal",
+  "captured_at": "2026-06-15T22:27:09",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.remax.pt_20260615_222709",
+  "status": "blocked",
+  "stats": {},
+  "keyword_hits": [],
+  "files": {},
+  "bot_wall": "Google reCAPTCHA"
+}

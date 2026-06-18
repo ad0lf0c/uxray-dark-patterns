@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.swarovski.com_20260615_224207",
+  "mean_dark": 0.3928889334201813,
+  "mean_fair": 0.9998358488082886,
+  "net_score": -0.6069469153881073,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "none",
+      0.9999998211860657
+    ],
+    [
+      "none",
+      0.9999663829803467
+    ],
+    [
+      "none",
+      0.9999630451202393
+    ],
+    [
+      "none",
+      0.9999611377716064
+    ],
+    [
+      "none",
+      0.9999557137489319
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

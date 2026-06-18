@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.auchan.pt_20260615_222139",
+  "mean_dark": 0.9997847676277161,
+  "mean_fair": 0.4011976420879364,
+  "net_score": 0.5985871255397797,
+  "decision_zone": "uncertain",
+  "final_label": "inconclusive",
+  "top5_similar": [
+    [
+      "suspected",
+      1.0000001192092896
+    ],
+    [
+      "confirmed",
+      0.999916672706604
+    ],
+    [
+      "confirmed",
+      0.9999060034751892
+    ],
+    [
+      "confirmed",
+      0.9999011158943176
+    ],
+    [
+      "confirmed",
+      0.9998998045921326
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

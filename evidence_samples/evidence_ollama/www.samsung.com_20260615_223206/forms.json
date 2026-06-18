@@ -1,0 +1,378 @@
+[
+  {
+    "index": 0,
+    "action": "https://account.samsung.com/accounts/v1/DCGLPT/signInGate",
+    "method": "get",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "response_type",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "client_id",
+        "placeholder": null,
+        "checked": false,
+        "value": "78t27v4807"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "locale",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "countryCode",
+        "placeholder": null,
+        "checked": false,
+        "value": "PT"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "redirect_uri",
+        "placeholder": null,
+        "checked": false,
+        "value": "/aemapi/v6/data-login/afterLogin.pt.json"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "state",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "goBackURL",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "scope",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "action": "https://account.samsung.com/accounts/v1/DCGLPT/signOutGate",
+    "method": "get",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "client_id",
+        "placeholder": null,
+        "checked": false,
+        "value": "78t27v4807"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "state",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "signOutURL",
+        "placeholder": null,
+        "checked": false,
+        "value": "/aemapi/v6/data-login/afterLogout.pt.json"
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "action": "https://account.samsung.com/membership/",
+    "method": "post",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "actionID",
+        "placeholder": null,
+        "checked": false,
+        "value": "SignupAP"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "serviceID",
+        "placeholder": null,
+        "checked": false,
+        "value": "78t27v4807"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "serviceName",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "domain",
+        "placeholder": null,
+        "checked": false,
+        "value": "www.samsung.com"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "countryCode",
+        "placeholder": null,
+        "checked": false,
+        "value": "PT"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "languageCode",
+        "placeholder": null,
+        "checked": false,
+        "value": "pt"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "registURL",
+        "placeholder": null,
+        "checked": false,
+        "value": "/aemapi/v6/data-login/afterLogin.pt.json"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "returnURL",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "goBackURL",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "ssoType",
+        "placeholder": null,
+        "checked": false,
+        "value": "ENC_TK"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "emailActivationURL",
+        "placeholder": null,
+        "checked": false,
+        "value": "/aemapi/v6/data-login/emailActivationURL.pt.json"
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "action": "https://account.samsung.com/membership/",
+    "method": "post",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "actionID",
+        "placeholder": null,
+        "checked": false,
+        "value": "FindEmail"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "serviceID",
+        "placeholder": null,
+        "checked": false,
+        "value": "78t27v4807"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "serviceName",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "domain",
+        "placeholder": null,
+        "checked": false,
+        "value": "www.samsung.com"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "countryCode",
+        "placeholder": null,
+        "checked": false,
+        "value": "PT"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "languageCode",
+        "placeholder": null,
+        "checked": false,
+        "value": "pt"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "goBackURL",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "ssoType",
+        "placeholder": null,
+        "checked": false,
+        "value": "ENC_TK"
+      }
+    ]
+  },
+  {
+    "index": 4,
+    "action": "https://account.samsung.com/membership/",
+    "method": "post",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "actionID",
+        "placeholder": null,
+        "checked": false,
+        "value": "ModifyUserInfo"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "serviceID",
+        "placeholder": null,
+        "checked": false,
+        "value": "78t27v4807"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "serviceName",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "domain",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "countryCode",
+        "placeholder": null,
+        "checked": false,
+        "value": "PT"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "languageCode",
+        "placeholder": null,
+        "checked": false,
+        "value": "pt"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "goBackURL",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "ssoType",
+        "placeholder": null,
+        "checked": false,
+        "value": "ENC_TK"
+      }
+    ]
+  },
+  {
+    "index": 5,
+    "action": "https://www.samsung.com/pt/",
+    "method": "get",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "productCountText",
+        "placeholder": null,
+        "checked": false,
+        "value": "Número de produtos"
+      }
+    ]
+  },
+  {
+    "index": 6,
+    "action": "https://www.samsung.com/pt/",
+    "method": "get",
+    "text": "Search Form\n\t\t\n          \n            \n          \n        \n        \n\t\t\t\t\t\n        \n        \n\t\t\n          Limpar\n        \n        \n        \n          Scan Barcode",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "search",
+        "placeholder": "Pesquisar",
+        "checked": false,
+        "value": null
+      }
+    ]
+  }
+]

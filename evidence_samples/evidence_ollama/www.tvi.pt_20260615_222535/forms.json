@@ -1,0 +1,34 @@
+[
+  {
+    "index": 0,
+    "action": "https://tvi.iol.pt/pesquisa",
+    "method": "get",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "term",
+        "placeholder": "Pesquisa",
+        "checked": false,
+        "value": null
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "action": "https://tvi.iol.pt/pesquisa",
+    "method": "get",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "term",
+        "placeholder": "Pesquisa",
+        "checked": false,
+        "value": null
+      }
+    ]
+  }
+]

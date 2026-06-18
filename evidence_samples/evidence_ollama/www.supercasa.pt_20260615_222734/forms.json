@@ -1,0 +1,26 @@
+[
+  {
+    "index": 0,
+    "action": "https://supercasa.pt/",
+    "method": "get",
+    "text": "Casas e apartamentos",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "placeholder": null,
+        "checked": false,
+        "value": "CfDJ8DG2XKFpJfZOjCXNDkhmHCbpUdDlDCR_9zdf1TswuP4yBL7SoIr1ltvOZspcU7xvEVuDMrGBMan1oHjs7Cf1zayE5UrNx8yLWx0OiR-qM91KWJwNOsW3VIjkMu3S7VmeQjjDtkVIgEmPCth5begi5Wc"
+      },
+      {
+        "tag": "input",
+        "type": "search",
+        "name": "searchText",
+        "placeholder": "Escreve uma localização",
+        "checked": false,
+        "value": null
+      }
+    ]
+  }
+]

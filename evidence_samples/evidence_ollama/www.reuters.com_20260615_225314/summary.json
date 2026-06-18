@@ -1,0 +1,17 @@
+{
+  "url_requested": "https://www.reuters.com",
+  "url_final": "https://www.reuters.com/",
+  "title": "reuters.com",
+  "captured_at": "2026-06-15T22:53:14",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.reuters.com_20260615_225314",
+  "status": "blocked",
+  "stats": {},
+  "keyword_hits": [],
+  "files": {},
+  "bot_wall": "DataDome CAPTCHA"
+}

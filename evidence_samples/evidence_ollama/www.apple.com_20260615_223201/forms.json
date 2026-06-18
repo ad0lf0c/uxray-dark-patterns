@@ -1,0 +1,26 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.apple.com/pt/search",
+    "method": "get",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": null,
+        "name": null,
+        "placeholder": "Pesquisar em apple.com",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "src",
+        "placeholder": null,
+        "checked": false,
+        "value": "globalnav"
+      }
+    ]
+  }
+]

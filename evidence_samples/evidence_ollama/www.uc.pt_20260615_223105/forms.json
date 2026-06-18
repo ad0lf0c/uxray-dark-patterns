@@ -1,0 +1,26 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.uc.pt/pesquisa/",
+    "method": "get",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "q",
+        "placeholder": "Pesquisar",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "site",
+        "placeholder": null,
+        "checked": false,
+        "value": "1"
+      }
+    ]
+  }
+]

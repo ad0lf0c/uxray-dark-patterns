@@ -1,0 +1,43 @@
+{
+  "url_requested": "https://www.bbc.com/portuguese",
+  "url_final": "https://www.bbc.com/portuguese",
+  "title": "Notícias, vídeos, análise e contexto em português - BBC News Brasil",
+  "captured_at": "2026-06-15T22:53:05",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.bbc.com_20260615_225305",
+  "status": "completed",
+  "stats": {
+    "visible_text_chars": 10908,
+    "buttons_links_count": 146,
+    "forms_count": 0,
+    "checkboxes_radios_count": 0,
+    "keyword_hits_count": 3,
+    "consent_banner_detected": true
+  },
+  "keyword_hits": [
+    "cookies",
+    "only",
+    "cookies"
+  ],
+  "files": {
+    "screenshot": "screenshot.png",
+    "html": "page.html",
+    "visible_text": "visible_text.txt",
+    "buttons": "buttons.json",
+    "forms": "forms.json",
+    "checkboxes": "checkboxes.json",
+    "consent_banner": "consent_banner.json",
+    "summary": "summary.json",
+    "screenshot_with_banner": "screenshot_with_banner.png"
+  },
+  "score": 4.5,
+  "risk_level": "Medium - preliminary",
+  "has_accept_all": false,
+  "has_reject_all": false,
+  "banner_detected": true,
+  "banner_selector": "[id*='consent-banner']"
+}

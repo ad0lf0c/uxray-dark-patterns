@@ -1,0 +1,50 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.seg-social.pt/ptss/pssd/home?dswid=-4048&dswid=-4048",
+    "method": "post",
+    "text": "Saiba mais\nCompreendi",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "cookieForm",
+        "placeholder": null,
+        "checked": false,
+        "value": "cookieForm"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "javax.faces.ViewState",
+        "placeholder": null,
+        "checked": false,
+        "value": "-2002567294459786166:2706007997489879784"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "CTKN_DYN",
+        "placeholder": null,
+        "checked": false,
+        "value": "ZEhuVWNVaDUwZUJpN3ovQjEyMEhhRmZLOG5qdjk4a28vYndWUXVOQWc1SUFpYWtCcjFoSkp6SUdzNDR4THZ4ajIwOFRoZzlCbmVrPQ=="
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "x-lsu",
+        "placeholder": null,
+        "checked": false,
+        "value": "/home"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "x-lbu",
+        "placeholder": null,
+        "checked": false,
+        "value": "/ptss/pssd/home?dswid=-4048"
+      }
+    ]
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.flytap.com/pt-pt",
+    "method": "get",
+    "text": "Ida e volta\nSó ida\nMulti-city\nPagar com milhas\nLaunch\nReservas para empresas\nOrigem\nLIS\narrow_drop_down\nSync\nDestino\narrow_drop_down\nDatas\nSelecionar Datas\nPassageiros\n1 Passageiro(s)\nPesquisar",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "radio",
+        "name": "tripType-radio-group",
+        "placeholder": null,
+        "checked": true,
+        "value": "R"
+      },
+      {
+        "tag": "input",
+        "type": "radio",
+        "name": "tripType-radio-group",
+        "placeholder": null,
+        "checked": false,
+        "value": "O"
+      },
+      {
+        "tag": "input",
+        "type": "radio",
+        "name": "tripType-radio-group",
+        "placeholder": null,
+        "checked": false,
+        "value": "M"
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": null,
+        "placeholder": null,
+        "checked": false,
+        "value": "on"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "flights[0].origin",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": null,
+        "placeholder": "Escolher Origem",
+        "checked": false,
+        "value": "Lisboa, Portugal"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "flights[0].destination",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": null,
+        "placeholder": "Escolher Destino",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "select",
+        "type": null,
+        "name": "formControl-passengersNumber",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      }
+    ]
+  }
+]

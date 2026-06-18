@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.olx.pt_20260615_222746",
+  "mean_dark": 0.9998359680175781,
+  "mean_fair": 0.3970261216163635,
+  "net_score": 0.6028098464012146,
+  "decision_zone": "uncertain",
+  "final_label": "inconclusive",
+  "top5_similar": [
+    [
+      "confirmed",
+      0.9999998211860657
+    ],
+    [
+      "suspected",
+      0.9999276399612427
+    ],
+    [
+      "suspected",
+      0.9999246597290039
+    ],
+    [
+      "confirmed",
+      0.9999122023582458
+    ],
+    [
+      "suspected",
+      0.9999115467071533
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

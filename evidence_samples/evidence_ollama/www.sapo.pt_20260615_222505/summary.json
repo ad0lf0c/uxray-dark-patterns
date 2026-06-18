@@ -1,0 +1,41 @@
+{
+  "url_requested": "https://www.sapo.pt",
+  "url_final": "https://sapo.pt/",
+  "title": "SAPO – Última Hora e Notícias de Hoje atualizadas ao minuto",
+  "captured_at": "2026-06-15T22:25:05",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.sapo.pt_20260615_222505",
+  "status": "completed",
+  "stats": {
+    "visible_text_chars": 15557,
+    "buttons_links_count": 768,
+    "forms_count": 1,
+    "checkboxes_radios_count": 2,
+    "keyword_hits_count": 2,
+    "consent_banner_detected": false
+  },
+  "keyword_hits": [
+    "cookies",
+    "cookies"
+  ],
+  "files": {
+    "screenshot": "screenshot.png",
+    "html": "page.html",
+    "visible_text": "visible_text.txt",
+    "buttons": "buttons.json",
+    "forms": "forms.json",
+    "checkboxes": "checkboxes.json",
+    "consent_banner": "consent_banner.json",
+    "summary": "summary.json"
+  },
+  "score": 2.5,
+  "risk_level": "Low - preliminary",
+  "has_accept_all": false,
+  "has_reject_all": false,
+  "banner_detected": false,
+  "banner_selector": ""
+}

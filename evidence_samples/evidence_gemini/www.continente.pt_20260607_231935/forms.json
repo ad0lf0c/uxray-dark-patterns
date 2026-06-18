@@ -1,0 +1,58 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.continente.pt/pesquisa/",
+    "method": "get",
+    "text": "O que procura?",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "search",
+        "name": "q",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "lang",
+        "placeholder": null,
+        "checked": false,
+        "value": "null"
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "action": "https://www.continente.pt/",
+    "method": "get",
+    "text": "As novidades mais frescas no seu e-mail!\nSubscreva e descubra campanhas exclusivas, ofertas e novidades para si.\nInsira o seu e-mail\nSubscrever",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "csrf_token",
+        "placeholder": null,
+        "checked": false,
+        "value": "dAZ57Kv9qfY8ioS7GW30nihBaxhaOHOLU54jGqe8VFnDopF5sYXnzAyiiJkj8qhInymMoeSILxLtYYwmcYh2yhtK8VcM7wqUo-Aux3MSPNdo6P76fFiLT3WBirNagZX38OGfMbrvLIX2ZT7kDgaYKtKHAHYD_SnyaCpBg-1Z5GwwY1_mivo="
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "hpEmailSignUp",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": null,
+        "placeholder": null,
+        "checked": false,
+        "value": "on"
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.continente.pt_20260615_222058",
+  "mean_dark": 0.9998538494110107,
+  "mean_fair": 0.39346328377723694,
+  "net_score": 0.6063905656337738,
+  "decision_zone": "uncertain",
+  "final_label": "inconclusive",
+  "top5_similar": [
+    [
+      "suspected",
+      1.0000001192092896
+    ],
+    [
+      "suspected",
+      0.9999504685401917
+    ],
+    [
+      "confirmed",
+      0.9999364018440247
+    ],
+    [
+      "suspected",
+      0.9999348521232605
+    ],
+    [
+      "confirmed",
+      0.9999324679374695
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

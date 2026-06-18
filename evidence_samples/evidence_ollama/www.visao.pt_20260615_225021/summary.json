@@ -1,0 +1,17 @@
+{
+  "url_requested": "https://www.visao.pt",
+  "url_final": "https://visao.pt/",
+  "title": "Visão | Notícias da atualidade nacional e internacional",
+  "captured_at": "2026-06-15T22:50:21",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.visao.pt_20260615_225021",
+  "status": "blocked",
+  "stats": {},
+  "keyword_hits": [],
+  "files": {},
+  "bot_wall": "Google reCAPTCHA"
+}

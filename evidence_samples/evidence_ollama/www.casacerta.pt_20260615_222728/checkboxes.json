@@ -1,0 +1,66 @@
+[
+  {
+    "index": 0,
+    "type": "radio",
+    "name": null,
+    "checked": true,
+    "label": "",
+    "id": null
+  },
+  {
+    "index": 1,
+    "type": "radio",
+    "name": null,
+    "checked": false,
+    "label": "",
+    "id": null
+  },
+  {
+    "index": 2,
+    "type": "radio",
+    "name": null,
+    "checked": false,
+    "label": "",
+    "id": null
+  },
+  {
+    "index": 3,
+    "type": "radio",
+    "name": null,
+    "checked": false,
+    "label": "",
+    "id": null
+  },
+  {
+    "index": 4,
+    "type": "radio",
+    "name": "sub-type-input",
+    "checked": true,
+    "label": "",
+    "id": "0-Casas e Apartamentos"
+  },
+  {
+    "index": 5,
+    "type": "radio",
+    "name": "sub-type-input",
+    "checked": false,
+    "label": "",
+    "id": "1-Apartamentos"
+  },
+  {
+    "index": 6,
+    "type": "radio",
+    "name": "sub-type-input",
+    "checked": false,
+    "label": "",
+    "id": "2-Moradias"
+  },
+  {
+    "index": 7,
+    "type": "radio",
+    "name": "sub-type-input",
+    "checked": false,
+    "label": "",
+    "id": "4-Quintas"
+  }
+]

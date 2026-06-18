@@ -1,0 +1,45 @@
+{
+  "url_requested": "https://www.eco.pt",
+  "url_final": "https://eco.sapo.pt/",
+  "title": "ECO – Economia Online",
+  "captured_at": "2026-06-15T22:51:51",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.eco.pt_20260615_225151",
+  "status": "completed",
+  "stats": {
+    "visible_text_chars": 6688,
+    "buttons_links_count": 435,
+    "forms_count": 7,
+    "checkboxes_radios_count": 5,
+    "keyword_hits_count": 4,
+    "consent_banner_detected": true
+  },
+  "keyword_hits": [
+    "cookies",
+    "rejeitar",
+    "cookies",
+    "subscrever"
+  ],
+  "files": {
+    "screenshot": "screenshot.png",
+    "html": "page.html",
+    "visible_text": "visible_text.txt",
+    "buttons": "buttons.json",
+    "forms": "forms.json",
+    "checkboxes": "checkboxes.json",
+    "consent_banner": "consent_banner.json",
+    "summary": "summary.json",
+    "screenshot_with_banner": "screenshot_with_banner.png",
+    "screenshot_consent_preferences": "screenshot_consent_preferences.png"
+  },
+  "score": 6.0,
+  "risk_level": "Medium - preliminary",
+  "has_accept_all": false,
+  "has_reject_all": false,
+  "banner_detected": true,
+  "banner_selector": "[role='dialog'][aria-modal='true']"
+}

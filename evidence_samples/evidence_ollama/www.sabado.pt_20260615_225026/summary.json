@@ -1,0 +1,17 @@
+{
+  "url_requested": "https://www.sabado.pt",
+  "url_final": "https://www.sabado.pt/",
+  "title": "SÁBADO",
+  "captured_at": "2026-06-15T22:50:26",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.sabado.pt_20260615_225026",
+  "status": "blocked",
+  "stats": {},
+  "keyword_hits": [],
+  "files": {},
+  "bot_wall": "Google reCAPTCHA"
+}

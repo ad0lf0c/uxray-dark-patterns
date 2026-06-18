@@ -1,0 +1,26 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.olx.pt/#",
+    "method": "get",
+    "text": "Pesquisar",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": null,
+        "placeholder": "O que procuras?",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "location-Field",
+        "placeholder": "Todo o país",
+        "checked": false,
+        "value": null
+      }
+    ]
+  }
+]

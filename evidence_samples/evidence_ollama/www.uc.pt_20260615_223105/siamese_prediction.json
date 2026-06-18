@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.uc.pt_20260615_223105",
+  "mean_dark": 0.39624878764152527,
+  "mean_fair": 0.9997085928916931,
+  "net_score": -0.6034598052501678,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "none",
+      1.000000238418579
+    ],
+    [
+      "none",
+      0.9998123645782471
+    ],
+    [
+      "none",
+      0.9998118281364441
+    ],
+    [
+      "none",
+      0.9998109936714172
+    ],
+    [
+      "none",
+      0.999808132648468
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

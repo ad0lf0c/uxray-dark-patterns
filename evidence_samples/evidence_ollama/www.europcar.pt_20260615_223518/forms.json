@@ -1,0 +1,18 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.europcar.pt/pt-pt",
+    "method": "get",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": null,
+        "placeholder": "Insira um número",
+        "checked": false,
+        "value": null
+      }
+    ]
+  }
+]

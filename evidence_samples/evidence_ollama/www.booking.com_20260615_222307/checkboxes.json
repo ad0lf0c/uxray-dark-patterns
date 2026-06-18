@@ -1,0 +1,18 @@
+[
+  {
+    "index": 0,
+    "type": "checkbox",
+    "name": "sb_travel_purpose",
+    "checked": false,
+    "label": "Estou a viajar em trabalho",
+    "id": ":R5qmr5:"
+  },
+  {
+    "index": 1,
+    "type": "checkbox",
+    "name": "sb_flight_search",
+    "checked": false,
+    "label": "Adicionar voos à minha pesquisa",
+    "id": ":R9qmr5:"
+  }
+]

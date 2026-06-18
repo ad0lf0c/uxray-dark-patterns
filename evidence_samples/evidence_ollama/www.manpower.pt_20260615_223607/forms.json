@@ -1,0 +1,26 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.manpower.pt/pt/",
+    "method": "get",
+    "text": "Função, Setor ou Competência\nCidade ou Código Postal\nENCONTRAR OFERTAS",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "careerSearchKey",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": null,
+        "name": "careerSearchLoc",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      }
+    ]
+  }
+]

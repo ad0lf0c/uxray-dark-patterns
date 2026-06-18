@@ -1,0 +1,34 @@
+[
+  {
+    "index": 0,
+    "type": "checkbox",
+    "name": null,
+    "checked": true,
+    "label": "",
+    "id": "CybotCookiebotDialogBodyLevelButtonNecessary"
+  },
+  {
+    "index": 1,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "",
+    "id": "CybotCookiebotDialogBodyLevelButtonPreferences"
+  },
+  {
+    "index": 2,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "",
+    "id": "CybotCookiebotDialogBodyLevelButtonStatistics"
+  },
+  {
+    "index": 3,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "",
+    "id": "CybotCookiebotDialogBodyLevelButtonMarketing"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "index": 0,
+    "action": "https://observador.pt/pesquisa/",
+    "method": "get",
+    "text": "Pesquisar artigos, autores...",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "search",
+        "name": "q",
+        "placeholder": "Pesquisa livre",
+        "checked": false,
+        "value": null
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "action": "https://observador.pt/pesquisa/",
+    "method": "get",
+    "text": "Pesquisar artigos, autores...",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "search",
+        "name": "q",
+        "placeholder": "Pesquisa livre",
+        "checked": false,
+        "value": null
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "action": "https://observador.pt/pesquisa/",
+    "method": "get",
+    "text": "Pesquisar",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "search",
+        "name": "q",
+        "placeholder": "Pesquisar artigos, autores...",
+        "checked": false,
+        "value": null
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "action": "https://observador.pt/",
+    "method": "get",
+    "text": "O e-mail inserido não é válido\n            \n            \n                Oferecer agora",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "offer_recipient",
+        "placeholder": "E-mail de quem vai receber o artigo (obrigatório)",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "textarea",
+        "type": null,
+        "name": "message",
+        "placeholder": "Mensagem personalizada (opcional)",
+        "checked": false,
+        "value": null
+      }
+    ]
+  }
+]

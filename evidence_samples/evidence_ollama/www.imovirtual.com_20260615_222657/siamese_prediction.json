@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.imovirtual.com_20260615_222657",
+  "mean_dark": 0.9997432231903076,
+  "mean_fair": 0.40311506390571594,
+  "net_score": 0.5966281592845917,
+  "decision_zone": "uncertain",
+  "final_label": "inconclusive",
+  "top5_similar": [
+    [
+      "suspected",
+      0.9999223351478577
+    ],
+    [
+      "confirmed",
+      0.9998737573623657
+    ],
+    [
+      "suspected",
+      0.9998584389686584
+    ],
+    [
+      "suspected",
+      0.9998482465744019
+    ],
+    [
+      "suspected",
+      0.9998478293418884
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

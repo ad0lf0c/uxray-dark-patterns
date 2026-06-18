@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.timberland.pt_20260615_223236",
+  "mean_dark": 0.39556559920310974,
+  "mean_fair": 0.9998541474342346,
+  "net_score": -0.6042885482311249,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "none",
+      1.0
+    ],
+    [
+      "none",
+      0.999976396560669
+    ],
+    [
+      "none",
+      0.9999725818634033
+    ],
+    [
+      "none",
+      0.9999721646308899
+    ],
+    [
+      "none",
+      0.9999699592590332
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

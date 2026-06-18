@@ -1,0 +1,50 @@
+[
+  {
+    "index": 0,
+    "action": "https://sigarra.up.pt/up/pt/vld_validacao.validacao",
+    "method": "post",
+    "text": "Autenticação\nAutenticação por federação",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "p_app",
+        "placeholder": null,
+        "checked": false,
+        "value": "891"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "p_amo",
+        "placeholder": null,
+        "checked": false,
+        "value": "55"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "p_address",
+        "placeholder": null,
+        "checked": false,
+        "value": "WEB_PAGE.INICIAL"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "p_user",
+        "placeholder": "Utilizador",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "password",
+        "name": "p_pass",
+        "placeholder": "Senha",
+        "checked": false,
+        "value": "[REDACTED]"
+      }
+    ]
+  }
+]

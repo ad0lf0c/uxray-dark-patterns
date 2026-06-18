@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.mediamarkt.pt_20260615_223216",
+  "mean_dark": 0.8658164739608765,
+  "mean_fair": 0.794896125793457,
+  "net_score": 0.07092034816741943,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "suspected",
+      0.874943196773529
+    ],
+    [
+      "suspected",
+      0.8710029721260071
+    ],
+    [
+      "suspected",
+      0.8705916404724121
+    ],
+    [
+      "suspected",
+      0.8698395490646362
+    ],
+    [
+      "suspected",
+      0.8693937659263611
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

@@ -1,0 +1,45 @@
+{
+  "url_requested": "https://www.ikea.com/pt",
+  "url_final": "https://www.ikea.com/pt/pt/",
+  "title": "IKEA - Loja de móveis e decoração - A vida acontece em casa",
+  "captured_at": "2026-06-15T22:28:14",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.ikea.com_20260615_222814",
+  "status": "completed",
+  "stats": {
+    "visible_text_chars": 8600,
+    "buttons_links_count": 285,
+    "forms_count": 1,
+    "checkboxes_radios_count": 12,
+    "keyword_hits_count": 5,
+    "consent_banner_detected": true
+  },
+  "keyword_hits": [
+    "cookies",
+    "cookies",
+    "última oportunidade",
+    "tempo limitado",
+    "cancelar"
+  ],
+  "files": {
+    "screenshot": "screenshot.png",
+    "html": "page.html",
+    "visible_text": "visible_text.txt",
+    "buttons": "buttons.json",
+    "forms": "forms.json",
+    "checkboxes": "checkboxes.json",
+    "consent_banner": "consent_banner.json",
+    "summary": "summary.json",
+    "screenshot_with_banner": "screenshot_with_banner.png"
+  },
+  "score": 8.0,
+  "risk_level": "High - preliminary",
+  "has_accept_all": true,
+  "has_reject_all": true,
+  "banner_detected": true,
+  "banner_selector": "#onetrust-banner-sdk"
+}

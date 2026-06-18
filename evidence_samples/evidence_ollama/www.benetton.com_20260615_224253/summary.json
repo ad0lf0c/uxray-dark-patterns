@@ -1,0 +1,17 @@
+{
+  "url_requested": "https://www.benetton.com/pt",
+  "url_final": "https://pt.benetton.com/?shpxid=4ba5ce07-c483-4bd4-97a1-0b62553c9b9f",
+  "title": "United Colors of Benetton - Site oficial | Shop Online",
+  "captured_at": "2026-06-15T22:42:53",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.benetton.com_20260615_224253",
+  "status": "blocked",
+  "stats": {},
+  "keyword_hits": [],
+  "files": {},
+  "bot_wall": "Google reCAPTCHA"
+}

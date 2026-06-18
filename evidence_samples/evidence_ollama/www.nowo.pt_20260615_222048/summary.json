@@ -1,0 +1,40 @@
+{
+  "url_requested": "https://www.nowo.pt",
+  "url_final": "https://www.nowo.pt/",
+  "title": "NOWO - Internet, Televisão, Telemóvel e Telefone",
+  "captured_at": "2026-06-15T22:20:48",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.nowo.pt_20260615_222048",
+  "status": "completed",
+  "stats": {
+    "visible_text_chars": 3604,
+    "buttons_links_count": 129,
+    "forms_count": 1,
+    "checkboxes_radios_count": 11,
+    "keyword_hits_count": 0,
+    "consent_banner_detected": true
+  },
+  "keyword_hits": [],
+  "files": {
+    "screenshot": "screenshot.png",
+    "html": "page.html",
+    "visible_text": "visible_text.txt",
+    "buttons": "buttons.json",
+    "forms": "forms.json",
+    "checkboxes": "checkboxes.json",
+    "consent_banner": "consent_banner.json",
+    "summary": "summary.json",
+    "screenshot_with_banner": "screenshot_with_banner.png",
+    "screenshot_consent_preferences": "screenshot_consent_preferences.png"
+  },
+  "score": 4.0,
+  "risk_level": "Medium - preliminary",
+  "has_accept_all": true,
+  "has_reject_all": false,
+  "banner_detected": true,
+  "banner_selector": "#CybotCookiebotDialog"
+}

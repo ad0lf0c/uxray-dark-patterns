@@ -1,0 +1,210 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.meo.pt/",
+    "method": "post",
+    "text": "Saltar para os conteúdos\nMEO – Net, TV, Móvel 5G, Segurança, Eletricidade e Saúde\n\nOperador Oficial de Portugal",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__SPSCEditMenu",
+        "placeholder": null,
+        "checked": false,
+        "value": "true"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpcmWpid",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "wpcmVal",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOWebPartPage_PostbackSource",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOTlPn_SelectedWpId",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOTlPn_View",
+        "placeholder": null,
+        "checked": false,
+        "value": "0"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOTlPn_ShowSettings",
+        "placeholder": null,
+        "checked": false,
+        "value": "False"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOGallery_SelectedLibrary",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOGallery_FilterString",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOTlPn_Button",
+        "placeholder": null,
+        "checked": false,
+        "value": "none"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__REQUESTDIGEST",
+        "placeholder": null,
+        "checked": false,
+        "value": "0x5FB194427368691D8360056C1AE9C6A1BE3F418555E59E72AAA07C4237431DA7A6B42C900CF0E10BC2FBBF3F3B43B64AC14E5060EFFD83F134EE14590ADB8E23,07 Jun 2026 22:19:26 -0000"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOSPWebPartManager_DisplayModeName",
+        "placeholder": null,
+        "checked": false,
+        "value": "Browse"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOSPWebPartManager_ExitingDesignMode",
+        "placeholder": null,
+        "checked": false,
+        "value": "false"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOWebPartPage_Shared",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOLayout_LayoutChanges",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOLayout_InDesignMode",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpSelected",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wzSelected",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOSPWebPartManager_OldDisplayModeName",
+        "placeholder": null,
+        "checked": false,
+        "value": "Browse"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOSPWebPartManager_StartWebPartEditingName",
+        "placeholder": null,
+        "checked": false,
+        "value": "false"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOSPWebPartManager_EndWebPartEditing",
+        "placeholder": null,
+        "checked": false,
+        "value": "false"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "placeholder": null,
+        "checked": false,
+        "value": "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"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "placeholder": null,
+        "checked": false,
+        "value": "FA3903EC"
+      }
+    ]
+  }
+]

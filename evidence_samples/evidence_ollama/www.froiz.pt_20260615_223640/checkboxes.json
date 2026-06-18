@@ -1,0 +1,98 @@
+[
+  {
+    "index": 0,
+    "type": "checkbox",
+    "name": null,
+    "checked": true,
+    "label": "Necessários",
+    "id": "CybotCookiebotDialogBodyLevelButtonNecessary"
+  },
+  {
+    "index": 1,
+    "type": "checkbox",
+    "name": null,
+    "checked": true,
+    "label": "Preferências",
+    "id": "CybotCookiebotDialogBodyLevelButtonPreferences"
+  },
+  {
+    "index": 2,
+    "type": "checkbox",
+    "name": null,
+    "checked": true,
+    "label": "Estatísticas",
+    "id": "CybotCookiebotDialogBodyLevelButtonStatistics"
+  },
+  {
+    "index": 3,
+    "type": "checkbox",
+    "name": null,
+    "checked": true,
+    "label": "Marketing",
+    "id": "CybotCookiebotDialogBodyLevelButtonMarketing"
+  },
+  {
+    "index": 4,
+    "type": "checkbox",
+    "name": null,
+    "checked": true,
+    "label": "",
+    "id": "CybotCookiebotDialogBodyLevelButtonNecessaryInline"
+  },
+  {
+    "index": 5,
+    "type": "checkbox",
+    "name": null,
+    "checked": true,
+    "label": "",
+    "id": "CybotCookiebotDialogBodyLevelButtonPreferencesInline"
+  },
+  {
+    "index": 6,
+    "type": "checkbox",
+    "name": null,
+    "checked": true,
+    "label": "",
+    "id": "CybotCookiebotDialogBodyLevelButtonStatisticsInline"
+  },
+  {
+    "index": 7,
+    "type": "checkbox",
+    "name": null,
+    "checked": true,
+    "label": "",
+    "id": "CybotCookiebotDialogBodyLevelButtonMarketingInline"
+  },
+  {
+    "index": 8,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "Do not sell or share my personal information",
+    "id": "CybotCookiebotDialogBodyContentCheckboxPersonalInformation"
+  },
+  {
+    "index": 9,
+    "type": "checkbox",
+    "name": "form_fields[field_bfceb2f]",
+    "checked": false,
+    "label": "ACEPTACION Li e aceito a politica de privacidade ACEPTACION Li e aceito a politica de privacidade \n\t\t\t\t\t\t\t\tACEPTACION\t\t\t\t\t\t\t Li e aceito a \n política de privacidade",
+    "id": "form-field-field_bfceb2f"
+  },
+  {
+    "index": 10,
+    "type": "checkbox",
+    "name": "form_fields[field_bfceb2f]",
+    "checked": false,
+    "label": "",
+    "id": "form-field-field_bfceb2f"
+  },
+  {
+    "index": 11,
+    "type": "checkbox",
+    "name": "form_fields[field_bfceb2f]",
+    "checked": false,
+    "label": "",
+    "id": "form-field-field_bfceb2f"
+  }
+]

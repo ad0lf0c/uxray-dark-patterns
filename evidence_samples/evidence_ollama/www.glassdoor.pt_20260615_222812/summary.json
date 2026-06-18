@@ -1,0 +1,17 @@
+{
+  "url_requested": "https://www.glassdoor.pt",
+  "url_final": null,
+  "title": null,
+  "captured_at": "2026-06-15T22:28:12",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.glassdoor.pt_20260615_222812",
+  "status": "failed",
+  "stats": {},
+  "keyword_hits": [],
+  "files": {},
+  "error": "Page.goto: net::ERR_TOO_MANY_REDIRECTS at https://www.glassdoor.pt/\nCall log:\n  - navigating to \"https://www.glassdoor.pt/\", waiting until \"domcontentloaded\"\n"
+}

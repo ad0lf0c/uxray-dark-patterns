@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.iscte-iul.pt_20260615_223052",
+  "mean_dark": 0.9998196959495544,
+  "mean_fair": 0.40164363384246826,
+  "net_score": 0.5981760621070862,
+  "decision_zone": "uncertain",
+  "final_label": "inconclusive",
+  "top5_similar": [
+    [
+      "suspected",
+      1.0
+    ],
+    [
+      "suspected",
+      0.9999337196350098
+    ],
+    [
+      "suspected",
+      0.9999169111251831
+    ],
+    [
+      "suspected",
+      0.9999122023582458
+    ],
+    [
+      "suspected",
+      0.99990314245224
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

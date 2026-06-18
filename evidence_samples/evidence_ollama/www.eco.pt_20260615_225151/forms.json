@@ -1,0 +1,258 @@
+[
+  {
+    "index": 0,
+    "action": "https://eco.sapo.pt/",
+    "method": "get",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "s",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "action": "https://eco.sapo.pt/search-by-google",
+    "method": "get",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "gs",
+        "placeholder": "Pesquisar aqui...",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "searchtype",
+        "placeholder": null,
+        "checked": false,
+        "value": "2"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "date",
+        "placeholder": null,
+        "checked": false,
+        "value": "1 year ago"
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "action": "https://eco.sapo.pt/search-by-google",
+    "method": "get",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "gs",
+        "placeholder": "Pesquisar aqui...",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "searchtype",
+        "placeholder": null,
+        "checked": false,
+        "value": "2"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "date",
+        "placeholder": null,
+        "checked": false,
+        "value": "1 year ago"
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "action": "https://eco.sapo.pt/",
+    "method": "get",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "s",
+        "placeholder": "Pesquisar",
+        "checked": false,
+        "value": null
+      }
+    ]
+  },
+  {
+    "index": 4,
+    "action": "https://eco.sapo.pt/login",
+    "method": "post",
+    "text": "Esqueceu-se da palavra-passe?",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "username",
+        "placeholder": "Email",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "password",
+        "name": "password",
+        "placeholder": "Palavra-passe",
+        "checked": false,
+        "value": "[REDACTED]"
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": "submit",
+        "placeholder": null,
+        "checked": false,
+        "value": "Iniciar sessão"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "security",
+        "placeholder": null,
+        "checked": false,
+        "value": "f954567ecb"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wp_http_referer",
+        "placeholder": null,
+        "checked": false,
+        "value": "/"
+      }
+    ]
+  },
+  {
+    "index": 5,
+    "action": "https://eco.sapo.pt/#",
+    "method": "post",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "fname",
+        "placeholder": "Nome",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "lname",
+        "placeholder": "Apelido",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "new_user_email",
+        "placeholder": "Email",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "password",
+        "name": "new_user_password",
+        "placeholder": "Palavra-passe",
+        "checked": false,
+        "value": "[REDACTED]"
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": null,
+        "placeholder": null,
+        "checked": false,
+        "value": "Registar"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "security-register",
+        "placeholder": null,
+        "checked": false,
+        "value": "7c8a119a80"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wp_http_referer",
+        "placeholder": null,
+        "checked": false,
+        "value": "/"
+      }
+    ]
+  },
+  {
+    "index": 6,
+    "action": "https://eco.sapo.pt/",
+    "method": "post",
+    "text": "1 utilizador\t\t\t\t \n\t\t\t\t\t\tAssinaturas Corporate\t\t\t\t\t   \n\t\t\t\t\tAnual\t\t\t\t  \n\t\t\t\t\tMensal\t\t\t\t   \n\t\t\t\t\t\t\t\tAceda a todos os artigos ECO Premium.\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\tAceda a todos os artigos Advocatus Premium, Pessoas Premium, Capital Verde Premium e ECOSeguros Premium\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\tReceba as newsletters exclusivas para assinantes\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\tPode aceder aos artigos Premium utilizando até três dispositivos\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t55€\n\t\t\t\t\t\t\t \n\t\t\t\t\t\t\tpor ano\t\t\t\t\t\t\t  \n\t\t\t\t\t\t\t\tAssinar\t\t\t\t\t\t\t   \n\t\t\t\t\t\t\t\tTodas as vantagens ECO Premium.\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\tRevista Advocatus em papel.\t\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t80€\n\t\t\t\t\t\t\t \n\t\t\t\t\t\t\tpor ano\t\t\t\t\t\t\t  \n\t\t\t\t\t\t\t\tAssinar",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "radio",
+        "name": "premiumUsers",
+        "placeholder": null,
+        "checked": true,
+        "value": "1"
+      },
+      {
+        "tag": "input",
+        "type": "radio",
+        "name": "premiumPeriod",
+        "placeholder": null,
+        "checked": true,
+        "value": "anual"
+      },
+      {
+        "tag": "input",
+        "type": "radio",
+        "name": "premiumPeriod",
+        "placeholder": null,
+        "checked": false,
+        "value": "mensal"
+      },
+      {
+        "tag": "input",
+        "type": "radio",
+        "name": "premiumContent",
+        "placeholder": null,
+        "checked": true,
+        "value": "on"
+      },
+      {
+        "tag": "input",
+        "type": "radio",
+        "name": "premiumContent",
+        "placeholder": null,
+        "checked": false,
+        "value": "on"
+      }
+    ]
+  }
+]

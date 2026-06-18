@@ -1,0 +1,138 @@
+{
+  "detected": true,
+  "selector_matched": "#onetrust-banner-sdk",
+  "banner_text": "Sobre os nossos cookies\nO site do ActivoBank usa cookies próprios e de terceiros para melhorar a sua experiência de navegação e para fins estatísticos. Pode aceitar a utilização de todos os cookies ou ajustar as suas preferências. Saiba mais sobre a forma como os usamos na nossaPolítica de Cookies.\nGerir preferências\nRejeitar todos Aceitar todos os cookies",
+  "buttons": [
+    {
+      "index": 0,
+      "tag": "button",
+      "text": "Gerir preferências",
+      "id": "onetrust-pc-btn-handler",
+      "class": "",
+      "visible": true,
+      "x": 47,
+      "y": 1122,
+      "width": 175,
+      "height": 42,
+      "area": 7350,
+      "color": "rgb(204, 15, 143)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "border": "1px solid rgb(204, 15, 143)",
+      "opacity": "1"
+    },
+    {
+      "index": 1,
+      "tag": "button",
+      "text": "Rejeitar todos",
+      "id": "onetrust-reject-all-handler",
+      "class": "",
+      "visible": true,
+      "x": 353,
+      "y": 1122,
+      "width": 139,
+      "height": 42,
+      "area": 5838,
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(204, 15, 143)",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "border": "1px solid rgb(204, 15, 143)",
+      "opacity": "1"
+    },
+    {
+      "index": 2,
+      "tag": "button",
+      "text": "Aceitar todos os cookies",
+      "id": "onetrust-accept-btn-handler",
+      "class": "",
+      "visible": true,
+      "x": 512,
+      "y": 1122,
+      "width": 213,
+      "height": 42,
+      "area": 8946,
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(204, 15, 143)",
+      "fontSize": "16px",
+      "fontWeight": "700",
+      "border": "1px solid rgb(204, 15, 143)",
+      "opacity": "1"
+    }
+  ],
+  "checkboxes": [],
+  "has_accept_all": true,
+  "has_reject_all": true,
+  "has_manage_options": true,
+  "accept_reject_area_ratio": 1.53,
+  "preference_panel": {
+    "checkboxes": [
+      {
+        "index": 0,
+        "name": "ot-group-id-C0002",
+        "id": "ot-group-id-C0002",
+        "checked": false,
+        "disabled": false,
+        "label": "Cookies de desempenho"
+      },
+      {
+        "index": 1,
+        "name": "ot-group-id-C0003",
+        "id": "ot-group-id-C0003",
+        "checked": false,
+        "disabled": false,
+        "label": "Cookies de funcionalidade"
+      },
+      {
+        "index": 2,
+        "name": "ot-group-id-C0004",
+        "id": "ot-group-id-C0004",
+        "checked": false,
+        "disabled": false,
+        "label": "Cookies de publicidade"
+      },
+      {
+        "index": 3,
+        "name": null,
+        "id": "select-all-hosts-groups-handler",
+        "checked": false,
+        "disabled": false,
+        "label": "checkbox label"
+      },
+      {
+        "index": 4,
+        "name": null,
+        "id": "select-all-vendor-groups-handler",
+        "checked": false,
+        "disabled": false,
+        "label": "checkbox label"
+      },
+      {
+        "index": 5,
+        "name": null,
+        "id": "select-all-vendor-leg-handler",
+        "checked": false,
+        "disabled": false,
+        "label": "checkbox label"
+      },
+      {
+        "index": 6,
+        "name": null,
+        "id": "chkbox-id",
+        "checked": false,
+        "disabled": false,
+        "label": "checkbox label"
+      }
+    ],
+    "total_count": 7,
+    "pre_checked_non_essential_count": 0,
+    "pre_checked_non_essential": []
+  },
+  "dismiss_method": "escape_key",
+  "screenshots": [
+    "screenshot_with_banner.png",
+    "screenshot_consent_preferences.png"
+  ],
+  "errors": []
+}

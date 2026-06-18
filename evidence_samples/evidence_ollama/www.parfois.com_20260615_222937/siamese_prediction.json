@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.parfois.com_20260615_222937",
+  "mean_dark": 0.9987080097198486,
+  "mean_fair": 0.41871827840805054,
+  "net_score": 0.5799897313117981,
+  "decision_zone": "uncertain",
+  "final_label": "inconclusive",
+  "top5_similar": [
+    [
+      "suspected",
+      0.9990773797035217
+    ],
+    [
+      "suspected",
+      0.9990600943565369
+    ],
+    [
+      "suspected",
+      0.9990215301513672
+    ],
+    [
+      "suspected",
+      0.9990167617797852
+    ],
+    [
+      "suspected",
+      0.9989829063415527
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

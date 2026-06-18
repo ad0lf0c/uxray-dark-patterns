@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.longchamp.com_20260615_223309",
+  "mean_dark": 0.9996721148490906,
+  "mean_fair": 0.4120773375034332,
+  "net_score": 0.5875947773456573,
+  "decision_zone": "uncertain",
+  "final_label": "inconclusive",
+  "top5_similar": [
+    [
+      "suspected",
+      1.000000238418579
+    ],
+    [
+      "suspected",
+      0.9998845458030701
+    ],
+    [
+      "suspected",
+      0.9998776316642761
+    ],
+    [
+      "suspected",
+      0.999839723110199
+    ],
+    [
+      "suspected",
+      0.9998103976249695
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

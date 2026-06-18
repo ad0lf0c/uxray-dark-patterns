@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.lifecooler.com_20260615_225053",
+  "mean_dark": 0.9927712082862854,
+  "mean_fair": 0.4979028105735779,
+  "net_score": 0.4948683977127075,
+  "decision_zone": "uncertain",
+  "final_label": "inconclusive",
+  "top5_similar": [
+    [
+      "suspected",
+      0.9947977066040039
+    ],
+    [
+      "suspected",
+      0.993867039680481
+    ],
+    [
+      "suspected",
+      0.9938344955444336
+    ],
+    [
+      "suspected",
+      0.993755578994751
+    ],
+    [
+      "suspected",
+      0.9936370253562927
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.kiabi.pt_20260615_224640",
+  "mean_dark": 0.4420018792152405,
+  "mean_fair": 0.997575581073761,
+  "net_score": -0.5555737018585205,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "none",
+      0.9982472658157349
+    ],
+    [
+      "none",
+      0.9979807734489441
+    ],
+    [
+      "none",
+      0.9979802966117859
+    ],
+    [
+      "none",
+      0.9979749917984009
+    ],
+    [
+      "none",
+      0.9979538321495056
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

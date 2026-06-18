@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.iberdrola.pt_20260615_222617",
+  "mean_dark": 0.39814308285713196,
+  "mean_fair": 0.9998273849487305,
+  "net_score": -0.6016843020915985,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "none",
+      0.9999656677246094
+    ],
+    [
+      "none",
+      0.9999625086784363
+    ],
+    [
+      "none",
+      0.9999609589576721
+    ],
+    [
+      "none",
+      0.9999505877494812
+    ],
+    [
+      "none",
+      0.9999484419822693
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

@@ -1,0 +1,40 @@
+{
+  "url_requested": "https://www.noticiasaominuto.com",
+  "url_final": "https://www.noticiasaominuto.com/",
+  "title": "Notícias ao Minuto - Última hora",
+  "captured_at": "2026-06-15T22:51:04",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.noticiasaominuto.com_20260615_225104",
+  "status": "completed",
+  "stats": {
+    "visible_text_chars": 2035,
+    "buttons_links_count": 91,
+    "forms_count": 2,
+    "checkboxes_radios_count": 3,
+    "keyword_hits_count": 0,
+    "consent_banner_detected": true
+  },
+  "keyword_hits": [],
+  "files": {
+    "screenshot": "screenshot.png",
+    "html": "page.html",
+    "visible_text": "visible_text.txt",
+    "buttons": "buttons.json",
+    "forms": "forms.json",
+    "checkboxes": "checkboxes.json",
+    "consent_banner": "consent_banner.json",
+    "summary": "summary.json",
+    "screenshot_with_banner": "screenshot_with_banner.png",
+    "screenshot_consent_preferences": "screenshot_consent_preferences.png"
+  },
+  "score": 4.5,
+  "risk_level": "Medium - preliminary",
+  "has_accept_all": false,
+  "has_reject_all": false,
+  "banner_detected": true,
+  "banner_selector": "[role='dialog'][aria-modal='true']"
+}

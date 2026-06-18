@@ -1,0 +1,114 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.zippy.com/en/index.aspx",
+    "method": "post",
+    "text": "Solutions\nProducts\nAbout Us\nMedia Center\nInvestors\nESG\nContact Us\n\nexperience your future\n\nProviding Reliable Power Supplies And Diverse Solutions\n\nZIPPY has a wealth of experience in power management\nto meet a wide range of customer needs.\n\nPOWER SUPPLY\n\nexperience your future\n\nElectronic Components BU\n\nZIPPY provides customized switch assemblies and reliable waterproof-, Micro(Snap)-, Clip, Rotary- and Push- switch solutions.\nFlexible line-up of levers, terminals and various wire types are available.\n\nSwitches Products\nMORE\n\nexperience your future\n\nZIPPY provides reliable power supplies and switches\n\nwith safe, trustworthy and highly efficient product solutions,\nseamlessly integrated into healthcare, semiconductor manufacturing, industrial and consumer electronics applications.\n\nNews & Events\n\nexperience your future\n\nProviding Reliable Power Supplies And Diverse Solutions\n\nZIPPY has a wealth of experience in power management\nto meet a wide range of customer needs.\n\nPOWER SUPPLY\n\nexpe",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "placeholder": null,
+        "checked": false,
+        "value": "nIhrKwLw73XKAYLTNZ6d91sB1aPraiec8Gebef4K3F6Hd1dVcrA/tBB75oa7IsXTEoDXci/T/9ahKDqThR/OpJK8q3LiZ7hhYdeb5L3Go1g3/66dh0o1mPJpIRAb393WV8dGpQWAlJuG6FztwQEeiuU9DS38MS/cJ81uLCYwXwSLnPFjg0xBhCOF6mKJI9KNUQMbuE1ubMIvWxA+94+NZLuig1hSUEEisS/5fcbETvO2HJsC1d0QtG3h4bxuZQ8Q4VqBq0prTA07yUeuIySizFtVeS9szWhrbjvpZByE8yj6s4ChF4Ajqjr6iBVjSku7RaE5DokykmyJSx5ub7rLFCvw2/c="
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "placeholder": null,
+        "checked": false,
+        "value": "FE4EB332"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__SCROLLPOSITIONX",
+        "placeholder": null,
+        "checked": false,
+        "value": "0"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__SCROLLPOSITIONY",
+        "placeholder": null,
+        "checked": false,
+        "value": "0"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__VIEWSTATEENCRYPTED",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__EVENTVALIDATION",
+        "placeholder": null,
+        "checked": false,
+        "value": "Zh3g1cLZCg6LTI+FTZCCMmRY7fPk/oY5a/XueSMd/v+EwcHlIsN9Obs2ckUORQEoGpDtit+iGeIRDji0OzqhVSSIZCTLWbLel7JvmMC8bAuSlpt/t+ycvC7pbgzax1ZFnCsDOxRT4imQH7O0rAKIChlDjXvYDGhiZdq3yW1MFXwIOFN7CUrE6C53r6TJ2rLGjcxDEw=="
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "search",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "ctl00$MainContent$txtmodelname",
+        "placeholder": "By Power Model Name",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "image",
+        "name": "ctl00$MainContent$imgbtn",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "action": "https://www.zippy.com/en/index.aspx",
+    "method": "get",
+    "text": "×search",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "search",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      }
+    ]
+  }
+]

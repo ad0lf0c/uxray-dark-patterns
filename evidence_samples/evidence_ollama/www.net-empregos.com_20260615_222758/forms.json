@@ -1,0 +1,50 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.net-empregos.com/pesquisa-empregos.asp",
+    "method": "get",
+    "text": "Ou filtrar por categoria e zona:\n( Todas as Categorias )\nAdministração / Secretariado\nAgricultura / Florestas / Pescas\nArquitectura / Design\nArtes / Entretenimento / Media\nBanca / Seguros / Serviços Financeiros\nBeleza / Moda / Bem Estar\nCall Center / Help Desk\nComercial / Vendas\nComunicação Social / Media\nConservação / Manutenção / Técnica\nConstrução Civil\nContabilidade / Finanças\nDesporto / Ginásios\nDireito / Justiça\nEducação / Formação\nEngenharia ( Ambiente )\nEngenharia ( Civil )\nEngenharia ( Eletrotecnica )\nEngenharia ( Mecanica )\nEngenharia ( Química / Biologia )\nFarmácia / Biotecnologia\nGestão de Empresas / Economia\nGestão RH\nHotelaria / Turismo\nImobiliário\nIndústria / Produção\nInformática ( Analise de Sistemas )\nInformática ( Formação )\nInformática ( Gestão de Redes )\nInformática ( Internet )\nInformática ( Multimedia )\nInformática ( Programação )\nInformática ( Técnico de Hardware )\nInformática (Comercial/Gestor de Conta)\nLimpezas / Domésticas\nLojas / Comércio / Balcão\nPublicidade",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "chaves",
+        "placeholder": "O que?",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "cidade",
+        "placeholder": "Onde?",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "select",
+        "type": null,
+        "name": "categoria",
+        "placeholder": null,
+        "checked": false,
+        "value": "0"
+      },
+      {
+        "tag": "select",
+        "type": null,
+        "name": "zona",
+        "placeholder": null,
+        "checked": false,
+        "value": "0"
+      },
+      {
+        "tag": "select",
+        "type": null,
+        "name": "tipo",
+        "placeholder": null,
+        "checked": false,
+        "value": "0"
+      }
+    ]
+  }
+]

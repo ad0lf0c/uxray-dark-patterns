@@ -1,0 +1,9 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.rtp.pt/pesquisa/",
+    "method": "get",
+    "text": "Pesquisar",
+    "inputs": []
+  }
+]

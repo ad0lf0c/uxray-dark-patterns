@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.portaldasfinancas.gov.pt_20260615_223126",
+  "mean_dark": 0.40279608964920044,
+  "mean_fair": 0.9996951222419739,
+  "net_score": -0.5968990325927734,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "none",
+      0.9999998807907104
+    ],
+    [
+      "none",
+      0.9998337626457214
+    ],
+    [
+      "none",
+      0.9998098611831665
+    ],
+    [
+      "none",
+      0.9997954368591309
+    ],
+    [
+      "none",
+      0.9997917413711548
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

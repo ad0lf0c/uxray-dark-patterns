@@ -1,0 +1,45 @@
+{
+  "url_requested": "https://www.record.pt",
+  "url_final": "https://www.record.pt/",
+  "title": "Record: Tudo sobre desporto. Futebol, mercado, modalidades, resultados e classificações",
+  "captured_at": "2026-06-15T22:24:49",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.record.pt_20260615_222449",
+  "status": "completed",
+  "stats": {
+    "visible_text_chars": 38361,
+    "buttons_links_count": 1930,
+    "forms_count": 1,
+    "checkboxes_radios_count": 424,
+    "keyword_hits_count": 4,
+    "consent_banner_detected": true
+  },
+  "keyword_hits": [
+    "cookies",
+    "aceitar tudo",
+    "cookies",
+    "cancelar"
+  ],
+  "files": {
+    "screenshot": "screenshot.png",
+    "html": "page.html",
+    "visible_text": "visible_text.txt",
+    "buttons": "buttons.json",
+    "forms": "forms.json",
+    "checkboxes": "checkboxes.json",
+    "consent_banner": "consent_banner.json",
+    "summary": "summary.json",
+    "screenshot_with_banner": "screenshot_with_banner.png",
+    "screenshot_consent_preferences": "screenshot_consent_preferences.png"
+  },
+  "score": 10.0,
+  "risk_level": "High - preliminary",
+  "has_accept_all": false,
+  "has_reject_all": false,
+  "banner_detected": true,
+  "banner_selector": "[aria-label*='consent' i]"
+}

@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.vodafone.pt_20260615_222031",
+  "mean_dark": 0.9996526837348938,
+  "mean_fair": 0.39356812834739685,
+  "net_score": 0.606084555387497,
+  "decision_zone": "uncertain",
+  "final_label": "inconclusive",
+  "top5_similar": [
+    [
+      "suspected",
+      0.9997904300689697
+    ],
+    [
+      "suspected",
+      0.9997603297233582
+    ],
+    [
+      "suspected",
+      0.9997541308403015
+    ],
+    [
+      "suspected",
+      0.9997533559799194
+    ],
+    [
+      "confirmed",
+      0.9997523427009583
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

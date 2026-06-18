@@ -1,0 +1,38 @@
+[
+  {
+    "index": 0,
+    "tag": "a",
+    "text": "",
+    "href": "https://www.trofa.pt/Autenticacao.gov_Win_x64_signed.msi",
+    "type": null,
+    "id": null,
+    "class": "",
+    "visible": true,
+    "x": 645,
+    "y": 168,
+    "width": 150,
+    "height": 19,
+    "color": "rgb(0, 0, 238)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "fontSize": "16px",
+    "fontWeight": "400"
+  },
+  {
+    "index": 1,
+    "tag": "a",
+    "text": "",
+    "href": "https://www.trofa.pt/AnyDesk8_0_8.exe",
+    "type": null,
+    "id": null,
+    "class": "",
+    "visible": true,
+    "x": 645,
+    "y": 218,
+    "width": 150,
+    "height": 19,
+    "color": "rgb(0, 0, 238)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "fontSize": "16px",
+    "fontWeight": "400"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "index": 0,
+    "type": "radio",
+    "name": "radio_cookie",
+    "checked": false,
+    "label": "Rejeitar cookies não essenciais",
+    "id": "radio_only_essential"
+  },
+  {
+    "index": 1,
+    "type": "radio",
+    "name": "radio_cookie",
+    "checked": true,
+    "label": "Aceitar todos os cookies",
+    "id": "radio_all"
+  }
+]

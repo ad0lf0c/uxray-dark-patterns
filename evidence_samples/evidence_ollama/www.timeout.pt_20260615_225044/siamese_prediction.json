@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.timeout.pt_20260615_225044",
+  "mean_dark": 0.9998480081558228,
+  "mean_fair": 0.39281293749809265,
+  "net_score": 0.6070350706577301,
+  "decision_zone": "uncertain",
+  "final_label": "inconclusive",
+  "top5_similar": [
+    [
+      "suspected",
+      1.0000001192092896
+    ],
+    [
+      "suspected",
+      0.9999422430992126
+    ],
+    [
+      "confirmed",
+      0.9999327659606934
+    ],
+    [
+      "confirmed",
+      0.9999275207519531
+    ],
+    [
+      "confirmed",
+      0.9999268054962158
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

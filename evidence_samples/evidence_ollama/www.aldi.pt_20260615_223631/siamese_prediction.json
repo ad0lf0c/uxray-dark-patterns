@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.aldi.pt_20260615_223631",
+  "mean_dark": 0.9968771934509277,
+  "mean_fair": 0.3260430693626404,
+  "net_score": 0.6708341240882874,
+  "decision_zone": "dark_pattern_likely",
+  "final_label": "suspected",
+  "top5_similar": [
+    [
+      "confirmed",
+      0.9978911280632019
+    ],
+    [
+      "suspected",
+      0.997858464717865
+    ],
+    [
+      "suspected",
+      0.9976980090141296
+    ],
+    [
+      "suspected",
+      0.9976834058761597
+    ],
+    [
+      "suspected",
+      0.9976580739021301
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

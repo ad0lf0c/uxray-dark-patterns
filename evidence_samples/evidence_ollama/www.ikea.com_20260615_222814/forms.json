@@ -1,0 +1,18 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.ikea.com/pt/pt/search/",
+    "method": "get",
+    "text": "Limpar o campo de introdução de pesquisa\nPesquisar",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "search",
+        "name": "q",
+        "placeholder": "O que procura?",
+        "checked": false,
+        "value": null
+      }
+    ]
+  }
+]

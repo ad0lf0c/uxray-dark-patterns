@@ -1,0 +1,162 @@
+[
+  {
+    "index": 0,
+    "type": "radio",
+    "name": "experiencia",
+    "checked": false,
+    "label": "1",
+    "id": null
+  },
+  {
+    "index": 1,
+    "type": "radio",
+    "name": "experiencia",
+    "checked": false,
+    "label": "2",
+    "id": null
+  },
+  {
+    "index": 2,
+    "type": "radio",
+    "name": "experiencia",
+    "checked": false,
+    "label": "3",
+    "id": null
+  },
+  {
+    "index": 3,
+    "type": "radio",
+    "name": "experiencia",
+    "checked": false,
+    "label": "4",
+    "id": null
+  },
+  {
+    "index": 4,
+    "type": "radio",
+    "name": "experiencia",
+    "checked": false,
+    "label": "5",
+    "id": null
+  },
+  {
+    "index": 5,
+    "type": "radio",
+    "name": "experiencia",
+    "checked": false,
+    "label": "6",
+    "id": null
+  },
+  {
+    "index": 6,
+    "type": "radio",
+    "name": "experiencia",
+    "checked": false,
+    "label": "7",
+    "id": null
+  },
+  {
+    "index": 7,
+    "type": "radio",
+    "name": "experiencia",
+    "checked": false,
+    "label": "8",
+    "id": null
+  },
+  {
+    "index": 8,
+    "type": "radio",
+    "name": "experiencia",
+    "checked": false,
+    "label": "9",
+    "id": null
+  },
+  {
+    "index": 9,
+    "type": "radio",
+    "name": "experiencia",
+    "checked": false,
+    "label": "10",
+    "id": null
+  },
+  {
+    "index": 10,
+    "type": "radio",
+    "name": "recomendacao",
+    "checked": false,
+    "label": "1",
+    "id": null
+  },
+  {
+    "index": 11,
+    "type": "radio",
+    "name": "recomendacao",
+    "checked": false,
+    "label": "2",
+    "id": null
+  },
+  {
+    "index": 12,
+    "type": "radio",
+    "name": "recomendacao",
+    "checked": false,
+    "label": "3",
+    "id": null
+  },
+  {
+    "index": 13,
+    "type": "radio",
+    "name": "recomendacao",
+    "checked": false,
+    "label": "4",
+    "id": null
+  },
+  {
+    "index": 14,
+    "type": "radio",
+    "name": "recomendacao",
+    "checked": false,
+    "label": "5",
+    "id": null
+  },
+  {
+    "index": 15,
+    "type": "radio",
+    "name": "recomendacao",
+    "checked": false,
+    "label": "6",
+    "id": null
+  },
+  {
+    "index": 16,
+    "type": "radio",
+    "name": "recomendacao",
+    "checked": false,
+    "label": "7",
+    "id": null
+  },
+  {
+    "index": 17,
+    "type": "radio",
+    "name": "recomendacao",
+    "checked": false,
+    "label": "8",
+    "id": null
+  },
+  {
+    "index": 18,
+    "type": "radio",
+    "name": "recomendacao",
+    "checked": false,
+    "label": "9",
+    "id": null
+  },
+  {
+    "index": 19,
+    "type": "radio",
+    "name": "recomendacao",
+    "checked": false,
+    "label": "10",
+    "id": null
+  }
+]

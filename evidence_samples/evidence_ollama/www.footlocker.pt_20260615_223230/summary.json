@@ -1,0 +1,17 @@
+{
+  "url_requested": "https://www.footlocker.pt",
+  "url_final": "https://www.footlocker.pt/",
+  "title": "The Heart of Sneakers | Foot Locker Portugal",
+  "captured_at": "2026-06-15T22:32:30",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.footlocker.pt_20260615_223230",
+  "status": "blocked",
+  "stats": {},
+  "keyword_hits": [],
+  "files": {},
+  "bot_wall": "Google reCAPTCHA"
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.nowo.pt/api/search",
+    "method": "get",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "s",
+        "placeholder": "A sua pesquisa...",
+        "checked": false,
+        "value": null
+      }
+    ]
+  }
+]

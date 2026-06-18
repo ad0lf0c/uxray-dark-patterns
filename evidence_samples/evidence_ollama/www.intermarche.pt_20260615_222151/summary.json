@@ -1,0 +1,17 @@
+{
+  "url_requested": "https://www.intermarche.pt",
+  "url_final": "https://www.intermarche.pt/",
+  "title": "intermarche.pt",
+  "captured_at": "2026-06-15T22:21:51",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.intermarche.pt_20260615_222151",
+  "status": "blocked",
+  "stats": {},
+  "keyword_hits": [],
+  "files": {},
+  "bot_wall": "DataDome CAPTCHA"
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.booking.com/searchresults.pt-pt.html",
+    "method": "get",
+    "text": "Data de check-in\n—\nData de check-out\n2 adultos · 0 criança · 1 quarto\nPesquisar\nAdicionar voos à minha pesquisa",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": null,
+        "name": "ss",
+        "placeholder": "Para onde vai?",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "sb_flight_search",
+        "placeholder": null,
+        "checked": false,
+        "value": "flight"
+      }
+    ]
+  }
+]

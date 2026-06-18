@@ -1,0 +1,250 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.era.pt/",
+    "method": "post",
+    "text": "Comprar\nEmpreendimentos\nVender\nVantagens\nTrabalhar na ERA\nFranchising\nIniciar Sessão\nIniciar Sessão\nFechar\nBem-vindo à sua casa.\nmostrar\nLembre-se de mim\nEntrar\nEsqueceu-se da sua palavra-passe?\nOu\nFacebook\nGoogle\nNão tem conta?Crie uma conta\nPT\nEsta é a sua ERA. A rede imobiliária mais eficiente em Portugal\nLocalização\nQue imóvel procura?\n(Escreva como pensa)\nPesquisar\nPesquisar\nERA para ter Garantia ERA\nDescubra imóveis protegidos com um seguro que garante reparações ao comprador em caso de necessidade e até 24 meses.\nERA para ser uma casa nova\nUma seleção ERA de casas novas e novos empreendimentos para quem prefere viver todas as vontagens de uma casa a estrear.\nERA para ser a primeira casa\nExplore as melhores opções de habitação para um novo capítulo da sua vida, elegíveis para todos os benefícios a usufruir até aos 35 anos.\nMapa\nFechar\nPedido de Informação\nFechar\n+351\nMensagem\nAo enviar o pedido está a autorizar-nos a guardar os seus dados para o informar sobre oportunidades de ne",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "placeholder": null,
+        "checked": false,
+        "value": "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"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "placeholder": null,
+        "checked": false,
+        "value": "CA0B0334"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__VIEWSTATEENCRYPTED",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__EVENTVALIDATION",
+        "placeholder": null,
+        "checked": false,
+        "value": "96DmONENM/wV84fL+Au4dJgPk8o3qXJwxWH8EQi3DmgCrY1o06uAWY4k6ZB3q9OS48gLcAienu7IVSJQRf83VJ/S50yr3JPd8P1hpm29hghOlXed"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": null,
+        "placeholder": null,
+        "checked": false,
+        "value": "false"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": null,
+        "placeholder": null,
+        "checked": false,
+        "value": "false"
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "username",
+        "placeholder": "E-mail",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "password",
+        "name": "password",
+        "placeholder": "Palavra-passe",
+        "checked": false,
+        "value": "[REDACTED]"
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "dnn_ucERALoginDesktop-remember",
+        "placeholder": null,
+        "checked": false,
+        "value": "on"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": null,
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": null,
+        "placeholder": "Que imóvel procura?",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "name-null",
+        "placeholder": "Nome",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": null,
+        "placeholder": "912 345 678",
+        "checked": false,
+        "value": "+351"
+      },
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": "phone-null",
+        "placeholder": "Telefone",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "mail-null",
+        "placeholder": "E-mail",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "textarea",
+        "type": null,
+        "name": "message-null",
+        "placeholder": "Mensagem",
+        "checked": false,
+        "value": "Solicito mais informações, sem qualquer compromisso, sobre o imóvel null"
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "mktAgreement",
+        "placeholder": null,
+        "checked": false,
+        "value": "on"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "name-null",
+        "placeholder": "Nome",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": null,
+        "placeholder": "912 345 678",
+        "checked": false,
+        "value": "+351"
+      },
+      {
+        "tag": "input",
+        "type": "tel",
+        "name": "phone-null",
+        "placeholder": "Telefone",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "mail-null",
+        "placeholder": "E-mail",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "textarea",
+        "type": null,
+        "name": "message-null",
+        "placeholder": "Mensagem",
+        "checked": false,
+        "value": "Solicito mais informações, sem qualquer compromisso, sobre o imóvel null"
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "mktAgreement",
+        "placeholder": null,
+        "checked": false,
+        "value": "on"
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "username",
+        "placeholder": "E-mail",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "AllowMarketingCampaignsNewsletter",
+        "placeholder": null,
+        "checked": false,
+        "value": "on"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "ScrollTop",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__dnnVariable",
+        "placeholder": null,
+        "checked": false,
+        "value": "{\"__scdoff\":\"1\",\"sf_siteRoot\":\"/\",\"sf_tabId\":\"21\"}"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "placeholder": null,
+        "checked": false,
+        "value": "WvdI8jkGm3e5njtXhtuHpbHHmXg8LvAWsDN_tLrKWFgKuam5ZuCKXHSdbPOmHid2Dnygwg2"
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.dn.pt_20260615_222411",
+  "mean_dark": 0.39227721095085144,
+  "mean_fair": 0.9997602701187134,
+  "net_score": -0.6074830591678619,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "none",
+      0.9999998807907104
+    ],
+    [
+      "none",
+      0.9999058246612549
+    ],
+    [
+      "none",
+      0.9998969435691833
+    ],
+    [
+      "none",
+      0.9998881220817566
+    ],
+    [
+      "none",
+      0.9998812675476074
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.century21.pt_20260615_222713",
+  "mean_dark": 0.9998242259025574,
+  "mean_fair": 0.394673615694046,
+  "net_score": 0.6051506102085114,
+  "decision_zone": "uncertain",
+  "final_label": "inconclusive",
+  "top5_similar": [
+    [
+      "confirmed",
+      1.0000001192092896
+    ],
+    [
+      "suspected",
+      0.9999334216117859
+    ],
+    [
+      "suspected",
+      0.9999327659606934
+    ],
+    [
+      "suspected",
+      0.9999324679374695
+    ],
+    [
+      "suspected",
+      0.9999038577079773
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

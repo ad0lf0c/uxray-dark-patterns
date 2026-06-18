@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.dott.pt_20260615_223357",
+  "mean_dark": 0.9977006316184998,
+  "mean_fair": 0.45091313123703003,
+  "net_score": 0.5467875003814697,
+  "decision_zone": "uncertain",
+  "final_label": "inconclusive",
+  "top5_similar": [
+    [
+      "suspected",
+      0.9987295866012573
+    ],
+    [
+      "suspected",
+      0.9983630776405334
+    ],
+    [
+      "suspected",
+      0.9982667565345764
+    ],
+    [
+      "suspected",
+      0.9982016682624817
+    ],
+    [
+      "suspected",
+      0.9981580972671509
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

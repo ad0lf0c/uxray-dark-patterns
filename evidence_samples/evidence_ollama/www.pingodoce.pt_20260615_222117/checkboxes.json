@@ -1,0 +1,546 @@
+[
+  {
+    "index": 0,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 1,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 2,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 3,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 4,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 5,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 6,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 7,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 8,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 9,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 10,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 11,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 12,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 13,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 14,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 15,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 16,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 17,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 18,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 19,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 20,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 21,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 22,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 23,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 24,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 25,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 26,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 27,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 28,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 29,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 30,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 31,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 32,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 33,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 34,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 35,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 36,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 37,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 38,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 39,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 40,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 41,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 42,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 43,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 44,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 45,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 46,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 47,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 48,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 49,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 50,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 51,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 52,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 53,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 54,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 55,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 56,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 57,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 58,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 59,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 60,
+    "type": "checkbox",
+    "name": "address-radio",
+    "checked": false,
+    "label": "",
+    "id": "input-round"
+  },
+  {
+    "index": 61,
+    "type": "checkbox",
+    "name": "ot-group-id-C0002",
+    "checked": false,
+    "label": "Cookies de desempenho",
+    "id": "ot-group-id-C0002"
+  },
+  {
+    "index": 62,
+    "type": "checkbox",
+    "name": "ot-group-id-C0004",
+    "checked": false,
+    "label": "Cookies de publicidade",
+    "id": "ot-group-id-C0004"
+  },
+  {
+    "index": 63,
+    "type": "checkbox",
+    "name": "ot-group-id-C0003",
+    "checked": false,
+    "label": "Cookies de funcionalidade",
+    "id": "ot-group-id-C0003"
+  },
+  {
+    "index": 64,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "checkbox label",
+    "id": "chkbox-id"
+  },
+  {
+    "index": 65,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "checkbox label",
+    "id": "select-all-hosts-groups-handler"
+  },
+  {
+    "index": 66,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "checkbox label",
+    "id": "select-all-vendor-groups-handler"
+  },
+  {
+    "index": 67,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "checkbox label",
+    "id": "select-all-vendor-leg-handler"
+  }
+]

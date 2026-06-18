@@ -1,0 +1,42 @@
+{
+  "url_requested": "https://www.bolt.eu/pt-pt",
+  "url_final": "https://bolt.eu/pt-pt/",
+  "title": "Explora os serviços da Bolt | A superapp de mobilidade | Bolt",
+  "captured_at": "2026-06-15T22:34:10",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.bolt.eu_20260615_223410",
+  "status": "completed",
+  "stats": {
+    "visible_text_chars": 5012,
+    "buttons_links_count": 214,
+    "forms_count": 0,
+    "checkboxes_radios_count": 4,
+    "keyword_hits_count": 3,
+    "consent_banner_detected": false
+  },
+  "keyword_hits": [
+    "cookies",
+    "rejeitar",
+    "cookies"
+  ],
+  "files": {
+    "screenshot": "screenshot.png",
+    "html": "page.html",
+    "visible_text": "visible_text.txt",
+    "buttons": "buttons.json",
+    "forms": "forms.json",
+    "checkboxes": "checkboxes.json",
+    "consent_banner": "consent_banner.json",
+    "summary": "summary.json"
+  },
+  "score": 4.0,
+  "risk_level": "Medium - preliminary",
+  "has_accept_all": false,
+  "has_reject_all": false,
+  "banner_detected": false,
+  "banner_selector": ""
+}

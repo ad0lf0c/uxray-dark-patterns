@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.alternate.pt_20260615_223826",
+  "mean_dark": 0.9992324113845825,
+  "mean_fair": 0.4020088016986847,
+  "net_score": 0.5972236096858978,
+  "decision_zone": "uncertain",
+  "final_label": "inconclusive",
+  "top5_similar": [
+    [
+      "suspected",
+      0.9996162056922913
+    ],
+    [
+      "suspected",
+      0.9995288848876953
+    ],
+    [
+      "confirmed",
+      0.999520480632782
+    ],
+    [
+      "suspected",
+      0.9995110034942627
+    ],
+    [
+      "suspected",
+      0.999498188495636
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

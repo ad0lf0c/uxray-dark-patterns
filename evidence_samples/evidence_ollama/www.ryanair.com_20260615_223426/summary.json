@@ -1,0 +1,41 @@
+{
+  "url_requested": "https://www.ryanair.com/pt/pt",
+  "url_final": "https://www.ryanair.com/pt/pt",
+  "title": "Website Oficial da Ryanair | Voos Baratos",
+  "captured_at": "2026-06-15T22:34:26",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.ryanair.com_20260615_223426",
+  "status": "completed",
+  "stats": {
+    "visible_text_chars": 3490,
+    "buttons_links_count": 99,
+    "forms_count": 1,
+    "checkboxes_radios_count": 3,
+    "keyword_hits_count": 2,
+    "consent_banner_detected": false
+  },
+  "keyword_hits": [
+    "cookies",
+    "cookies"
+  ],
+  "files": {
+    "screenshot": "screenshot.png",
+    "html": "page.html",
+    "visible_text": "visible_text.txt",
+    "buttons": "buttons.json",
+    "forms": "forms.json",
+    "checkboxes": "checkboxes.json",
+    "consent_banner": "consent_banner.json",
+    "summary": "summary.json"
+  },
+  "score": 4.0,
+  "risk_level": "Medium - preliminary",
+  "has_accept_all": false,
+  "has_reject_all": false,
+  "banner_detected": false,
+  "banner_selector": ""
+}

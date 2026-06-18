@@ -1,0 +1,58 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.cmjornal.pt/pesquisa",
+    "method": "get",
+    "text": "Pesquisar",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": null,
+        "name": "q",
+        "placeholder": "Pesquisar",
+        "checked": false,
+        "value": null
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "action": "https://www.cmjornal.pt/Sondagens/Vote",
+    "method": "post",
+    "text": "Benfica: Depois de Marco Silva, Rui Costa já devia estar mais ativo no mercado?\n\nSIM\nNÃO\nVOTAR",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "radio",
+        "name": "responseId",
+        "placeholder": null,
+        "checked": false,
+        "value": "19443"
+      },
+      {
+        "tag": "input",
+        "type": "radio",
+        "name": "responseId",
+        "placeholder": null,
+        "checked": false,
+        "value": "19444"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "pollId",
+        "placeholder": null,
+        "checked": false,
+        "value": "9774"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "cof_cm",
+        "placeholder": null,
+        "checked": false,
+        "value": "CfDJ8Kif8BHTtDVKjjE1cX2WeAzM_wSVshMMWc8tJpTpANKwc8FWnR6sKmu5TjevzPK3ZAoNoBlKDKcRYxSw_txSOE24R9dwSq7eunCmKyEGBNMK9F_jPekTlNav2AjqmbBCGg7insVaGLNOOzwbq-Awh8E"
+      }
+    ]
+  }
+]

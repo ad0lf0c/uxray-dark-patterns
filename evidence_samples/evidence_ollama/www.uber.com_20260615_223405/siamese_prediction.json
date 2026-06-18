@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.uber.com_20260615_223405",
+  "mean_dark": 0.9742586016654968,
+  "mean_fair": 0.5902827382087708,
+  "net_score": 0.3839758634567261,
+  "decision_zone": "uncertain",
+  "final_label": "inconclusive",
+  "top5_similar": [
+    [
+      "suspected",
+      0.9782907366752625
+    ],
+    [
+      "suspected",
+      0.9765649437904358
+    ],
+    [
+      "suspected",
+      0.9763880968093872
+    ],
+    [
+      "suspected",
+      0.9760987162590027
+    ],
+    [
+      "suspected",
+      0.975960910320282
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

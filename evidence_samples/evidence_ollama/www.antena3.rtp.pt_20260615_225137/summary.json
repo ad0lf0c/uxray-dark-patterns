@@ -1,0 +1,17 @@
+{
+  "url_requested": "https://www.antena3.rtp.pt",
+  "url_final": null,
+  "title": null,
+  "captured_at": "2026-06-15T22:51:37",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.antena3.rtp.pt_20260615_225137",
+  "status": "failed",
+  "stats": {},
+  "keyword_hits": [],
+  "files": {},
+  "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.antena3.rtp.pt/\nCall log:\n  - navigating to \"https://www.antena3.rtp.pt/\", waiting until \"domcontentloaded\"\n"
+}

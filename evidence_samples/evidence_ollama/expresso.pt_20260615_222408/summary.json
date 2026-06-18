@@ -1,0 +1,17 @@
+{
+  "url_requested": "https://expresso.pt",
+  "url_final": "https://expresso.pt/",
+  "title": "expresso.pt",
+  "captured_at": "2026-06-15T22:24:08",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/expresso.pt_20260615_222408",
+  "status": "blocked",
+  "stats": {},
+  "keyword_hits": [],
+  "files": {},
+  "bot_wall": "DataDome CAPTCHA"
+}

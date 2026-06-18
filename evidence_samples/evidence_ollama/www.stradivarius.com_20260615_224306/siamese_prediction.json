@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.stradivarius.com_20260615_224306",
+  "mean_dark": 0.38876765966415405,
+  "mean_fair": 0.9998266100883484,
+  "net_score": -0.6110589504241943,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "none",
+      1.0
+    ],
+    [
+      "none",
+      0.9999721646308899
+    ],
+    [
+      "none",
+      0.9999709129333496
+    ],
+    [
+      "none",
+      0.9999706149101257
+    ],
+    [
+      "none",
+      0.9999644160270691
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

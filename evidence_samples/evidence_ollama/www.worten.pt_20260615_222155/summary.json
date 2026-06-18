@@ -1,0 +1,17 @@
+{
+  "url_requested": "https://www.worten.pt",
+  "url_final": "https://www.worten.pt/",
+  "title": "Worten - Tudo o que precisas em Worten.pt",
+  "captured_at": "2026-06-15T22:21:55",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.worten.pt_20260615_222155",
+  "status": "blocked",
+  "stats": {},
+  "keyword_hits": [],
+  "files": {},
+  "bot_wall": "Google reCAPTCHA"
+}

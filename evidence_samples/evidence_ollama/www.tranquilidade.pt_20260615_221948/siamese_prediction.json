@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.tranquilidade.pt_20260615_221948",
+  "mean_dark": 0.9982357025146484,
+  "mean_fair": 0.35622212290763855,
+  "net_score": 0.6420135796070099,
+  "decision_zone": "dark_pattern_likely",
+  "final_label": "suspected",
+  "top5_similar": [
+    [
+      "confirmed",
+      0.9989407658576965
+    ],
+    [
+      "suspected",
+      0.9987919926643372
+    ],
+    [
+      "suspected",
+      0.9987748861312866
+    ],
+    [
+      "suspected",
+      0.9987095594406128
+    ],
+    [
+      "suspected",
+      0.998674213886261
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

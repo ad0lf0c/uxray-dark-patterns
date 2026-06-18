@@ -1,0 +1,66 @@
+[
+  {
+    "index": 0,
+    "type": "checkbox",
+    "name": "ot-group-id-C0002",
+    "checked": false,
+    "label": "Cookies Analíticos - compreender como os visitantes acedem ao nosso Site e medir o número de visitas ao mesmo",
+    "id": "ot-group-id-C0002"
+  },
+  {
+    "index": 1,
+    "type": "checkbox",
+    "name": "ot-group-id-C0003",
+    "checked": false,
+    "label": "Cookies de Preferência - permite-nos otimizar a experiência do visitante (user experience) no nosso site",
+    "id": "ot-group-id-C0003"
+  },
+  {
+    "index": 2,
+    "type": "checkbox",
+    "name": "ot-group-id-C4S1",
+    "checked": false,
+    "label": "Categoria- Cookies de publicidade personalizada",
+    "id": "ot-group-id-C4S1"
+  },
+  {
+    "index": 3,
+    "type": "checkbox",
+    "name": "ot-group-id-C4S2",
+    "checked": false,
+    "label": "Categoria- Cookies de publicidade não personalizada",
+    "id": "ot-group-id-C4S2"
+  },
+  {
+    "index": 4,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "checkbox label",
+    "id": "select-all-hosts-groups-handler"
+  },
+  {
+    "index": 5,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "checkbox label",
+    "id": "select-all-vendor-groups-handler"
+  },
+  {
+    "index": 6,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "checkbox label",
+    "id": "select-all-vendor-leg-handler"
+  },
+  {
+    "index": 7,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "checkbox label",
+    "id": "chkbox-id"
+  }
+]

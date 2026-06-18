@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.trivago.pt_20260615_222357",
+  "mean_dark": 0.3933122754096985,
+  "mean_fair": 0.9997397661209106,
+  "net_score": -0.6064274907112122,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "none",
+      0.9999985694885254
+    ],
+    [
+      "none",
+      0.9998692870140076
+    ],
+    [
+      "none",
+      0.9998644590377808
+    ],
+    [
+      "none",
+      0.9998632073402405
+    ],
+    [
+      "none",
+      0.9998551607131958
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

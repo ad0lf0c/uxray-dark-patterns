@@ -1,0 +1,17 @@
+{
+  "url_requested": "https://www.tommyhilfiger.pt",
+  "url_final": null,
+  "title": null,
+  "captured_at": "2026-06-15T22:40:52",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.tommyhilfiger.pt_20260615_224052",
+  "status": "failed",
+  "stats": {},
+  "keyword_hits": [],
+  "files": {},
+  "error": "Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.tommyhilfiger.pt/\", waiting until \"domcontentloaded\"\n"
+}

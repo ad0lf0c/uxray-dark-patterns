@@ -1,0 +1,34 @@
+[
+  {
+    "index": 0,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "",
+    "id": null
+  },
+  {
+    "index": 1,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "",
+    "id": null
+  },
+  {
+    "index": 2,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "",
+    "id": null
+  },
+  {
+    "index": 3,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "",
+    "id": null
+  }
+]

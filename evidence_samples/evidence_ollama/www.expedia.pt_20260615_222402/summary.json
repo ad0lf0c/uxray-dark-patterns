@@ -1,0 +1,17 @@
+{
+  "url_requested": "https://www.expedia.pt",
+  "url_final": null,
+  "title": null,
+  "captured_at": "2026-06-15T22:24:02",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.expedia.pt_20260615_222402",
+  "status": "failed",
+  "stats": {},
+  "keyword_hits": [],
+  "files": {},
+  "error": "Page.goto: net::ERR_CONNECTION_REFUSED at https://www.expedia.pt/\nCall log:\n  - navigating to \"https://www.expedia.pt/\", waiting until \"domcontentloaded\"\n"
+}

@@ -1,0 +1,37 @@
+{
+  "detected": true,
+  "selector_matched": "[id*='consent-banner']",
+  "banner_text": "Diga-nos se concorda com o uso de cookies\n\nNós usamos cookies para lhe proporcionar a melhor experiência online. Diga-nos se concorda com o uso de todos estes tipos de cookies.\n\nSim, concordo\nNão concordo, volte para Configurações",
+  "buttons": [
+    {
+      "index": 0,
+      "tag": "button",
+      "text": "Sim, concordo",
+      "id": null,
+      "class": "",
+      "visible": true,
+      "x": 437,
+      "y": 1121,
+      "width": 277,
+      "height": 44,
+      "area": 12188,
+      "color": "rgb(34, 34, 34)",
+      "backgroundColor": "rgb(253, 253, 253)",
+      "fontSize": "14px",
+      "fontWeight": "700",
+      "border": "1px solid rgba(0, 0, 0, 0)",
+      "opacity": "1"
+    }
+  ],
+  "checkboxes": [],
+  "has_accept_all": false,
+  "has_reject_all": false,
+  "has_manage_options": false,
+  "accept_reject_area_ratio": null,
+  "preference_panel": null,
+  "dismiss_method": "escape_key",
+  "screenshots": [
+    "screenshot_with_banner.png"
+  ],
+  "errors": []
+}

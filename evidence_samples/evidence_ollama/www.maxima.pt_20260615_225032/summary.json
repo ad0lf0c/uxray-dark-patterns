@@ -1,0 +1,17 @@
+{
+  "url_requested": "https://www.maxima.pt",
+  "url_final": "https://www.maxima.pt/",
+  "title": "Máxima: Moda, beleza, lifestyle e comportamento",
+  "captured_at": "2026-06-15T22:50:32",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.maxima.pt_20260615_225032",
+  "status": "blocked",
+  "stats": {},
+  "keyword_hits": [],
+  "files": {},
+  "bot_wall": "Google reCAPTCHA"
+}

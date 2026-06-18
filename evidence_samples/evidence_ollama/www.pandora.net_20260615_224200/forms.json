@@ -1,0 +1,18 @@
+[
+  {
+    "index": 0,
+    "action": "https://pt.pandora.net/",
+    "method": "get",
+    "text": "Procurar",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": null,
+        "name": null,
+        "placeholder": "Procurar",
+        "checked": false,
+        "value": null
+      }
+    ]
+  }
+]

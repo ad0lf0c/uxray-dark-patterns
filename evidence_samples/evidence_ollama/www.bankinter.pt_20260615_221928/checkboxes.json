@@ -1,0 +1,90 @@
+[
+  {
+    "index": 0,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "Li e aceito a Informação de proteção de dados",
+    "id": "dados"
+  },
+  {
+    "index": 1,
+    "type": "radio",
+    "name": "opsystemBySideData_6a307a72a5a9a",
+    "checked": false,
+    "label": "Android",
+    "id": null
+  },
+  {
+    "index": 2,
+    "type": "radio",
+    "name": "opsystemBySideData_6a307a72a5a9a",
+    "checked": false,
+    "label": "Apple iOS",
+    "id": null
+  },
+  {
+    "index": 3,
+    "type": "radio",
+    "name": "bbo_client_typeBySideData_6a307a72db749",
+    "checked": true,
+    "label": "Particular",
+    "id": "tipo_cliente_particularBySideData_6a307a72db749"
+  },
+  {
+    "index": 4,
+    "type": "radio",
+    "name": "bbo_client_typeBySideData_6a307a72db749",
+    "checked": false,
+    "label": "Empresa",
+    "id": "tipo_cliente_empresasBySideData_6a307a72db749"
+  },
+  {
+    "index": 5,
+    "type": "radio",
+    "name": "bbo_clienteBySideData_6a307a72db749",
+    "checked": true,
+    "label": "SIM",
+    "id": "cliente_simBySideData_6a307a72db749"
+  },
+  {
+    "index": 6,
+    "type": "radio",
+    "name": "bbo_clienteBySideData_6a307a72db749",
+    "checked": false,
+    "label": "NÃO",
+    "id": "cliente_naoBySideData_6a307a72db749"
+  },
+  {
+    "index": 7,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "Informação sobre a Política de Privacidade do Bankinter, S.A. – Sucursal em Portugal",
+    "id": "frm_termos_politica_clienteBySideData_6a307a72db749"
+  },
+  {
+    "index": 8,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "Receber informação sobre a oferta de produtos e serviços do Bankinter, S.A. – Sucursal em Portugal, com vista ao estabelecimento de relacionamento comercial.",
+    "id": "frm_termosBySideData_6a307a72db749"
+  },
+  {
+    "index": 9,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "Cedência dos dados ora recolhidos a empresas do Grupo Bankinter e às suas filiais ou participadas (tal como em cada momento definidas em www.bankinter.com, na opção “web corporativa”, selecionando o separador “Gobierno Corporativo” e, a seguir, a secção “Participadas y Filiales”, para que possam informar‐me, por qualquer meio, sobre a oferta de produtos e serviços dessas empresas.",
+    "id": "frm_dadosBySideData_6a307a72db749"
+  },
+  {
+    "index": 10,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "Li e aceito a Informação sobre Dados Pessoais.",
+    "id": "frm_termos_politicaBySideData_6a307a72db749"
+  }
+]

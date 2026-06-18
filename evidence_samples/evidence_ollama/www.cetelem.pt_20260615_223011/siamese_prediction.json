@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.cetelem.pt_20260615_223011",
+  "mean_dark": 0.9998013377189636,
+  "mean_fair": 0.40476685762405396,
+  "net_score": 0.5950344800949097,
+  "decision_zone": "uncertain",
+  "final_label": "inconclusive",
+  "top5_similar": [
+    [
+      "suspected",
+      1.0000001192092896
+    ],
+    [
+      "suspected",
+      0.9999329447746277
+    ],
+    [
+      "suspected",
+      0.9999169707298279
+    ],
+    [
+      "suspected",
+      0.9999130964279175
+    ],
+    [
+      "suspected",
+      0.9999091029167175
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

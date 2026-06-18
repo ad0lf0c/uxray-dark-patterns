@@ -1,0 +1,98 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.timeout.pt/lisboa/pt",
+    "method": "get",
+    "text": "Insira o seu emailEste email já está registado. Experimente outro.",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "email",
+        "name": null,
+        "placeholder": "Insira o seu email",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": null,
+        "placeholder": null,
+        "checked": false,
+        "value": "Subscrever"
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "action": "https://www.timeout.pt/lisboa/pt",
+    "method": "get",
+    "text": "As melhores coisas da vida são gratisSubscreva a nossa newsletter para aproveitar o melhor da cidadeInsira o seu email",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": null,
+        "placeholder": null,
+        "checked": false,
+        "value": "Subscrever"
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "placeholder": "Insira o seu email",
+        "checked": false,
+        "value": null
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "action": "https://www.timeout.pt/lisboa/pt",
+    "method": "get",
+    "text": "Insira o seu email",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "email",
+        "name": null,
+        "placeholder": "Insira o seu email",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": null,
+        "placeholder": null,
+        "checked": false,
+        "value": "Subscrever"
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "action": "https://www.timeout.pt/lisboa/pt",
+    "method": "get",
+    "text": "Insira o seu email",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "email",
+        "name": null,
+        "placeholder": "Insira o seu email",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": null,
+        "placeholder": null,
+        "checked": false,
+        "value": "Subscrever"
+      }
+    ]
+  }
+]

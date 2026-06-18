@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.meo.pt_20260615_223138",
+  "mean_dark": 0.9998414516448975,
+  "mean_fair": 0.3957165777683258,
+  "net_score": 0.6041248738765717,
+  "decision_zone": "uncertain",
+  "final_label": "inconclusive",
+  "top5_similar": [
+    [
+      "suspected",
+      0.9999998807907104
+    ],
+    [
+      "suspected",
+      0.9999489188194275
+    ],
+    [
+      "suspected",
+      0.9999422430992126
+    ],
+    [
+      "confirmed",
+      0.9999232888221741
+    ],
+    [
+      "confirmed",
+      0.9999204874038696
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

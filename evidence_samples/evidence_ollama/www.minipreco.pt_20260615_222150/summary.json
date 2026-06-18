@@ -1,0 +1,17 @@
+{
+  "url_requested": "https://www.minipreco.pt",
+  "url_final": null,
+  "title": null,
+  "captured_at": "2026-06-15T22:21:50",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.minipreco.pt_20260615_222150",
+  "status": "failed",
+  "stats": {},
+  "keyword_hits": [],
+  "files": {},
+  "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.minipreco.pt/\nCall log:\n  - navigating to \"https://www.minipreco.pt/\", waiting until \"domcontentloaded\"\n"
+}

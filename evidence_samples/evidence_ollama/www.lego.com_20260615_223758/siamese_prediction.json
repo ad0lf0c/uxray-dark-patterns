@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.lego.com_20260615_223758",
+  "mean_dark": 0.39353492856025696,
+  "mean_fair": 0.9997560381889343,
+  "net_score": -0.6062211096286774,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "none",
+      1.0000001192092896
+    ],
+    [
+      "none",
+      0.9998663067817688
+    ],
+    [
+      "none",
+      0.9998660087585449
+    ],
+    [
+      "none",
+      0.9998598098754883
+    ],
+    [
+      "none",
+      0.999859631061554
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.massimo-dutti.com_20260615_224447",
+  "mean_dark": 0.39550235867500305,
+  "mean_fair": 0.9998502731323242,
+  "net_score": -0.6043479144573212,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "none",
+      1.0000001192092896
+    ],
+    [
+      "none",
+      0.9999763369560242
+    ],
+    [
+      "none",
+      0.9999734163284302
+    ],
+    [
+      "none",
+      0.9999701976776123
+    ],
+    [
+      "none",
+      0.9999662637710571
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

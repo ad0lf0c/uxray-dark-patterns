@@ -1,0 +1,17 @@
+{
+  "url_requested": "https://www.costco.pt",
+  "url_final": null,
+  "title": null,
+  "captured_at": "2026-06-15T22:36:56",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.costco.pt_20260615_223656",
+  "status": "failed",
+  "stats": {},
+  "keyword_hits": [],
+  "files": {},
+  "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.costco.pt/\nCall log:\n  - navigating to \"https://www.costco.pt/\", waiting until \"domcontentloaded\"\n"
+}

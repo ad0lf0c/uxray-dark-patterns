@@ -1,0 +1,58 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.aldi.pt/",
+    "method": "get",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "search",
+        "name": "searchbox",
+        "placeholder": "Encontra produtos e oportunidades",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": null,
+        "placeholder": null,
+        "checked": false,
+        "value": "Search"
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "action": "https://www.aldi.pt/",
+    "method": "get",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "search",
+        "name": "searchbox",
+        "placeholder": "Encontra produtos e oportunidades",
+        "checked": false,
+        "value": null
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "action": "https://www.aldi.pt/",
+    "method": "get",
+    "text": "Introduz aqui o teu endereço de e-mail\nSUBSCREVER",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      }
+    ]
+  }
+]

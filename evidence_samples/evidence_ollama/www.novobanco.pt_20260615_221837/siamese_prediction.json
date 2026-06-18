@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.novobanco.pt_20260615_221837",
+  "mean_dark": 0.999833345413208,
+  "mean_fair": 0.3965258300304413,
+  "net_score": 0.6033075153827667,
+  "decision_zone": "uncertain",
+  "final_label": "inconclusive",
+  "top5_similar": [
+    [
+      "confirmed",
+      1.0000001192092896
+    ],
+    [
+      "suspected",
+      0.9999447464942932
+    ],
+    [
+      "suspected",
+      0.9999363422393799
+    ],
+    [
+      "suspected",
+      0.9999266266822815
+    ],
+    [
+      "suspected",
+      0.9999232888221741
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

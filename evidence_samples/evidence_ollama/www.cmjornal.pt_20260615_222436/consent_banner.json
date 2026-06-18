@@ -1,0 +1,4154 @@
+{
+  "detected": true,
+  "selector_matched": "[aria-label*='consent' i]",
+  "banner_text": "A Medialivre solicita o seu consentimento para usar os seus dados pessoais para os seguintes fins:\nPublicidade e conteúdos personalizados, medição de publicidade e conteúdos, estudos de audiência e desenvolvimento de serviços\nArmazenar e/ou aceder a informações num dispositivo\nSaiba mais\n\nOs seus dados pessoais vão ser tratados, e as informações do seu dispositivo (cookies, identificadores únicos e outros dados do dispositivo) podem ser armazenadas, acedidas e partilhadas com 291 parceiros ou usadas especificamente por este site. Nós e os nossos parceiros podemos usar dados de geolocalização precisos. Lista de parceiros.\n\nAlguns fornecedores podem tratar os seus dados pessoais com base no interesse legítimo, ao qual se pode opor gerindo as opções abaixo. Procure um link na parte inferior desta página ou no menu do site para gerir ou revogar o consentimento nas definições de privacidade e cookies.\n\nConsentir\n\nGerir opções",
+  "buttons": [
+    {
+      "index": 0,
+      "tag": "button",
+      "text": "Saiba mais",
+      "id": null,
+      "class": "fc-faq-header fc-dialog-restricted-content",
+      "visible": true,
+      "x": 512,
+      "y": 574,
+      "width": 416,
+      "height": 28,
+      "area": 11648,
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "border": "0px none rgb(0, 0, 0)",
+      "opacity": "1"
+    },
+    {
+      "index": 1,
+      "tag": "a",
+      "text": "Como posso alterar a minha escolha?",
+      "id": null,
+      "class": "fc-faq-item",
+      "visible": false,
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "area": 0,
+      "color": "rgb(95, 99, 104)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "border": "0px none rgb(0, 0, 0)",
+      "opacity": "1"
+    },
+    {
+      "index": 2,
+      "tag": "a",
+      "text": "E se não der o meu consentimento?",
+      "id": null,
+      "class": "fc-faq-item",
+      "visible": false,
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "area": 0,
+      "color": "rgb(95, 99, 104)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "border": "0px none rgb(0, 0, 0)",
+      "opacity": "1"
+    },
+    {
+      "index": 3,
+      "tag": "a",
+      "text": "Como é que funciona o interesse legítimo?",
+      "id": null,
+      "class": "fc-faq-item",
+      "visible": false,
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "area": 0,
+      "color": "rgb(95, 99, 104)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "border": "0px none rgb(0, 0, 0)",
+      "opacity": "1"
+    },
+    {
+      "index": 4,
+      "tag": "a",
+      "text": "Tenho de consentir tudo?",
+      "id": null,
+      "class": "fc-faq-item",
+      "visible": false,
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "area": 0,
+      "color": "rgb(95, 99, 104)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "border": "0px none rgb(0, 0, 0)",
+      "opacity": "1"
+    },
+    {
+      "index": 5,
+      "tag": "a",
+      "text": "Lista de parceiros.",
+      "id": null,
+      "class": "fc-vendors-list-dialog fc-footer-link-v2",
+      "visible": true,
+      "x": 512,
+      "y": 677,
+      "width": 391,
+      "height": 33,
+      "area": 12903,
+      "color": "rgb(32, 33, 36)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "border": "0px none rgb(0, 0, 0)",
+      "opacity": "1"
+    },
+    {
+      "index": 6,
+      "tag": "button",
+      "text": "Consentir",
+      "id": null,
+      "class": "fc-button fc-cta-consent fc-primary-button",
+      "visible": true,
+      "x": 732,
+      "y": 837,
+      "width": 196,
+      "height": 38,
+      "area": 7448,
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "border": "0px none rgb(0, 0, 0)",
+      "opacity": "1"
+    },
+    {
+      "index": 7,
+      "tag": "button",
+      "text": "Gerir opções",
+      "id": null,
+      "class": "fc-button fc-cta-manage-options fc-secondary-button",
+      "visible": true,
+      "x": 512,
+      "y": 837,
+      "width": 196,
+      "height": 38,
+      "area": 7448,
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "border": "0px none rgb(0, 0, 0)",
+      "opacity": "1"
+    }
+  ],
+  "checkboxes": [],
+  "has_accept_all": false,
+  "has_reject_all": false,
+  "has_manage_options": true,
+  "accept_reject_area_ratio": null,
+  "preference_panel": {
+    "checkboxes": [
+      {
+        "index": 0,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentir (183 fornecedores)"
+      },
+      {
+        "index": 1,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentir (123 fornecedores)"
+      },
+      {
+        "index": 2,
+        "name": null,
+        "id": "fc-preference-slider-purpose-2",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo (53 fornecedores)"
+      },
+      {
+        "index": 3,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentir (150 fornecedores)"
+      },
+      {
+        "index": 4,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentir (151 fornecedores)"
+      },
+      {
+        "index": 5,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentir (46 fornecedores)"
+      },
+      {
+        "index": 6,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentir (42 fornecedores)"
+      },
+      {
+        "index": 7,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentir (119 fornecedores)"
+      },
+      {
+        "index": 8,
+        "name": null,
+        "id": "fc-preference-slider-purpose-7",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo (75 fornecedores)"
+      },
+      {
+        "index": 9,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentir (48 fornecedores)"
+      },
+      {
+        "index": 10,
+        "name": null,
+        "id": "fc-preference-slider-purpose-8",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo (24 fornecedores)"
+      },
+      {
+        "index": 11,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentir (85 fornecedores)"
+      },
+      {
+        "index": 12,
+        "name": null,
+        "id": "fc-preference-slider-purpose-9",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo (39 fornecedores)"
+      },
+      {
+        "index": 13,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentir (94 fornecedores)"
+      },
+      {
+        "index": 14,
+        "name": null,
+        "id": "fc-preference-slider-purpose-10",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo (67 fornecedores)"
+      },
+      {
+        "index": 15,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentir (22 fornecedores)"
+      },
+      {
+        "index": 16,
+        "name": null,
+        "id": "fc-preference-slider-purpose-11",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo (6 fornecedores)"
+      },
+      {
+        "index": 17,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 18,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 19,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 20,
+        "name": null,
+        "id": "fc-preference-slider-publisher-purpose-2",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 21,
+        "name": null,
+        "id": "fc-preference-slider-publisher-purpose-3",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 22,
+        "name": null,
+        "id": "fc-preference-slider-publisher-purpose-4",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 23,
+        "name": null,
+        "id": "fc-preference-slider-publisher-purpose-5",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 24,
+        "name": null,
+        "id": "fc-preference-slider-publisher-purpose-6",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 25,
+        "name": null,
+        "id": "fc-preference-slider-publisher-purpose-7",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 26,
+        "name": null,
+        "id": "fc-preference-slider-publisher-purpose-8",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 27,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 28,
+        "name": null,
+        "id": "fc-preference-slider-publisher-purpose-10",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 29,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 30,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 31,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 32,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 33,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-11",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 34,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 35,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 36,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 37,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-14",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 38,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 39,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-15",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 40,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 41,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 42,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-21",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 43,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 44,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-23",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 45,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 46,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 47,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 48,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 49,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-28",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 50,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 51,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 52,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-32",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 53,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 54,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-36",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 55,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 56,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 57,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 58,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 59,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-42",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 60,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 61,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 62,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-50",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 63,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 64,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-52",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 65,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 66,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 67,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 68,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 69,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 70,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 71,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-69",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 72,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 73,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 74,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 75,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-76",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 76,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 77,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 78,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 79,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 80,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 81,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 82,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-85",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 83,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 84,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 85,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 86,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-93",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 87,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 88,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 89,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-98",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 90,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 91,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-104",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 92,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 93,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 94,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 95,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 96,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 97,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-124",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 98,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-126",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 99,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 100,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 101,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 102,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 103,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-132",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 104,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 105,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-142",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 106,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 107,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 108,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-156",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 109,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 110,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 111,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 112,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-163",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 113,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 114,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 115,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-173",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 116,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 117,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 118,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-192",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 119,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 120,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 121,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-209",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 122,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 123,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-231",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 124,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 125,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-232",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 126,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 127,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-238",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 128,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 129,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 130,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-246",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 131,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 132,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-253",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 133,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 134,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 135,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 136,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-263",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 137,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 138,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-264",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 139,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 140,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 141,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-278",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 142,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 143,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 144,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-284",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 145,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 146,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-285",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 147,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 148,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-290",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 149,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 150,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-294",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 151,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 152,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-297",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 153,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 154,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 155,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 156,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 157,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 158,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 159,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 160,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 161,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 162,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 163,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 164,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 165,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 166,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 167,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 168,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 169,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-394",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 170,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 171,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 172,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-431",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 173,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 174,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 175,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 176,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-452",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 177,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 178,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-486",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 179,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 180,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 181,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 182,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-493",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 183,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 184,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 185,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 186,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 187,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-527",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 188,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 189,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-528",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 190,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 191,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 192,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-541",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 193,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 194,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 195,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-559",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 196,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 197,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 198,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 199,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-612",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 200,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 201,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-617",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 202,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 203,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 204,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 205,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 206,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 207,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-667",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 208,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 209,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 210,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-677",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 211,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 212,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 213,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-690",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 214,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 215,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-699",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 216,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 217,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 218,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-728",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 219,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 220,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-740",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 221,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 222,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 223,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-755",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 224,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 225,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 226,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-767",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 227,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 228,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 229,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 230,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 231,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-804",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 232,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 233,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-806",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 234,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 235,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-807",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 236,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 237,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-812",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 238,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 239,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-814",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 240,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 241,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 242,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-862",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 243,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 244,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-867",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 245,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 246,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 247,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 248,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-915",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 249,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 250,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 251,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 252,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 253,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-965",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 254,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 255,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 256,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 257,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-986",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 258,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 259,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-1005",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 260,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-1019",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 261,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 262,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 263,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-1028",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 264,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 265,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 266,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 267,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 268,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-1067",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 269,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 270,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-1070",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 271,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 272,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-1071",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 273,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 274,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-1081",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 275,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 276,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-1100",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 277,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 278,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 279,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 280,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 281,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 282,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-1135",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 283,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-1142",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 284,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 285,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 286,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-1216",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 287,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 288,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-1253",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 289,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 290,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 291,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 292,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-1320",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 293,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 294,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 295,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 296,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 297,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-1391",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 298,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 299,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 300,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 301,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-1412",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 302,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 303,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-1433",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 304,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 305,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-1456",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 306,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 307,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 308,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 309,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-1508",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 310,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 311,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 312,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 313,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-1549",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 314,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 315,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 316,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 317,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 318,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 319,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 320,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 321,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 322,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 323,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 324,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 325,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 326,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 327,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 328,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 329,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 330,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 331,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 332,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 333,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 334,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 335,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 336,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 337,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 338,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 339,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 340,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 341,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 342,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 343,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 344,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 345,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 346,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 347,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 348,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 349,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 350,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 351,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 352,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 353,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 354,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 355,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 356,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 357,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 358,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 359,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 360,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 361,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 362,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 363,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 364,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 365,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 366,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 367,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 368,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 369,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 370,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 371,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 372,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 373,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 374,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 375,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 376,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 377,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 378,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 379,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 380,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 381,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 382,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 383,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 384,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 385,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 386,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 387,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 388,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 389,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 390,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 391,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 392,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 393,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 394,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      },
+      {
+        "index": 395,
+        "name": null,
+        "id": null,
+        "checked": false,
+        "disabled": false,
+        "label": "Consentimento"
+      }
+    ],
+    "total_count": 396,
+    "pre_checked_non_essential_count": 101,
+    "pre_checked_non_essential": [
+      {
+        "index": 2,
+        "name": null,
+        "id": "fc-preference-slider-purpose-2",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo (53 fornecedores)"
+      },
+      {
+        "index": 8,
+        "name": null,
+        "id": "fc-preference-slider-purpose-7",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo (75 fornecedores)"
+      },
+      {
+        "index": 10,
+        "name": null,
+        "id": "fc-preference-slider-purpose-8",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo (24 fornecedores)"
+      },
+      {
+        "index": 12,
+        "name": null,
+        "id": "fc-preference-slider-purpose-9",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo (39 fornecedores)"
+      },
+      {
+        "index": 14,
+        "name": null,
+        "id": "fc-preference-slider-purpose-10",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo (67 fornecedores)"
+      },
+      {
+        "index": 16,
+        "name": null,
+        "id": "fc-preference-slider-purpose-11",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo (6 fornecedores)"
+      },
+      {
+        "index": 20,
+        "name": null,
+        "id": "fc-preference-slider-publisher-purpose-2",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 21,
+        "name": null,
+        "id": "fc-preference-slider-publisher-purpose-3",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 22,
+        "name": null,
+        "id": "fc-preference-slider-publisher-purpose-4",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 23,
+        "name": null,
+        "id": "fc-preference-slider-publisher-purpose-5",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 24,
+        "name": null,
+        "id": "fc-preference-slider-publisher-purpose-6",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 25,
+        "name": null,
+        "id": "fc-preference-slider-publisher-purpose-7",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 26,
+        "name": null,
+        "id": "fc-preference-slider-publisher-purpose-8",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 28,
+        "name": null,
+        "id": "fc-preference-slider-publisher-purpose-10",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 33,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-11",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 37,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-14",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 39,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-15",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 42,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-21",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 44,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-23",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 49,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-28",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 52,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-32",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 54,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-36",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 59,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-42",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 62,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-50",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 64,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-52",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 71,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-69",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 75,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-76",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 82,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-85",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 86,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-93",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 89,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-98",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 91,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-104",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 97,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-124",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 98,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-126",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 103,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-132",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 105,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-142",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 108,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-156",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 112,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-163",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 115,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-173",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 118,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-192",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 121,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-209",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 123,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-231",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 125,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-232",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 127,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-238",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 130,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-246",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 132,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-253",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 136,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-263",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 138,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-264",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 141,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-278",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 144,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-284",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 146,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-285",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 148,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-290",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 150,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-294",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 152,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-297",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 169,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-394",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 172,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-431",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 176,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-452",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 178,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-486",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 182,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-493",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 187,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-527",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 189,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-528",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 192,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-541",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 195,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-559",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 199,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-612",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 201,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-617",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 207,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-667",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 210,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-677",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 213,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-690",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 215,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-699",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 218,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-728",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 220,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-740",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 223,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-755",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 226,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-767",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 231,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-804",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 233,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-806",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 235,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-807",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 237,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-812",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 239,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-814",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 242,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-862",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 244,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-867",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 248,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-915",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 253,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-965",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 257,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-986",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 259,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-1005",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 260,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-1019",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 263,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-1028",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 268,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-1067",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 270,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-1070",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 272,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-1071",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 274,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-1081",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 276,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-1100",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 282,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-1135",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 283,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-1142",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 286,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-1216",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 288,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-1253",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 292,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-1320",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 297,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-1391",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 301,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-1412",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 303,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-1433",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 305,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-1456",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 309,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-1508",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      },
+      {
+        "index": 313,
+        "name": null,
+        "id": "fc-preference-slider-gvl-vendor-1549",
+        "checked": true,
+        "disabled": false,
+        "label": "Interesse legítimo"
+      }
+    ]
+  },
+  "dismiss_method": "escape_key",
+  "screenshots": [
+    "screenshot_with_banner.png",
+    "screenshot_consent_preferences.png"
+  ],
+  "errors": []
+}

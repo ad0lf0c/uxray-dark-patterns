@@ -1,0 +1,202 @@
+[
+  {
+    "index": 0,
+    "type": "checkbox",
+    "name": "switch",
+    "checked": false,
+    "label": "Switch Label",
+    "id": "ot-sub-group-id-ISP2V2_1"
+  },
+  {
+    "index": 1,
+    "type": "checkbox",
+    "name": "switch",
+    "checked": false,
+    "label": "Switch Label",
+    "id": "ot-sub-group-id-ISP2V2_2"
+  },
+  {
+    "index": 2,
+    "type": "checkbox",
+    "name": "switch",
+    "checked": false,
+    "label": "Switch Label",
+    "id": "ot-sub-group-id-IFE2V2_3"
+  },
+  {
+    "index": 3,
+    "type": "checkbox",
+    "name": "switch",
+    "checked": false,
+    "label": "Switch Label",
+    "id": "ot-sub-group-id-IFE2V2_1"
+  },
+  {
+    "index": 4,
+    "type": "checkbox",
+    "name": "ot-group-id-C0002",
+    "checked": false,
+    "label": "Cookies de desempenho",
+    "id": "ot-group-id-C0002"
+  },
+  {
+    "index": 5,
+    "type": "checkbox",
+    "name": "switch",
+    "checked": false,
+    "label": "Switch Label",
+    "id": "ot-sub-group-id-IAB2V2_1"
+  },
+  {
+    "index": 6,
+    "type": "checkbox",
+    "name": "switch",
+    "checked": false,
+    "label": "Switch Label",
+    "id": "ot-sub-group-id-IAB2V2_10"
+  },
+  {
+    "index": 7,
+    "type": "checkbox",
+    "name": "switch",
+    "checked": false,
+    "label": "Switch Label",
+    "id": "ot-sub-group-id-IAB2V2_8"
+  },
+  {
+    "index": 8,
+    "type": "checkbox",
+    "name": "ot-group-id-C0003",
+    "checked": false,
+    "label": "Cookies de funcionalidade",
+    "id": "ot-group-id-C0003"
+  },
+  {
+    "index": 9,
+    "type": "checkbox",
+    "name": "switch",
+    "checked": false,
+    "label": "Switch Label",
+    "id": "ot-sub-group-id-ISF2V2_1"
+  },
+  {
+    "index": 10,
+    "type": "checkbox",
+    "name": "switch",
+    "checked": false,
+    "label": "Switch Label",
+    "id": "ot-sub-group-id-ISF2V2_2"
+  },
+  {
+    "index": 11,
+    "type": "checkbox",
+    "name": "ot-group-id-C0004",
+    "checked": false,
+    "label": "Cookies de publicidade",
+    "id": "ot-group-id-C0004"
+  },
+  {
+    "index": 12,
+    "type": "checkbox",
+    "name": "switch",
+    "checked": false,
+    "label": "Switch Label",
+    "id": "ot-sub-group-id-IAB2V2_9"
+  },
+  {
+    "index": 13,
+    "type": "checkbox",
+    "name": "switch",
+    "checked": false,
+    "label": "Switch Label",
+    "id": "ot-sub-group-id-IAB2V2_5"
+  },
+  {
+    "index": 14,
+    "type": "checkbox",
+    "name": "switch",
+    "checked": false,
+    "label": "Switch Label",
+    "id": "ot-sub-group-id-IAB2V2_11"
+  },
+  {
+    "index": 15,
+    "type": "checkbox",
+    "name": "switch",
+    "checked": false,
+    "label": "Switch Label",
+    "id": "ot-sub-group-id-IAB2V2_6"
+  },
+  {
+    "index": 16,
+    "type": "checkbox",
+    "name": "ot-group-id-gad",
+    "checked": false,
+    "label": "Objetivos de processamento de ID da Google & IAB TCF 2",
+    "id": "ot-group-id-gad"
+  },
+  {
+    "index": 17,
+    "type": "checkbox",
+    "name": "switch",
+    "checked": false,
+    "label": "Switch Label",
+    "id": "ot-sub-group-id-IAB2V2_7"
+  },
+  {
+    "index": 18,
+    "type": "checkbox",
+    "name": "switch",
+    "checked": false,
+    "label": "Switch Label",
+    "id": "ot-sub-group-id-IAB2V2_3"
+  },
+  {
+    "index": 19,
+    "type": "checkbox",
+    "name": "switch",
+    "checked": false,
+    "label": "Switch Label",
+    "id": "ot-sub-group-id-IAB2V2_2"
+  },
+  {
+    "index": 20,
+    "type": "checkbox",
+    "name": "switch",
+    "checked": false,
+    "label": "Switch Label",
+    "id": "ot-sub-group-id-IAB2V2_4"
+  },
+  {
+    "index": 21,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "checkbox label",
+    "id": "chkbox-id"
+  },
+  {
+    "index": 22,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "checkbox label",
+    "id": "select-all-hosts-groups-handler"
+  },
+  {
+    "index": 23,
+    "type": "checkbox",
+    "name": null,
+    "checked": true,
+    "label": "checkbox label",
+    "id": "select-all-vendor-groups-handler"
+  },
+  {
+    "index": 24,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "checkbox label",
+    "id": "select-all-vendor-leg-handler"
+  }
+]

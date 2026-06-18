@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.randstad.pt_20260615_223601",
+  "mean_dark": 0.39629340171813965,
+  "mean_fair": 0.9997502565383911,
+  "net_score": -0.6034568548202515,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "none",
+      1.0000001192092896
+    ],
+    [
+      "none",
+      0.9998877644538879
+    ],
+    [
+      "none",
+      0.9998853802680969
+    ],
+    [
+      "none",
+      0.9998772740364075
+    ],
+    [
+      "none",
+      0.9998620748519897
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

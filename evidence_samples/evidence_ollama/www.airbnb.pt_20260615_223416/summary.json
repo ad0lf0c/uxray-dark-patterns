@@ -1,0 +1,17 @@
+{
+  "url_requested": "https://www.airbnb.pt",
+  "url_final": "https://www.airbnb.pt/",
+  "title": "Airbnb | Alojamentos para férias, cabanas, casas de praia e muito mais",
+  "captured_at": "2026-06-15T22:34:16",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.airbnb.pt_20260615_223416",
+  "status": "blocked",
+  "stats": {},
+  "keyword_hits": [],
+  "files": {},
+  "bot_wall": "Google reCAPTCHA"
+}

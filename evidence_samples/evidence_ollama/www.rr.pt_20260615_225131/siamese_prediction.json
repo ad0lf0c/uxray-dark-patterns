@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.rr.pt_20260615_225131",
+  "mean_dark": 0.9990218877792358,
+  "mean_fair": 0.4231832027435303,
+  "net_score": 0.5758386850357056,
+  "decision_zone": "uncertain",
+  "final_label": "inconclusive",
+  "top5_similar": [
+    [
+      "suspected",
+      0.9994150400161743
+    ],
+    [
+      "suspected",
+      0.9993168711662292
+    ],
+    [
+      "suspected",
+      0.9993159770965576
+    ],
+    [
+      "suspected",
+      0.9993003010749817
+    ],
+    [
+      "suspected",
+      0.9992915391921997
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

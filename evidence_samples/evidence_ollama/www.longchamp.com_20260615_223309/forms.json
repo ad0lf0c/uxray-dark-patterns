@@ -1,0 +1,42 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.longchamp.com/my/en/search",
+    "method": "get",
+    "text": "Delete\n                \n                    \n                        \n                    \n                \n            \n            \n                \n                    \n                    Close",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "search",
+        "name": "q",
+        "placeholder": "What are you looking for?",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "lang",
+        "placeholder": null,
+        "checked": false,
+        "value": "null"
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "action": "https://www.longchamp.com/",
+    "method": "post",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "placeholder": "Your email...",
+        "checked": false,
+        "value": null
+      }
+    ]
+  }
+]

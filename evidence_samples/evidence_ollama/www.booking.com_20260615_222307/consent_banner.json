@@ -1,0 +1,37 @@
+{
+  "detected": true,
+  "selector_matched": "[role='dialog'][aria-modal='true']",
+  "banner_text": "Inicie sessão para poupar\n\nInicie sessão para poupar 10% ou mais com Booking.com adesão gratuita\n\nInicie sessão ou registe-se",
+  "buttons": [
+    {
+      "index": 0,
+      "tag": "button",
+      "text": "Ignorar informação sobre iniciar sessão.",
+      "id": null,
+      "class": "de576f5064 b46cd7aad7 e26a59bb37 c295306d66 c7a901b0e7 daf5d4cb1c e7f2b1a356",
+      "visible": true,
+      "x": 964,
+      "y": 450,
+      "width": 36,
+      "height": 36,
+      "area": 1296,
+      "color": "rgb(26, 26, 26)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontWeight": "500",
+      "border": "0px none rgb(26, 26, 26)",
+      "opacity": "1"
+    }
+  ],
+  "checkboxes": [],
+  "has_accept_all": false,
+  "has_reject_all": false,
+  "has_manage_options": false,
+  "accept_reject_area_ratio": null,
+  "preference_panel": null,
+  "dismiss_method": "escape_key",
+  "screenshots": [
+    "screenshot_with_banner.png"
+  ],
+  "errors": []
+}

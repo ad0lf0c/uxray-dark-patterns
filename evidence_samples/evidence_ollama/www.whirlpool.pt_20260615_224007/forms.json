@@ -1,0 +1,18 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.whirlpool.pt/wp-search?q=",
+    "method": "get",
+    "text": "sem resultados produtos encontrados       ver todos os resultados  \n    categorias sugeridas    outros",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "q",
+        "placeholder": "procurar",
+        "checked": false,
+        "value": null
+      }
+    ]
+  }
+]

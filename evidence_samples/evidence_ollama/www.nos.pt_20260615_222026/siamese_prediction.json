@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.nos.pt_20260615_222026",
+  "mean_dark": 0.9965806007385254,
+  "mean_fair": 0.45727670192718506,
+  "net_score": 0.5393038988113403,
+  "decision_zone": "uncertain",
+  "final_label": "inconclusive",
+  "top5_similar": [
+    [
+      "suspected",
+      0.9977400898933411
+    ],
+    [
+      "suspected",
+      0.9975800514221191
+    ],
+    [
+      "suspected",
+      0.9973719716072083
+    ],
+    [
+      "suspected",
+      0.9973394274711609
+    ],
+    [
+      "suspected",
+      0.9971950054168701
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

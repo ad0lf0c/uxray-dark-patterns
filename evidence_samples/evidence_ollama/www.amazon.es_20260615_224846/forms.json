@@ -1,0 +1,165 @@
+[
+  {
+    "index": 0,
+    "action": {
+      "0": "ref: <Node>",
+      "1": "ref: <Node>"
+    },
+    "method": "post",
+    "text": "Cookies e opções de publicidade\n\nSe concordar, poderemos utilizar as suas informações pessoais de qualquer um destes Serviços da Amazon para personalizar os anúncios que lhe mostramos noutros serviços. Por exemplo, podemos usar o seu histórico de visualização do Prime Video para personalizar os anúncios que lhe mostramos nas nossas Lojas ou no Fire TV. Também podemos usar informações pessoais que recebemos de terceiros (como informações demográficas).\n\nPara além disso, se concordar, também utilizaremos cookies para complementar a sua experiência de compra nas lojas Amazon, conforme descrito no nosso Aviso de cookies. A sua escolha aplica-se à utilização de cookies de publicidade de entidades primárias e terceiras neste serviço. Os cookies guardam ou acedem a informações padrão do dispositivo, tal como um identificador único. Os 129 terceiros que usam cookies neste serviço, fazem-no com o intuito de apresentar e medir anúncios publicitários personalizados, obter informações detalhadas s",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "anti-csrftoken-a2z",
+        "placeholder": null,
+        "checked": false,
+        "value": "hPN2Y2aVLg+V4z3yFxd+hpNEiy0+L80RJhK7Jd/6mYPmAAAAAGowgVAzOGZkYjFiNi1mYjk3LTRjOTYtODdiOS05OWQ0ZThmYjA3ODA="
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "timestamp",
+        "placeholder": null,
+        "checked": false,
+        "value": "1781563728675"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "locale",
+        "placeholder": null,
+        "checked": false,
+        "value": "pt-PT"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "disclosureDecision",
+        "placeholder": null,
+        "checked": false,
+        "value": "cookie,ads"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "privacyCustomerId",
+        "placeholder": null,
+        "checked": false,
+        "value": "null"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "sessionId",
+        "placeholder": null,
+        "checked": false,
+        "value": "522-6758317-5683051"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "userId",
+        "placeholder": null,
+        "checked": false,
+        "value": "522-6758317-5683051"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "userType",
+        "placeholder": null,
+        "checked": false,
+        "value": "UNAUTHENTICATED"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "clientId",
+        "placeholder": null,
+        "checked": false,
+        "value": "ShoppingPortal"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "clientType",
+        "placeholder": null,
+        "checked": false,
+        "value": "desktopBanner"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "consentTypes",
+        "placeholder": null,
+        "checked": false,
+        "value": "0,4"
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": "action",
+        "placeholder": null,
+        "checked": false,
+        "value": "Aceitar"
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": "action",
+        "placeholder": null,
+        "checked": false,
+        "value": "Recusar"
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "action": "https://www.amazon.es/s/ref=nb_sb_noss",
+    "method": "get",
+    "text": "Todas as categorias\nTodas as categorias\nAlexa Skills\nAmazon Global Store\nAmazon Haul\nAmazon Segunda mão\nAplicações e Jogos\nAudiolivros Audible\nAutomóvel\nBagagem e acessórios de viagem\nBebé\nBeleza\nBricolage e ferramentas\nBrinquedos e jogos\nCartões Oferta\nCDs e Vinis\nComputadores\nCozinha e sala de jantar\nDesporto e ar livre\nDispositivos da Amazon\nEletrónica\nFilmes e TV\nGrandes eletrodomésticos\nHandmade\nIluminação\nIndústria e ciência\nInstrumentos musicais\nJardim e exterior\nLivros\nLoja Kindle\nLuxury Stores\nMenos de 10€\nMercearia\nModa\nVestuário, calçado e joalharia para mulher\nVestuário, calçado e joalharia para homem\nVestuário, calçado e joalharia para menina\nVestuário, calçado e joalharia para menino\nRoupa, sapatos e joias para bebé\nMúsica digital\nPrime Video\nProdutos de escritório\nProdutos para animais de estimação\nSaúde e Cuidado Pessoal\nSoftware\nSubscreva e poupe\nVideojogos",
+    "inputs": [
+      {
+        "tag": "select",
+        "type": null,
+        "name": "url",
+        "placeholder": null,
+        "checked": false,
+        "value": "search-alias=aps"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "field-keywords",
+        "placeholder": "Pesquisar Amazon.es",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": null,
+        "placeholder": null,
+        "checked": false,
+        "value": "Ir"
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "action": "https://www.amazon.es/get",
+    "method": "get",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "ue_back",
+        "placeholder": null,
+        "checked": false,
+        "value": "2"
+      }
+    ]
+  }
+]

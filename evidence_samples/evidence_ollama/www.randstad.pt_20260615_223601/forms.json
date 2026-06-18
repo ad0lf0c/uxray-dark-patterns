@@ -1,0 +1,170 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.randstad.pt/empregos/",
+    "method": "get",
+    "text": "pesquisar por\n utilizar localização atual\nonde?\ndistância\nselect range\n10 km\n25 km\n50 km\n100 km\n \npesquisar 1136 empregos\n \npesquisa avançada",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "form_id",
+        "placeholder": null,
+        "checked": false,
+        "value": "search_filters"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "text",
+        "placeholder": "função ou palavra-chave",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "location",
+        "placeholder": "cidade, região ou código postal",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "select",
+        "type": null,
+        "name": "distance",
+        "placeholder": null,
+        "checked": false,
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "action": "https://www.randstad.pt/jobs/",
+    "method": "post",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "text",
+        "placeholder": "função ou palavra-chave",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "location",
+        "placeholder": "cidade, região ou código postal",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "select",
+        "type": null,
+        "name": "distance",
+        "placeholder": null,
+        "checked": false,
+        "value": "10"
+      },
+      {
+        "tag": "select",
+        "type": null,
+        "name": "specialism",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "select",
+        "type": null,
+        "name": "jobType",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "text",
+        "placeholder": "função ou palavra-chave",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "location",
+        "placeholder": "cidade, região ou código postal",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "select",
+        "type": null,
+        "name": "distance",
+        "placeholder": null,
+        "checked": false,
+        "value": "10"
+      },
+      {
+        "tag": "select",
+        "type": null,
+        "name": "jobType",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "select",
+        "type": null,
+        "name": "specialism",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "action": "https://www.randstad.pt/contactos/",
+    "method": "post",
+    "text": "código postal / cidade\ntodos\ntodos\nagricultura, florestas e pesca\narmazéns e distribuição\nartes, entretenimento e media\nassuntos legais\nbanca\ncall centre e serviços de apoio ao cliente\neducação, formação e bibliotecas\nengenharia\nhotelaria e turismo\nindústria\nmarketing, publicidade e relações públicas\nrecursos humanos\nretalho, grande consumo e distribuição\nsaúde, técnico de saúde, auxiliar\nserviços de consultoria\nserviços financeiros\ntecnologias de informação\ntelecomunicações\nvendas, comercial\npesquisa",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "branch_view",
+        "placeholder": null,
+        "checked": false,
+        "value": "list"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "form_id",
+        "placeholder": null,
+        "checked": false,
+        "value": "branch_filters"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "branch_search",
+        "placeholder": "código postal / cidade",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "select",
+        "type": null,
+        "name": "specialism",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      }
+    ]
+  }
+]

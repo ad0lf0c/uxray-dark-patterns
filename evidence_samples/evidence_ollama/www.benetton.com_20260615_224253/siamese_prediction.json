@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.benetton.com_20260615_224253",
+  "mean_dark": 0.8438249230384827,
+  "mean_fair": 0.8223246932029724,
+  "net_score": 0.021500229835510254,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "suspected",
+      0.8536514639854431
+    ],
+    [
+      "suspected",
+      0.8491838574409485
+    ],
+    [
+      "suspected",
+      0.8488768339157104
+    ],
+    [
+      "suspected",
+      0.8482210040092468
+    ],
+    [
+      "suspected",
+      0.8479021191596985
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

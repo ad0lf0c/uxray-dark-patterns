@@ -1,0 +1,43 @@
+{
+  "url_requested": "https://www.siemens-home.com/pt",
+  "url_final": "https://www.siemens-home.bsh-group.com/pt/pt",
+  "title": "Siemens Home Appliances | A Tecnologia encontra o Design",
+  "captured_at": "2026-06-15T22:39:54",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.siemens-home.com_20260615_223954",
+  "status": "completed",
+  "stats": {
+    "visible_text_chars": 2863,
+    "buttons_links_count": 80,
+    "forms_count": 0,
+    "checkboxes_radios_count": 0,
+    "keyword_hits_count": 2,
+    "consent_banner_detected": true
+  },
+  "keyword_hits": [
+    "cookies",
+    "cookies"
+  ],
+  "files": {
+    "screenshot": "screenshot.png",
+    "html": "page.html",
+    "visible_text": "visible_text.txt",
+    "buttons": "buttons.json",
+    "forms": "forms.json",
+    "checkboxes": "checkboxes.json",
+    "consent_banner": "consent_banner.json",
+    "summary": "summary.json",
+    "screenshot_with_banner": "screenshot_with_banner.png",
+    "screenshot_consent_preferences": "screenshot_consent_preferences.png"
+  },
+  "score": 2.5,
+  "risk_level": "Low - preliminary",
+  "has_accept_all": true,
+  "has_reject_all": true,
+  "banner_detected": true,
+  "banner_selector": "[role='dialog'][aria-modal='true']"
+}

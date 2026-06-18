@@ -1,0 +1,17 @@
+{
+  "url_requested": "https://www.farfetch.com/pt",
+  "url_final": "https://www.farfetch.com/pt",
+  "title": "FARFETCH Portugal | The Global Destination for Modern Luxury",
+  "captured_at": "2026-06-15T22:33:36",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.farfetch.com_20260615_223336",
+  "status": "blocked",
+  "stats": {},
+  "keyword_hits": [],
+  "files": {},
+  "bot_wall": "Google reCAPTCHA"
+}

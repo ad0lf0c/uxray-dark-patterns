@@ -1,0 +1,90 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.michaelpage.pt/",
+    "method": "post",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": "op",
+        "placeholder": null,
+        "checked": false,
+        "value": "Enviar"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "form_build_id",
+        "placeholder": null,
+        "checked": false,
+        "value": "form-Mo3FOoAsGmSFHOqyP0W62klRv9iAt0KUU1qoW4AsBOA"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "form_id",
+        "placeholder": null,
+        "checked": false,
+        "value": "th_anon_job_alert"
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "action": "https://www.michaelpage.pt/jobs",
+    "method": "get",
+    "text": "Título da função\nLocalização\nSalary Min\nSalário mín\n0k\n30k\n50k\n70k\n90k\n+90k\nSalary Max\nSalário máx\n0k\n30k\n50k\n70k\n90k\n100k\n+100k",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "search",
+        "placeholder": "Título da função",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "location",
+        "placeholder": "Região, cidade...",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "select",
+        "type": null,
+        "name": "sort_by",
+        "placeholder": null,
+        "checked": false,
+        "value": "relevance"
+      },
+      {
+        "tag": "select",
+        "type": null,
+        "name": "field_job_salary_min",
+        "placeholder": null,
+        "checked": false,
+        "value": "-1"
+      },
+      {
+        "tag": "select",
+        "type": null,
+        "name": "field_job_salary_max",
+        "placeholder": null,
+        "checked": false,
+        "value": "-1"
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": "Search",
+        "placeholder": null,
+        "checked": false,
+        "value": "Pesquisar"
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.amazon.es_20260615_224846",
+  "mean_dark": 0.3913450539112091,
+  "mean_fair": 0.9997978806495667,
+  "net_score": -0.6084528267383575,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "none",
+      1.0
+    ],
+    [
+      "none",
+      0.9999273419380188
+    ],
+    [
+      "none",
+      0.9999202489852905
+    ],
+    [
+      "none",
+      0.999916672706604
+    ],
+    [
+      "none",
+      0.9999110698699951
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

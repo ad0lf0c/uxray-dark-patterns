@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.bankinter.pt_20260615_221928",
+  "mean_dark": 0.3963465392589569,
+  "mean_fair": 0.9996852278709412,
+  "net_score": -0.6033386886119843,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "none",
+      1.0
+    ],
+    [
+      "none",
+      0.999785304069519
+    ],
+    [
+      "none",
+      0.9997845888137817
+    ],
+    [
+      "none",
+      0.9997845888137817
+    ],
+    [
+      "none",
+      0.9997825622558594
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

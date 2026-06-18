@@ -1,0 +1,218 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.activobank.pt/pt/",
+    "method": "post",
+    "text": "Banco com vantagens na Domiciliação de Ordenado\n\nPREÇÁRIO DE TÍTULOS\n\nFaça como a Sofia: Invista com o ActivoBank e a 1ª. Ordem de Bolsa mensal custa 0€\n\nRestantes: 5€/$ (mercados EUR/USD)\n\nSaiba mais\n\nPUB\n\nEntre em campo com 2,10% TANB\n\nPrazo 60 dias | Moeda Euro | Montante mínimo: 2.500€\n\nRenovação automática à taxa do Depósito Standard.\n\nPermite mobilização parcial ou total com 100% de penalização de juros.\n\nLimitado a uma constituição por conta de depósitos à ordem, na App de 2 a 30/6/2026.\n\nSaiba mais\n\nBrindemos a mais sunsets e a 50 de volta\n\nCARTÃO DE CRÉDITO AB GOLD1\n\nTAEG 17,9%\n\n2,99€/mês de Comissão de Disponibilização de Cartão\n\nConsulte o regulamento\n\nSaiba mais\nContinuamos a apoiar os Clientes impactados pela calamidade\n\nMoratória de Crédito Habitação Prolongada de acordo com Decreto Lei nº 98/2026, de 21 de Maio de 2026\n\nSaiba mais\nQuer poupar? Temos o Depósito ajustado aos seus objetivos.\n\nExperimente o nosso novo Simulador de Depósitos a Prazo e veja o valor acumulado n",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "_wpcmWpid",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "wpcmVal",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOWebPartPage_PostbackSource",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOTlPn_SelectedWpId",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOTlPn_View",
+        "placeholder": null,
+        "checked": false,
+        "value": "0"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOTlPn_ShowSettings",
+        "placeholder": null,
+        "checked": false,
+        "value": "False"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOGallery_SelectedLibrary",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOGallery_FilterString",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOTlPn_Button",
+        "placeholder": null,
+        "checked": false,
+        "value": "none"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__REQUESTDIGEST",
+        "placeholder": null,
+        "checked": false,
+        "value": "noDigest"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOSPWebPartManager_DisplayModeName",
+        "placeholder": null,
+        "checked": false,
+        "value": "Browse"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOSPWebPartManager_ExitingDesignMode",
+        "placeholder": null,
+        "checked": false,
+        "value": "false"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOWebPartPage_Shared",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOLayout_LayoutChanges",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOLayout_InDesignMode",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOSPWebPartManager_OldDisplayModeName",
+        "placeholder": null,
+        "checked": false,
+        "value": "Browse"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOSPWebPartManager_StartWebPartEditingName",
+        "placeholder": null,
+        "checked": false,
+        "value": "false"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "MSOSPWebPartManager_EndWebPartEditing",
+        "placeholder": null,
+        "checked": false,
+        "value": "false"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "placeholder": null,
+        "checked": false,
+        "value": "myVSfJoLDDBMzUhOeei5ATwduAE8c+P30w8Sbh6gpRAJA3vtHG4rCXgTgeWfz/8oFeMqS1M2oxtfQ0ol0YlgppKugl/F2oaYaflsWy4FcL1ztLcQXqsmaiby5h/DZJ4J"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "ctl00$cookiesCount",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": "ctl00$btnDummySubmit",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "ctl00$hdn_XssValidator",
+        "placeholder": null,
+        "checked": false,
+        "value": "%5B%5C%27%5C%22%5Cn%5Cr%5C%26%5C%5C%5C%5C%5C%3C%5C%3E%5D"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "placeholder": null,
+        "checked": false,
+        "value": "434349CB"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "__EVENTVALIDATION",
+        "placeholder": null,
+        "checked": false,
+        "value": "LRMYdIH2v9aHxvMYEkm8fIy6SAWOFENSTjmR1MZZWWTYcEyvmuq03OcdRK9gYp0MXNBwPcvujWCwvPp1Wb/Lqf46X7XQ6r8QYXbk/Og0iJgkX1SRHrm7p5qN+9J6c658EiQEVr/ET318finl22WmChaU6f0P8BdS+b1WyRy0x74="
+      }
+    ]
+  }
+]

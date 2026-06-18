@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.easyjet.com_20260615_223431",
+  "mean_dark": 0.3920498192310333,
+  "mean_fair": 0.9998573064804077,
+  "net_score": -0.6078074872493744,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "none",
+      0.9999999403953552
+    ],
+    [
+      "none",
+      0.9999889135360718
+    ],
+    [
+      "none",
+      0.9999858736991882
+    ],
+    [
+      "none",
+      0.9999789595603943
+    ],
+    [
+      "none",
+      0.9999763369560242
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

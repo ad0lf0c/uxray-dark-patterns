@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.huawei.com_20260615_223222",
+  "mean_dark": 0.39146140217781067,
+  "mean_fair": 0.9997913241386414,
+  "net_score": -0.6083299219608307,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "none",
+      1.0
+    ],
+    [
+      "none",
+      0.9999179840087891
+    ],
+    [
+      "none",
+      0.999908447265625
+    ],
+    [
+      "none",
+      0.9999082684516907
+    ],
+    [
+      "none",
+      0.9999069571495056
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

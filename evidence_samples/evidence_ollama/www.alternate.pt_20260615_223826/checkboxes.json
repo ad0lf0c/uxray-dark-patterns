@@ -1,0 +1,10 @@
+[
+  {
+    "index": 0,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "Zwischen hellem und dunklem Farbmodus wechseln",
+    "id": "theme-toggle"
+  }
+]

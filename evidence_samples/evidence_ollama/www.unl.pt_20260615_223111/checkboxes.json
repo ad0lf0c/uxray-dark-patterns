@@ -1,0 +1,74 @@
+[
+  {
+    "index": 0,
+    "type": "checkbox",
+    "name": null,
+    "checked": true,
+    "label": "Necessários",
+    "id": "CybotCookiebotDialogBodyLevelButtonNecessary"
+  },
+  {
+    "index": 1,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "Preferências",
+    "id": "CybotCookiebotDialogBodyLevelButtonPreferences"
+  },
+  {
+    "index": 2,
+    "type": "checkbox",
+    "name": null,
+    "checked": true,
+    "label": "Estatísticas",
+    "id": "CybotCookiebotDialogBodyLevelButtonStatistics"
+  },
+  {
+    "index": 3,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "Marketing",
+    "id": "CybotCookiebotDialogBodyLevelButtonMarketing"
+  },
+  {
+    "index": 4,
+    "type": "checkbox",
+    "name": null,
+    "checked": true,
+    "label": "",
+    "id": "CybotCookiebotDialogBodyLevelButtonNecessaryInline"
+  },
+  {
+    "index": 5,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "",
+    "id": "CybotCookiebotDialogBodyLevelButtonPreferencesInline"
+  },
+  {
+    "index": 6,
+    "type": "checkbox",
+    "name": null,
+    "checked": true,
+    "label": "",
+    "id": "CybotCookiebotDialogBodyLevelButtonStatisticsInline"
+  },
+  {
+    "index": 7,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "",
+    "id": "CybotCookiebotDialogBodyLevelButtonMarketingInline"
+  },
+  {
+    "index": 8,
+    "type": "checkbox",
+    "name": null,
+    "checked": false,
+    "label": "Do not sell or share my personal information",
+    "id": "CybotCookiebotDialogBodyContentCheckboxPersonalInformation"
+  }
+]

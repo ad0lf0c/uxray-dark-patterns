@@ -1,0 +1,301 @@
+{
+  "detected": true,
+  "selector_matched": "#onetrust-banner-sdk",
+  "banner_text": "Preocupamo-nos com a sua privacidade\nNós e os nossos parceiros 456 armazenamos e/ou acedemos a informações num dispositivo, tais como identificadores únicos em cookies para tratar dados pessoais. Pode aceitar ou gerir as suas escolhas clicando abaixo ou em qualquer momento na página da política de privacidade. Estas escolhas serão sinalizadas aos nossos parceiros e não afetarão os dados de navegação.Política de cookies, Política De Privacidade\nNós e os nossos parceiros tratamos os dados para fornecermos:\n\nUtilizar dados de geolocalização precisos. Procurar ativamente as características do dispositivo para identificação. Armazenar e/ou aceder a informações num dispositivo. Compreender os públicos através de estatísticas ou combinações de dados de diferentes fontes. Medir o desempenho da publicidade. Criar perfis para publicidade personalizada. Criar perfis para personalizar conteúdos. Desenvolver e melhorar serviços. Utilizar dados limitados para selecionar publicidade. Medir o desempenho dos conteúdos. Utilizar dados limitados para selecionar conteúdos. Utilizar perfis para selecionar conteúdos personalizados. Utilizar perfis para selecionar publicidade personalizada.\nLista de parceiros (fornecedores)\n\nAceitar tudo\nAceitar necessários\nDefinir preferências",
+  "buttons": [
+    {
+      "index": 0,
+      "tag": "button",
+      "text": "Lista de parceiros (fornecedores)",
+      "id": null,
+      "class": "ot-link-btn onetrust-vendors-list-handler",
+      "visible": true,
+      "x": 644,
+      "y": 1161,
+      "width": 222,
+      "height": 16,
+      "area": 3557,
+      "color": "rgb(0, 47, 52)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "13.008px",
+      "fontWeight": "700",
+      "border": "0px none rgb(0, 47, 52)",
+      "opacity": "1"
+    },
+    {
+      "index": 1,
+      "tag": "button",
+      "text": "Aceitar tudo",
+      "id": "onetrust-accept-btn-handler",
+      "class": "",
+      "visible": true,
+      "x": 1203,
+      "y": 986,
+      "width": 155,
+      "height": 42,
+      "area": 6433,
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(0, 47, 52)",
+      "fontSize": "13.008px",
+      "fontWeight": "600",
+      "border": "1px solid rgb(0, 47, 52)",
+      "opacity": "1"
+    },
+    {
+      "index": 2,
+      "tag": "button",
+      "text": "Aceitar necessários",
+      "id": "onetrust-reject-all-handler",
+      "class": "",
+      "visible": true,
+      "x": 1203,
+      "y": 1057,
+      "width": 155,
+      "height": 42,
+      "area": 6433,
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(0, 47, 52)",
+      "fontSize": "13.008px",
+      "fontWeight": "600",
+      "border": "1px solid rgb(0, 47, 52)",
+      "opacity": "1"
+    },
+    {
+      "index": 3,
+      "tag": "button",
+      "text": "Definir preferências",
+      "id": "onetrust-pc-btn-handler",
+      "class": "",
+      "visible": true,
+      "x": 1203,
+      "y": 1127,
+      "width": 155,
+      "height": 42,
+      "area": 6433,
+      "color": "rgb(0, 47, 52)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "fontSize": "13.008px",
+      "fontWeight": "600",
+      "border": "1px solid rgb(0, 47, 52)",
+      "opacity": "1"
+    }
+  ],
+  "checkboxes": [],
+  "has_accept_all": true,
+  "has_reject_all": false,
+  "has_manage_options": true,
+  "accept_reject_area_ratio": null,
+  "preference_panel": {
+    "checkboxes": [
+      {
+        "index": 0,
+        "name": "switch",
+        "id": "ot-sub-group-id-ISP2V2_1",
+        "checked": false,
+        "disabled": false,
+        "label": "Switch Label"
+      },
+      {
+        "index": 1,
+        "name": "switch",
+        "id": "ot-sub-group-id-ISP2V2_2",
+        "checked": false,
+        "disabled": false,
+        "label": "Switch Label"
+      },
+      {
+        "index": 2,
+        "name": "switch",
+        "id": "ot-sub-group-id-IFE2V2_3",
+        "checked": false,
+        "disabled": false,
+        "label": "Switch Label"
+      },
+      {
+        "index": 3,
+        "name": "switch",
+        "id": "ot-sub-group-id-IFE2V2_1",
+        "checked": false,
+        "disabled": false,
+        "label": "Switch Label"
+      },
+      {
+        "index": 4,
+        "name": "ot-group-id-C0002",
+        "id": "ot-group-id-C0002",
+        "checked": false,
+        "disabled": false,
+        "label": ""
+      },
+      {
+        "index": 5,
+        "name": "switch",
+        "id": "ot-sub-group-id-IAB2V2_1",
+        "checked": false,
+        "disabled": false,
+        "label": "Switch Label"
+      },
+      {
+        "index": 6,
+        "name": "switch",
+        "id": "ot-sub-group-id-IAB2V2_10",
+        "checked": false,
+        "disabled": false,
+        "label": "Switch Label"
+      },
+      {
+        "index": 7,
+        "name": "switch",
+        "id": "ot-sub-group-id-IAB2V2_8",
+        "checked": false,
+        "disabled": false,
+        "label": "Switch Label"
+      },
+      {
+        "index": 8,
+        "name": "ot-group-id-C0003",
+        "id": "ot-group-id-C0003",
+        "checked": false,
+        "disabled": false,
+        "label": ""
+      },
+      {
+        "index": 9,
+        "name": "switch",
+        "id": "ot-sub-group-id-ISF2V2_1",
+        "checked": false,
+        "disabled": false,
+        "label": "Switch Label"
+      },
+      {
+        "index": 10,
+        "name": "switch",
+        "id": "ot-sub-group-id-ISF2V2_2",
+        "checked": false,
+        "disabled": false,
+        "label": "Switch Label"
+      },
+      {
+        "index": 11,
+        "name": "ot-group-id-C0004",
+        "id": "ot-group-id-C0004",
+        "checked": false,
+        "disabled": false,
+        "label": ""
+      },
+      {
+        "index": 12,
+        "name": "switch",
+        "id": "ot-sub-group-id-IAB2V2_9",
+        "checked": false,
+        "disabled": false,
+        "label": "Switch Label"
+      },
+      {
+        "index": 13,
+        "name": "switch",
+        "id": "ot-sub-group-id-IAB2V2_5",
+        "checked": false,
+        "disabled": false,
+        "label": "Switch Label"
+      },
+      {
+        "index": 14,
+        "name": "switch",
+        "id": "ot-sub-group-id-IAB2V2_11",
+        "checked": false,
+        "disabled": false,
+        "label": "Switch Label"
+      },
+      {
+        "index": 15,
+        "name": "switch",
+        "id": "ot-sub-group-id-IAB2V2_6",
+        "checked": false,
+        "disabled": false,
+        "label": "Switch Label"
+      },
+      {
+        "index": 16,
+        "name": "ot-group-id-gad",
+        "id": "ot-group-id-gad",
+        "checked": false,
+        "disabled": false,
+        "label": ""
+      },
+      {
+        "index": 17,
+        "name": "switch",
+        "id": "ot-sub-group-id-IAB2V2_7",
+        "checked": false,
+        "disabled": false,
+        "label": "Switch Label"
+      },
+      {
+        "index": 18,
+        "name": "switch",
+        "id": "ot-sub-group-id-IAB2V2_3",
+        "checked": false,
+        "disabled": false,
+        "label": "Switch Label"
+      },
+      {
+        "index": 19,
+        "name": "switch",
+        "id": "ot-sub-group-id-IAB2V2_2",
+        "checked": false,
+        "disabled": false,
+        "label": "Switch Label"
+      },
+      {
+        "index": 20,
+        "name": "switch",
+        "id": "ot-sub-group-id-IAB2V2_4",
+        "checked": false,
+        "disabled": false,
+        "label": "Switch Label"
+      },
+      {
+        "index": 21,
+        "name": null,
+        "id": "chkbox-id",
+        "checked": false,
+        "disabled": false,
+        "label": "checkbox label"
+      },
+      {
+        "index": 22,
+        "name": null,
+        "id": "select-all-hosts-groups-handler",
+        "checked": false,
+        "disabled": false,
+        "label": "checkbox label"
+      },
+      {
+        "index": 23,
+        "name": null,
+        "id": "select-all-vendor-groups-handler",
+        "checked": false,
+        "disabled": false,
+        "label": "checkbox label"
+      },
+      {
+        "index": 24,
+        "name": null,
+        "id": "select-all-vendor-leg-handler",
+        "checked": false,
+        "disabled": false,
+        "label": "checkbox label"
+      }
+    ],
+    "total_count": 25,
+    "pre_checked_non_essential_count": 0,
+    "pre_checked_non_essential": []
+  },
+  "dismiss_method": "escape_key",
+  "screenshots": [
+    "screenshot_with_banner.png",
+    "screenshot_consent_preferences.png"
+  ],
+  "errors": []
+}

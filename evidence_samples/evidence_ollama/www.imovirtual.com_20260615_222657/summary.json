@@ -1,0 +1,17 @@
+{
+  "url_requested": "https://www.imovirtual.com",
+  "url_final": "https://www.imovirtual.com/",
+  "title": "Imovirtual – Portal Imobiliário para Comprar e Arrendar Imóveis em Portugal",
+  "captured_at": "2026-06-15T22:26:57",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.imovirtual.com_20260615_222657",
+  "status": "blocked",
+  "stats": {},
+  "keyword_hits": [],
+  "files": {},
+  "bot_wall": "Google reCAPTCHA"
+}

@@ -1,0 +1,17 @@
+{
+  "url_requested": "https://www.lifecooler.com",
+  "url_final": "https://lifecooler.com/",
+  "title": "Lifecooler - Viagens e Lazer em Portugal",
+  "captured_at": "2026-06-15T22:50:53",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.lifecooler.com_20260615_225053",
+  "status": "blocked",
+  "stats": {},
+  "keyword_hits": [],
+  "files": {},
+  "bot_wall": "Google reCAPTCHA"
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.tous.com/pt-pt/search",
+    "method": "get",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "q",
+        "placeholder": "Pesquisar",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "lang",
+        "placeholder": null,
+        "checked": false,
+        "value": "pt_PT"
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "action": "https://www.tous.com/pt-pt/",
+    "method": "get",
+    "text": "E-mail\nSubscrever",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "footerEmailSignUp",
+        "placeholder": "E-mail",
+        "checked": false,
+        "value": null
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "action": "https://www.tous.com/pt-pt/",
+    "method": "post",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "file",
+        "name": "file",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "filename",
+        "placeholder": null,
+        "checked": false,
+        "value": null
+      }
+    ]
+  }
+]

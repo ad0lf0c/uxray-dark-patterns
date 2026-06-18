@@ -1,0 +1,194 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.froiz.pt/",
+    "method": "post",
+    "text": "Email\nCódigo postal\nACEPTACION\n Li e aceito a politica de privacidade\nSubscrever",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "post_id",
+        "placeholder": null,
+        "checked": false,
+        "value": "6632"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "form_id",
+        "placeholder": null,
+        "checked": false,
+        "value": "5d2cc45d"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "referer_title",
+        "placeholder": null,
+        "checked": false,
+        "value": "Supermercados Froiz"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "queried_id",
+        "placeholder": null,
+        "checked": false,
+        "value": "5698"
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "form_fields[email]",
+        "placeholder": "Email",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "form_fields[field_b864260]",
+        "placeholder": "Código postal",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "form_fields[field_bfceb2f]",
+        "placeholder": null,
+        "checked": false,
+        "value": "on"
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "action": "https://www.froiz.pt/",
+    "method": "post",
+    "text": "Email\nCódigo postal\nACEPTACION\n Li e aceito a politica de privacidade\nSubscrever",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "post_id",
+        "placeholder": null,
+        "checked": false,
+        "value": "28604"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "form_id",
+        "placeholder": null,
+        "checked": false,
+        "value": "46399c69"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "referer_title",
+        "placeholder": null,
+        "checked": false,
+        "value": "Supermercados Froiz"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "queried_id",
+        "placeholder": null,
+        "checked": false,
+        "value": "5698"
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "form_fields[email]",
+        "placeholder": "Email",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "form_fields[field_b864260]",
+        "placeholder": "Código postal",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "form_fields[field_bfceb2f]",
+        "placeholder": null,
+        "checked": false,
+        "value": "on"
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "action": "https://www.froiz.pt/",
+    "method": "post",
+    "text": "Email\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tCódigo postal\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tACEPTACION\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\tLi e aceito a \n política de privacidade\t\t\t\n\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tSubscrever",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "post_id",
+        "placeholder": null,
+        "checked": false,
+        "value": "5698"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "form_id",
+        "placeholder": null,
+        "checked": false,
+        "value": "218b4fb9"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "referer_title",
+        "placeholder": null,
+        "checked": false,
+        "value": "Supermercados Froiz"
+      },
+      {
+        "tag": "input",
+        "type": "hidden",
+        "name": "queried_id",
+        "placeholder": null,
+        "checked": false,
+        "value": "5698"
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "form_fields[email]",
+        "placeholder": "Email",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "form_fields[field_b864260]",
+        "placeholder": "Código postal",
+        "checked": false,
+        "value": null
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "form_fields[field_bfceb2f]",
+        "placeholder": null,
+        "checked": false,
+        "value": "on"
+      }
+    ]
+  }
+]

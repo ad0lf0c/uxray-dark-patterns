@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.shein.com_20260615_224829",
+  "mean_dark": 0.9997732639312744,
+  "mean_fair": 0.4027807414531708,
+  "net_score": 0.5969925224781036,
+  "decision_zone": "uncertain",
+  "final_label": "inconclusive",
+  "top5_similar": [
+    [
+      "suspected",
+      1.0000001192092896
+    ],
+    [
+      "suspected",
+      0.9999091029167175
+    ],
+    [
+      "suspected",
+      0.9998854994773865
+    ],
+    [
+      "suspected",
+      0.9998832941055298
+    ],
+    [
+      "confirmed",
+      0.9998793601989746
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

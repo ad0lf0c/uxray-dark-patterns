@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.farfetch.com_20260615_223336",
+  "mean_dark": 0.6787702441215515,
+  "mean_fair": 0.9353489875793457,
+  "net_score": -0.2565787434577942,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "none",
+      0.9390261769294739
+    ],
+    [
+      "none",
+      0.938984215259552
+    ],
+    [
+      "none",
+      0.938799262046814
+    ],
+    [
+      "none",
+      0.9387649297714233
+    ],
+    [
+      "none",
+      0.938078761100769
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

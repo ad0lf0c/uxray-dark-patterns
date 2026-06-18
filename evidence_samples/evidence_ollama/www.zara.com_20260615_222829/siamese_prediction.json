@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.zara.com_20260615_222829",
+  "mean_dark": 0.3926693797111511,
+  "mean_fair": 0.9998504519462585,
+  "net_score": -0.6071810722351074,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "none",
+      1.0000001192092896
+    ],
+    [
+      "none",
+      0.9999827146530151
+    ],
+    [
+      "none",
+      0.9999797940254211
+    ],
+    [
+      "none",
+      0.9999788999557495
+    ],
+    [
+      "none",
+      0.9999774098396301
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

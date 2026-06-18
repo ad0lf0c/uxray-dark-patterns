@@ -1,0 +1,25 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.lidl.pt/q/search",
+    "method": "get",
+    "text": "Pesquisa",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "search",
+        "name": null,
+        "placeholder": "O que está à procura?",
+        "checked": false,
+        "value": null
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "action": "https://www.lidl.pt/",
+    "method": "get",
+    "text": "Antes de continuarmos: Informação sobre o processamento dos seus dados        Incorporamos vídeos do YouTube na nossa oferta online, os quais estão armazenados em https://www.youtube.com e podem ser reproduzidos diretamente a partir do nosso website. No entanto, ao aceder aos nossos websites, nenhum conteúdo do fornecedor terceiro YouTube (Google LLC) é carregado, nem o mesmo recebe informações suas. O conteúdo do fornecedor terceiro YouTube (Google LLC) apenas é carregado quando concede o seu consentimento. Neste caso, o YouTube (Google LLC) receberá informação de que acedeu à nossa página, bem como os dados de utilização tecnicamente necessários neste contexto. Além disso, o YouTube (Google LLC) fica então em posição de implementar tecnologias de rastreamento. Não temos influência sobre o tratamento de dados adicional por parte do fornecedor terceiro YouTube (Google LLC). O tratamento de dados ocorre com base no seu consentimento, de acordo com o artigo 6.º, n.º 1, alínea a) do RGPD.",
+    "inputs": []
+  }
+]

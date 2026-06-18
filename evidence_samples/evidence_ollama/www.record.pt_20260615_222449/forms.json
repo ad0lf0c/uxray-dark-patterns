@@ -1,0 +1,18 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.record.pt/pesquisa",
+    "method": "get",
+    "text": "Pesquisar",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "q",
+        "placeholder": "Pesquisar",
+        "checked": false,
+        "value": null
+      }
+    ]
+  }
+]

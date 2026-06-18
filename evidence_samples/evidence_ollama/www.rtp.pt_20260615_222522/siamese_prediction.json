@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.rtp.pt_20260615_222522",
+  "mean_dark": 0.4035278558731079,
+  "mean_fair": 0.9996888637542725,
+  "net_score": -0.5961610078811646,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "none",
+      1.0000001192092896
+    ],
+    [
+      "none",
+      0.9998083710670471
+    ],
+    [
+      "none",
+      0.999805748462677
+    ],
+    [
+      "none",
+      0.9998012781143188
+    ],
+    [
+      "none",
+      0.999798059463501
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

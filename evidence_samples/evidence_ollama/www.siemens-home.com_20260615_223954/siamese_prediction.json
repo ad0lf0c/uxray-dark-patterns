@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.siemens-home.com_20260615_223954",
+  "mean_dark": 0.9998640418052673,
+  "mean_fair": 0.39907968044281006,
+  "net_score": 0.6007843613624573,
+  "decision_zone": "uncertain",
+  "final_label": "inconclusive",
+  "top5_similar": [
+    [
+      "suspected",
+      1.0
+    ],
+    [
+      "suspected",
+      0.9999558925628662
+    ],
+    [
+      "confirmed",
+      0.999946653842926
+    ],
+    [
+      "confirmed",
+      0.9999455213546753
+    ],
+    [
+      "suspected",
+      0.9999378323554993
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

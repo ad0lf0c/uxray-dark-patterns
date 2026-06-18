@@ -1,0 +1,18 @@
+[
+  {
+    "index": 0,
+    "type": "checkbox",
+    "name": "checkbox",
+    "checked": false,
+    "label": "Li e concordo com a Política de Privacidade da Samsung.com",
+    "id": "privacy-terms"
+  },
+  {
+    "index": 1,
+    "type": "checkbox",
+    "name": "checkbox",
+    "checked": false,
+    "label": "Ao marcar esta caixa, aceito as atualizações de serviço da Samsung, incluindo:",
+    "id": "privacy-terms2"
+  }
+]

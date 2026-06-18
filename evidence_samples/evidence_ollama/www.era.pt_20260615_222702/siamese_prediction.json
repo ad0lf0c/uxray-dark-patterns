@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.era.pt_20260615_222702",
+  "mean_dark": 0.39095115661621094,
+  "mean_fair": 0.9997497200965881,
+  "net_score": -0.6087985634803772,
+  "decision_zone": "fair_banner_likely",
+  "final_label": "none",
+  "top5_similar": [
+    [
+      "none",
+      1.0
+    ],
+    [
+      "none",
+      0.999882161617279
+    ],
+    [
+      "none",
+      0.9998814463615417
+    ],
+    [
+      "none",
+      0.9998784065246582
+    ],
+    [
+      "none",
+      0.9998748898506165
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

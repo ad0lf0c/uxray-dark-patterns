@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.froiz.pt_20260615_223640",
+  "mean_dark": 0.9998499155044556,
+  "mean_fair": 0.39790335297584534,
+  "net_score": 0.6019465625286102,
+  "decision_zone": "uncertain",
+  "final_label": "inconclusive",
+  "top5_similar": [
+    [
+      "confirmed",
+      1.0000001192092896
+    ],
+    [
+      "confirmed",
+      0.9999508261680603
+    ],
+    [
+      "confirmed",
+      0.9999464750289917
+    ],
+    [
+      "suspected",
+      0.9999399781227112
+    ],
+    [
+      "confirmed",
+      0.9999375939369202
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}

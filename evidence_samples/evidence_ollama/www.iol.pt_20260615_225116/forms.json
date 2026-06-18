@@ -1,0 +1,18 @@
+[
+  {
+    "index": 0,
+    "action": "https://www.iol.pt/pesquisa",
+    "method": "get",
+    "text": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "term",
+        "placeholder": "Pesquisa",
+        "checked": false,
+        "value": null
+      }
+    ]
+  }
+]

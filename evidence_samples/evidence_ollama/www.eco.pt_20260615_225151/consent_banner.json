@@ -1,0 +1,81 @@
+{
+  "detected": true,
+  "selector_matched": "[role='dialog'][aria-modal='true']",
+  "banner_text": "Damos valor à sua privacidade\nNós e os nossos 1713 parceiros armazenamos e/ou acedemos a informações num dispositivo, como cookies, e processamos dados pessoais, como identificadores únicos e informações padrão enviadas por um dispositivo para publicidade e conteúdos personalizados, medição de publicidade e conteúdos, pesquisa de audiências e desenvolvimento de serviços. Com a sua permissão, nós e os nossos parceiros poderemos usar identificação e dados de geolocalização precisos através da procura de dispositivos. Poderá clicar para consentir o processamento por nossa parte e pela parte dos nossos 1713 parceiros, conforme descrito acima. Em alternativa, pode aceder a informações mais pormenorizadas e alterar as suas preferências antes de consentir ou recusar o consentimento. Tenha em atenção que algum processamento dos seus dados pessoais poderá não exigir o seu consentimento, mas que tem o direito de se opor a esse processamento. As suas preferências serão aplicadas apenas a este website. Você pode alterar suas preferências ou retirar seu consentimento a qualquer momento voltando a este site e clicando no botão \"Privacidade\" na parte inferior da página.\nObserve também que este website/aplicação usa um ou mais serviços da Google e pode recolher e armazenar informações, incluindo, entre outras, a sua visita ou comportamento de uso. Pode clicar para conceder ou recusar o consentimento à Google e às suas tags de terceiros para usar os seus dados para os fins especificados abaixo na secção de consentimento da Google abaixo.\nMAIS OPÇÕES\nCONCORDO",
+  "buttons": [
+    {
+      "index": 0,
+      "tag": "button",
+      "text": "parceiros",
+      "id": null,
+      "class": "qc-cmp2-link-inline css-1cbuzjc",
+      "visible": true,
+      "x": 522,
+      "y": 402,
+      "width": 64,
+      "height": 14,
+      "area": 902,
+      "color": "rgb(0, 175, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontWeight": "500",
+      "border": "0px none rgb(0, 175, 0)",
+      "opacity": "1"
+    },
+    {
+      "index": 1,
+      "tag": "button",
+      "text": "MAIS OPÇÕES",
+      "id": null,
+      "class": " css-1orgv3",
+      "visible": true,
+      "x": 372,
+      "y": 847,
+      "width": 334,
+      "height": 40,
+      "area": 13341,
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(0, 175, 0)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "border": "1px solid rgb(255, 255, 255)",
+      "opacity": "1"
+    },
+    {
+      "index": 2,
+      "tag": "button",
+      "text": "CONCORDO",
+      "id": null,
+      "class": " css-rc6nkm",
+      "visible": true,
+      "x": 728,
+      "y": 847,
+      "width": 332,
+      "height": 40,
+      "area": 13299,
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(0, 175, 0)",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "border": "0px none rgb(255, 255, 255)",
+      "opacity": "1"
+    }
+  ],
+  "checkboxes": [],
+  "has_accept_all": false,
+  "has_reject_all": false,
+  "has_manage_options": true,
+  "accept_reject_area_ratio": null,
+  "preference_panel": {
+    "checkboxes": [],
+    "total_count": 0,
+    "pre_checked_non_essential_count": 0,
+    "pre_checked_non_essential": []
+  },
+  "dismiss_method": "escape_key",
+  "screenshots": [
+    "screenshot_with_banner.png",
+    "screenshot_consent_preferences.png"
+  ],
+  "errors": []
+}

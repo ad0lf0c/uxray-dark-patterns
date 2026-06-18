@@ -1,0 +1,17 @@
+{
+  "url_requested": "https://www.eportuguese.gov.pt",
+  "url_final": null,
+  "title": null,
+  "captured_at": "2026-06-15T22:31:24",
+  "browser_channel": "chromium",
+  "viewport": {
+    "width": 1440,
+    "height": 1200
+  },
+  "output_dir": "/home/uxray/uxray/siamese_prototype/evidence/www.eportuguese.gov.pt_20260615_223124",
+  "status": "failed",
+  "stats": {},
+  "keyword_hits": [],
+  "files": {},
+  "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.eportuguese.gov.pt/\nCall log:\n  - navigating to \"https://www.eportuguese.gov.pt/\", waiting until \"domcontentloaded\"\n"
+}

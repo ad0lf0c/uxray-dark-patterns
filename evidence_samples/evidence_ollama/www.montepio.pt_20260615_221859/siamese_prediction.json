@@ -1,0 +1,32 @@
+{
+  "evidence_folder": "evidence/www.montepio.pt_20260615_221859",
+  "mean_dark": 0.9998303055763245,
+  "mean_fair": 0.39283862709999084,
+  "net_score": 0.6069916784763336,
+  "decision_zone": "uncertain",
+  "final_label": "inconclusive",
+  "top5_similar": [
+    [
+      "suspected",
+      1.000000238418579
+    ],
+    [
+      "confirmed",
+      0.9999228119850159
+    ],
+    [
+      "confirmed",
+      0.9999033808708191
+    ],
+    [
+      "suspected",
+      0.9998992681503296
+    ],
+    [
+      "confirmed",
+      0.9998987913131714
+    ]
+  ],
+  "llm_results": [],
+  "majority_vote": null
+}
