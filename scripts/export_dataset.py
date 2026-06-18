@@ -8,8 +8,11 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 
-# Edit these labels if your latest report changed any site classification.
 # These are researcher-assigned reference labels, not external ground truth.
+# Important: status is NOT taken from this mapping.
+# Status is normalised later:
+#   - no usable score + almost no extracted data => blocked
+#   - everything else => analysed
 MANUAL_REFERENCE_LABELS = {
     "www.worten.pt": "confirmed",
     "www.auchan.pt": "confirmed",
@@ -21,6 +24,7 @@ MANUAL_REFERENCE_LABELS = {
     "www.nos.pt": "blocked",
     "www.publico.pt": "blocked",
     "expresso.pt": "blocked",
+    "www.expresso.pt": "blocked",
     "www.fnac.pt": "blocked",
 
     "www.cgd.pt": "confirmed",
@@ -28,6 +32,7 @@ MANUAL_REFERENCE_LABELS = {
     "www.fidelidade.pt": "confirmed",
     "www.rtp.pt": "suspected",
     "www.sapo.pt": "inconclusive",
+    "sapo.pt": "inconclusive",
     "www.pingodoce.pt": "suspected",
     "www.lidl.pt": "suspected",
     "www.ageas.pt": "blocked",
@@ -47,6 +52,7 @@ SECTORS = {
     "www.nos.pt": "Telecom",
     "www.publico.pt": "News",
     "expresso.pt": "News",
+    "www.expresso.pt": "News",
     "www.fnac.pt": "Electronics retail",
 
     "www.cgd.pt": "Banking",
@@ -54,6 +60,7 @@ SECTORS = {
     "www.fidelidade.pt": "Insurance",
     "www.rtp.pt": "Media",
     "www.sapo.pt": "Media",
+    "sapo.pt": "Media",
     "www.pingodoce.pt": "Supermarket",
     "www.lidl.pt": "Supermarket",
     "www.ageas.pt": "Insurance",
@@ -77,10 +84,54 @@ MANAGE_TERMS = [
     "personalizar", "gerir", "saiba mais", "settings", "manage", "preferences"
 ]
 
-BOT_TERMS = [
-    "captcha", "robot", "verify you are human", "access denied",
-    "forbidden", "blocked", "cloudflare", "anti-bot", "unusual traffic"
+
+FIELDNAMES = [
+    "site_folder",
+    "domain",
+    "sector",
+    "url_requested",
+    "url_final",
+    "title",
+    "scan_date",
+    "status",
+    "reference_label",
+    "rule_score",
+    "risk_level",
+    "detected_patterns",
+    "keyword_hits_count",
+    "keyword_hits",
+    "visible_text_chars",
+    "buttons_links_count",
+    "forms_count",
+    "checkboxes_radios_count",
+    "visible_buttons_count",
+    "accept_buttons_count",
+    "reject_buttons_count",
+    "manage_buttons_count",
+    "max_accept_area",
+    "max_reject_area",
+    "accept_reject_area_ratio",
+    "checked_inputs_count",
+    "evidence_files",
 ]
+
+
+# For true blocked rows, keep only ID/capture fields up to "status".
+# Everything after "status" is blank.
+EMPTY_AFTER_STATUS_FIELDS = FIELDNAMES[FIELDNAMES.index("reference_label"):]
+
+
+PUBLIC_EVIDENCE_FILES = {
+    "screenshot.png",
+    "screenshot_with_banner.png",
+    "screenshot_consent_preferences.png",
+    "buttons.json",
+    "forms.json",
+    "checkboxes.json",
+    "summary.json",
+    "consent_banner.json",
+    "report.md",
+}
 
 
 def read_json(path, default):
@@ -116,6 +167,26 @@ def scan_date_from_folder(folder_name):
         return ""
 
 
+def to_float_or_none(value):
+    text = str(value or "").strip()
+    if text == "":
+        return None
+    try:
+        return float(text)
+    except ValueError:
+        return None
+
+
+def to_int(value):
+    text = str(value or "").strip()
+    if text == "":
+        return 0
+    try:
+        return int(float(text))
+    except ValueError:
+        return 0
+
+
 def parse_report(report_text):
     score = ""
     risk_level = ""
@@ -148,18 +219,70 @@ def button_area(button):
         return 0.0
 
 
-def infer_status(reference_label, title, visible_text, has_report):
-    if reference_label in {"blocked", "inconclusive"}:
-        return reference_label
+def normalise_button_list(value):
+    if isinstance(value, list):
+        return value
+    if isinstance(value, dict):
+        for key in ("buttons", "links", "items", "elements"):
+            if isinstance(value.get(key), list):
+                return value[key]
+    return []
 
-    combined = f"{title}\n{visible_text[:3000]}".lower()
-    if any(term in combined for term in BOT_TERMS):
-        return "blocked"
 
-    if has_report:
-        return "analysed"
+def normalise_form_list(value):
+    if isinstance(value, list):
+        return value
+    if isinstance(value, dict):
+        for key in ("forms", "items", "elements"):
+            if isinstance(value.get(key), list):
+                return value[key]
+    return []
 
-    return "captured"
+
+def normalise_checkbox_list(value):
+    if isinstance(value, list):
+        return value
+    if isinstance(value, dict):
+        collected = []
+        for key in ("checkboxes", "radios", "inputs", "items", "elements"):
+            if isinstance(value.get(key), list):
+                collected.extend(value[key])
+        return collected
+    return []
+
+
+def has_meaningful_data(row):
+    return any([
+        to_int(row.get("visible_text_chars")) > 0,
+        to_int(row.get("buttons_links_count")) > 0,
+        to_int(row.get("forms_count")) > 0,
+        to_int(row.get("checkboxes_radios_count")) > 0,
+        to_int(row.get("visible_buttons_count")) > 0,
+    ])
+
+
+def normalise_status_and_empty_blocked(row):
+    """
+    Final dataset rule:
+    - If there is no usable score and almost no extracted data, status = blocked.
+    - Otherwise status = analysed, even if the old manual label was "blocked".
+    - True blocked rows keep only fields up to status; all fields after status are empty.
+    """
+    score = to_float_or_none(row.get("rule_score"))
+    meaningful = has_meaningful_data(row)
+
+    if (score is None or score <= 0) and not meaningful:
+        row["status"] = "blocked"
+        for field in EMPTY_AFTER_STATUS_FIELDS:
+            row[field] = ""
+    else:
+        row["status"] = "analysed"
+        if (row.get("reference_label") or "").strip().lower() == "blocked":
+            row["reference_label"] = "unlabelled"
+        if not (row.get("reference_label") or "").strip():
+            row["reference_label"] = "unlabelled"
+
+    return row
 
 
 def main():
@@ -184,9 +307,9 @@ def main():
             continue
 
         summary = read_json(folder / "summary.json", {})
-        buttons = read_json(folder / "buttons.json", [])
-        forms = read_json(folder / "forms.json", [])
-        checkboxes = read_json(folder / "checkboxes.json", [])
+        buttons = normalise_button_list(read_json(folder / "buttons.json", []))
+        forms = normalise_form_list(read_json(folder / "forms.json", []))
+        checkboxes = normalise_checkbox_list(read_json(folder / "checkboxes.json", []))
         report_text = read_text(folder / "report.md")
         visible_text = read_text(folder / "visible_text.txt")
 
@@ -197,6 +320,10 @@ def main():
         parsed_domain = urlparse(url_final or url_requested).netloc
         domain = parsed_domain or folder_domain
 
+        # Normalise sapo.pt so mappings work even when the final URL drops "www."
+        if domain == "sapo.pt" and folder_domain == "www.sapo.pt":
+            domain = "www.sapo.pt"
+
         title = summary.get("title", "")
         stats = summary.get("stats", {})
         keyword_hits = summary.get("keyword_hits", [])
@@ -205,7 +332,10 @@ def main():
 
         visible_buttons = [
             b for b in buttons
-            if b.get("visible") is True and button_area(b) > 0 and (b.get("text") or "").strip()
+            if isinstance(b, dict)
+            and b.get("visible") is True
+            and button_area(b) > 0
+            and (b.get("text") or "").strip()
         ]
 
         accept_buttons = [
@@ -231,36 +361,26 @@ def main():
         else:
             accept_reject_ratio = ""
 
-        checked_inputs_count = sum(1 for c in checkboxes if c.get("checked") is True)
-
-        reference_label = MANUAL_REFERENCE_LABELS.get(domain, "unlabelled")
-        sector = SECTORS.get(domain, "Unknown")
-        status = infer_status(reference_label, title, visible_text, bool(report_text))
+        checked_inputs_count = sum(
+            1 for c in checkboxes
+            if isinstance(c, dict) and c.get("checked") is True
+        )
 
         evidence_files = [
             f.name for f in folder.iterdir()
-            if f.is_file() and f.name in {
-                "screenshot.png",
-                "page.html",
-                "visible_text.txt",
-                "buttons.json",
-                "forms.json",
-                "checkboxes.json",
-                "summary.json",
-                "report.md",
-            }
+            if f.is_file() and f.name in PUBLIC_EVIDENCE_FILES
         ]
 
         row = {
             "site_folder": folder.name,
             "domain": domain,
-            "sector": sector,
+            "sector": SECTORS.get(domain, "Unknown"),
             "url_requested": url_requested,
             "url_final": url_final,
             "title": title,
             "scan_date": scan_date_from_folder(folder.name),
-            "status": status,
-            "reference_label": reference_label,
+            "status": "",
+            "reference_label": MANUAL_REFERENCE_LABELS.get(domain, "unlabelled"),
             "rule_score": score,
             "risk_level": risk_level,
             "detected_patterns": "; ".join(detected_patterns),
@@ -281,40 +401,10 @@ def main():
             "evidence_files": "; ".join(sorted(evidence_files)),
         }
 
-        rows.append(row)
-
-    fieldnames = [
-        "site_folder",
-        "domain",
-        "sector",
-        "url_requested",
-        "url_final",
-        "title",
-        "scan_date",
-        "status",
-        "reference_label",
-        "rule_score",
-        "risk_level",
-        "detected_patterns",
-        "keyword_hits_count",
-        "keyword_hits",
-        "visible_text_chars",
-        "buttons_links_count",
-        "forms_count",
-        "checkboxes_radios_count",
-        "visible_buttons_count",
-        "accept_buttons_count",
-        "reject_buttons_count",
-        "manage_buttons_count",
-        "max_accept_area",
-        "max_reject_area",
-        "accept_reject_area_ratio",
-        "checked_inputs_count",
-        "evidence_files",
-    ]
+        rows.append(normalise_status_and_empty_blocked(row))
 
     with out_csv.open("w", encoding="utf-8", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer = csv.DictWriter(f, fieldnames=FIELDNAMES)
         writer.writeheader()
         writer.writerows(rows)
 
@@ -322,7 +412,12 @@ def main():
         for row in rows:
             f.write(json.dumps(row, ensure_ascii=False) + "\n")
 
+    analysed = sum(1 for row in rows if row["status"] == "analysed")
+    blocked = sum(1 for row in rows if row["status"] == "blocked")
+
     print(f"Exported {len(rows)} rows")
+    print(f"Analysed: {analysed}")
+    print(f"Blocked: {blocked}")
     print(f"CSV:   {out_csv}")
     print(f"JSONL: {out_jsonl}")
 
